@@ -200,5 +200,8 @@ geckodriver.log
 
 
 # test file
-
 Python/Test.ipynb
+
+
+# CSV
+*.csv#
