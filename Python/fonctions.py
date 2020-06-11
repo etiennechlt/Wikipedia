@@ -8,8 +8,6 @@ import time
 
 
 
-def mult(a=0, b=0):
-    return a*b
 
 
 # Find the key of the value 'kv'  in a nested dictionnary
@@ -28,8 +26,6 @@ def findkeys(node, kv):
  
 
 
-
-# 
 ### src countains Qid, Topic, Probability, Page Id, Wiki_DB, etc and the old 'modularity_class' ###     
 ### dst countains the new 'modularity_class' to update to ###
 
@@ -45,6 +41,102 @@ def change_modularity(src, dst):
 
 def string_separator(df):
     for index, row in df.iterrows():
-        topic_str = row['topic']
+        topic_str = row['Topic']
         topic_list = topic_str.split('.') 
-        df.loc[df['topic'] == topic_str, 'subtopic'] = topic_list[-1]
+        df.loc[df['Topic'] == topic_str, 'Subtopic'] = topic_list[-1]
+
+        
+        
+### Add the column 'name' from src to dst
+def add_column(src, dst, name):
+    for page_index in src['Id']:
+        dst.loc[dst['Id'] == page_index, name] = src.loc[src['Id'] == page_index, name].item()
+    return dst
+
+
+
+# Normalize the column 'name'
+def df_normalize(df, name):
+#     df[name] = df[name] / df[name].max()
+#     df[name]=(df[name]-df[name].min())/(df[name].max()-df[name].min())
+    df[name] = (df[name] - df[name].mean() ) / df[name].std()
+    return df
+
+
+# Normalize the column 'name'
+def series_normalize(df, name):
+#     df[name] = df[name] / df[name].max()
+#     df[name]=(df[name]-df[name].min())/(df[name].max()-df[name].min())
+    s = (df[name] - df[name].mean() ) / df[name].std()
+    return s
+
+
+
+
+# Count the number of topics for each cluster of 'modularity_class'
+def count_topic(dataFrame):
+    # Deleting 'Biography' because it's overrepresented and not 
+    dataFrame = dataFrame.loc[dataFrame['Topic'] != 'Culture.Biography.Biography*']
+    dataFrame = dataFrame.loc[dataFrame['Topic'] != 'Compilation.List_Disambig']
+    dataFrame = dataFrame.loc[~dataFrame['Topic'].str.contains('Geography')]
+    
+    
+    topic_group = ((dataFrame.groupby(['Topic', 'modularity_class']))).count()
+
+    total_cluster = ((dataFrame.groupby(['modularity_class']))).count()
+    total_cluster = total_cluster['Qid'].to_frame()
+    total_cluster.rename(columns={'Qid':'Total'}, inplace=True)
+
+    topic_group = topic_group['Qid'].to_frame().reset_index('Topic')
+    topic_group.rename(columns={'Qid':'Count'}, inplace=True)
+    topic_group.sort_values(by = ['modularity_class', 'Count'], inplace=True, ascending = [True, False])
+
+    topic_group['Total'] = total_cluster['Total']
+    topic_group['Degree Ratio'] = topic_group['Count'] / topic_group['Total']
+    topic_group['Subtopic'] = ''
+    string_separator(topic_group)
+
+    for page in topic_group.iterrows():
+        modularity = page[0]
+        topic = page[1]['Topic']
+        count = page[1]['Count']
+        total = page[1]['Total']
+        ratio = page[1]['Degree Ratio']
+        subtopic = page[1]['Subtopic']
+        dataFrame.loc[(dataFrame['modularity_class'] == modularity) & (dataFrame['Topic'] == topic), 'Count'] = count
+        dataFrame.loc[(dataFrame['modularity_class'] == modularity) & (dataFrame['Topic'] == topic), 'Total'] = total    
+        dataFrame.loc[(dataFrame['modularity_class'] == modularity) & (dataFrame['Topic'] == topic), 'Degree Ratio'] = ratio
+        dataFrame.loc[(dataFrame['modularity_class'] == modularity) & (dataFrame['Topic'] == topic), 'Subtopic'] = subtopic     
+    
+    return dataFrame
+
+
+
+
+
+def weight_topic(df, w_deg=1, w_prob=1, w_count=1, w_between=1):
+#     weight = w_deg*df['Degree'] + w_prob*df['Probability'] + w_count*df['Count'] + w_between*df['Betweenness_Centrality'] 
+#     weight = df['Probability'] * df['Count'] * df['betweenesscentrality'] 
+    weight = df['Probability'] * df['Count'] * df['Degree'] 
+    df['Weight'] = weight
+    return df
+
+
+
+def weight_topic_series(df, w_deg=5, w_count=1, w_between=10):
+#     prob = df['Probability']
+#     deg = series_normalize(df, 'Degree').multiply(w_deg)
+#     count = series_normalize(df, 'Count').multiply(w_count)
+#     bw = series_normalize(df, 'betweenesscentrality').multiply(w_between)
+#     weight = deg.add(count)
+#     weight = weight.add(bw)
+#     weight = weight.multiply(prob)
+    prob = df['Probability']
+    deg = series_normalize(df, 'Degree')
+    count = series_normalize(df, 'Count')
+    ratio = df['Ratio']
+    bw = series_normalize(df, 'betweenesscentrality')   
+#     weight = prob * ( w_deg * deg + w_count * count + w_between * bw )
+    weight = prob * ratio * deg
+    df['Weight'] = weight
+    return df
