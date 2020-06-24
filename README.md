@@ -1,9 +1,3 @@
 # Wikipedia
 
 
-TODO:
-
-
-
-
-ISSUES:
