@@ -77,12 +77,6 @@ def series_normalize(df, name):
 # Count the number of topics for each cluster of 'modularity_class'
 def count_topic(dataFrame):
     
-    # Deleting 'Biography' & 'Geography' because it's overrepresented and not representative of events
-#     dataFrame = dataFrame.loc[dataFrame['Topic'] != 'Culture.Biography.Biography*']
-#     dataFrame = dataFrame.loc[dataFrame['Topic'] != 'Compilation.List_Disambig']
-#     dataFrame = dataFrame.loc[~dataFrame['Topic'].str.contains('Geography')]
-    
-    
     topic_group = ((dataFrame.groupby(['Topic', 'modularity_class']))).count()
 
     total_cluster = ((dataFrame.groupby(['modularity_class']))).count()
@@ -117,44 +111,24 @@ def count_topic(dataFrame):
 
 
 
-
-def weight_topic(df, w_deg=1, w_prob=1, w_count=1, w_between=1):
-#     weight = w_deg*df['Degree'] + w_prob*df['Probability'] + w_count*df['Count'] + w_between*df['Betweenness_Centrality'] 
-#     weight = df['Probability'] * df['Count'] * df['betweenesscentrality'] 
-    weight = df['Probability'] * df['Count'] * df['Degree'] 
+# Weighting each page with its corresponding weight=prob*count*weighting_var 
+def weight_topic(df, weighting_var='Degree'):
+    weight = df['Probability'] * df['Count'] * df[weighting_var] 
     df['Weight'] = weight
     
     # Weighting 'Biography' & 'Geography' at 0 because it's overrepresented and not representative of events
     df.loc[df['Topic'].str.contains('Culture.Biography'), 'Weight'] = 0
     df.loc[df['Topic'].str.contains('Compilation.List_Disambig'), 'Weight'] = 0
     df.loc[df['Topic'].str.contains('Geography'), 'Weight'] = 0
+    df.loc[df['Topic'].str.contains('STEM.STEM*'), 'Weight'] = 0
     
     return df
 
 
 
-def weight_topic_series(df, w_deg=5, w_count=1, w_between=10):
-#     prob = df['Probability']
-#     deg = series_normalize(df, 'Degree').multiply(w_deg)
-#     count = series_normalize(df, 'Count').multiply(w_count)
-#     bw = series_normalize(df, 'betweenesscentrality').multiply(w_between)
-#     weight = deg.add(count)
-#     weight = weight.add(bw)
-#     weight = weight.multiply(prob)
-    prob = df['Probability']
-    deg = series_normalize(df, 'Degree')
-    count = series_normalize(df, 'Count')
-    ratio = df['Ratio']
-    bw = series_normalize(df, 'betweenesscentrality')   
-#     weight = prob * ( w_deg * deg + w_count * count + w_between * bw )
-    weight = prob * ratio * deg
-    df['Weight'] = weight
-    return df
 
 
-
-
-
+# Add the attribute called 'attribute_name' from 'df' to the 'graph'
 def add_graph_attribute(graph, df, attribute_name):
     dic = df[['Id', attribute_name]].set_index(keys='Id')
     dic.index = dic.index.astype('int64')
