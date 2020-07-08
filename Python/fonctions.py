@@ -77,12 +77,6 @@ def series_normalize(df, name):
 # Count the number of topics for each cluster of 'modularity_class'
 def count_topic(dataFrame):
     
-    # Deleting 'Biography' & 'Geography' because it's overrepresented and not representative of events
-#     dataFrame = dataFrame.loc[dataFrame['Topic'] != 'Culture.Biography.Biography*']
-#     dataFrame = dataFrame.loc[dataFrame['Topic'] != 'Compilation.List_Disambig']
-#     dataFrame = dataFrame.loc[~dataFrame['Topic'].str.contains('Geography')]
-    
-    
     topic_group = ((dataFrame.groupby(['Topic', 'modularity_class']))).count()
 
     total_cluster = ((dataFrame.groupby(['modularity_class']))).count()
@@ -118,18 +112,14 @@ def count_topic(dataFrame):
 
 
 
-def weight_topic(df, w_deg=1, w_prob=1, w_count=1, w_between=1):
-    weight = df['Probability'] * df['Count'] * df['Degree'] 
+def weight_topic(df, list_ignored_topics):
+#     weight = df['Probability'] * df['Count'] * df['Degree'] 
+    weight = df['Degree'] * df['Probability']
     df['Weight'] = weight
     
-    # Weighting theses topics at 0 because it's overrepresented and not representative of events
-    df.loc[df['Topic'].str.contains('Culture.Biography'), 'Weight'] = 0
-    df.loc[df['Topic'].str.contains('Compilation.List_Disambig'), 'Weight'] = 0
-    df.loc[df['Topic'].str.contains('Geography'), 'Weight'] = 0
-    df.loc[df['Topic'].str.contains('STEM.STEM*'), 'Weight'] = 0
-    
+    # Weighting theses topics at 0 because it's overrepresented and/or not representative of events
+    df.loc[df['Topic'].isin(list_ignored_topics), 'Weight'] = 0
     return df
-
 
 
 
@@ -152,7 +142,7 @@ def add_graph_attribute(graph, df, attribute_name):
     
     
     
-    
+ 
     
     
     
