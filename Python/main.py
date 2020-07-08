@@ -18,10 +18,13 @@ from topic_graph import *
 
 
 
-# region, date_beg, date_end, path, graph_type, list_ignored_topics,prob_threshold
+### Automate the functions used in the notebook passing the arguments  <region> <date_beg> <date_end> ###
+### Example of use in terminal : "python3 main.py FR 20180901 20180915" ### 
+### NB: needs the graph file in "Results/'Region'/'Region'_'datebeg'_'dateend'/graph.gexf" ###
+
 def main():
     if (len(sys.argv) < 4):
-        raise ValueError("Wrong arguments : <region> <date_beg> <date_end> <path>")
+        raise ValueError("Wrong arguments : <region> <date_beg> <date_end>")
     param =Parameters(*sys.argv[1:])
     try:
         dataFrame = init_graph(param)
