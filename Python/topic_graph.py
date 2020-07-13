@@ -25,7 +25,7 @@ pd.set_option('mode.chained_assignment', None)
 
 ### Making a class to englobe all variables ###
 class Parameters:
-    ignored_topics = ['Culture.Biography', 'Compilation.List_Disambig', 'Geography', 'STEM.STEM*']
+    ignored_topics = ['Culture.Biography*', 'Compilation.List_Disambig', 'Geography', 'STEM.STEM*']
     
     def __init__(self, region, date_beg, date_end, path='', graph_type='gexf', list_ignored_topics=ignored_topics,                                   prob_threshold=0.1, save=True, plot=False):
         self.region = region
@@ -97,13 +97,15 @@ def init_graph(param):
 ### Associate the 'Qid' value of Wikipedia pages in the DataFrame ###
 ### Give '-1' value if an error has occured during the query      ###
 
-def match_Qids(dataFrame, param):
+def match_Qids(param):
     region = param.region
     date_beg = param.date_beg
     date_end = param.date_end
     path = param.path
     graph_type = param.graph_type
     save = param.save
+    
+    dataFrame = pd.read_csv(path + 'nodes.csv')
     
     # URL for the quieries
     urls = "https://"+region+".wikipedia.org/w/api.php?action=query&prop=pageprops&format=json&pageids="
@@ -145,7 +147,7 @@ def match_Qids(dataFrame, param):
 
 ### Extracting topic pages from database API ###
 
-def match_topic(dataFrame, param):
+def match_topic(param):
     region = param.region
     date_beg = param.date_beg
     date_end = param.date_end
@@ -200,7 +202,7 @@ def match_topic(dataFrame, param):
 
 
 ### Counting the number of views per page using pageviews.toolforge.org API ###
-def count_views(dataFrame, param):
+def count_views(param):
     region = param.region
     date_beg = param.date_beg
     date_end = param.date_end
@@ -252,7 +254,7 @@ def count_views(dataFrame, param):
 
 
 ### Saving to nodes attributes into the graph ###
-def save_graph_attributes(dataFrame, param):
+def save_graph_attributes(param):
     print("Saving graph attributes...", end="\r")
     
     region = param.region
@@ -305,13 +307,17 @@ def save_graph_attributes(dataFrame, param):
     add_graph_attribute(graph, nodes, 'Weight')
     add_graph_attribute(graph, nodes, 'Views')
 
-    ### With .GRAPHML ###
-    if (graph_type == 'graphml'):
-        nx.write_graphml_lxml(graph, path + 'filled_graph.graphml')  
+#     ### With .GRAPHML ###
+#     if (graph_type == 'graphml'):
+#         nx.write_graphml_lxml(graph, path + 'filled_graph.graphml')  
 
-    ### With .GEXF ###
-    if (graph_type == 'gexf'):
-        nx.write_gexf(graph, path + 'filled_graph.gexf')  
+#     ### With .GEXF ###
+#     if (graph_type == 'gexf'):
+#         nx.write_gexf(graph, path + 'filled_graph.gexf')  
+        
+    # Save the graph
+    nx.write_gexf(graph, path + 'filled_graph.gexf')  
+
         
     # Save the result
     if (save==True):
@@ -332,7 +338,7 @@ def save_graph_attributes(dataFrame, param):
 ### Save the number of each topic per cluster and their ratio ###
 ### Note : here only ignore 'Culture.Biography' topic ###
 
-def count_topic_per_cluster(dataFrame, param):
+def count_topic_per_cluster(param):
     print("Counting topics per clusters...", end="\r")
     region = param.region
     date_beg = param.date_beg

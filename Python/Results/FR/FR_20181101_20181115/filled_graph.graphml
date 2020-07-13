@@ -32,10 +32,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q25091087</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9554476737976072</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.5257037281990051</data>
   <data key="d16">1476.0</data>
 </node>
 <node id="7247022">
@@ -70,10 +70,10 @@
   <data key="d9">2.0</data>
   <data key="d10">715.3333333333331</data>
   <data key="d11">Q3150469</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">1.7012550315856934</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.2562421560287476</data>
   <data key="d16">25147.0</data>
 </node>
 <node id="63098">
@@ -108,10 +108,10 @@
   <data key="d9">4.0</data>
   <data key="d10">17467.88884152419</data>
   <data key="d11">Q759</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">15.878924369812013</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.8555315732955933</data>
   <data key="d16">4269.0</data>
 </node>
 <node id="1621318">
@@ -165,10 +165,10 @@
   <data key="d9">1.0</data>
   <data key="d10">31.098852864156623</data>
   <data key="d11">Q822718</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9120932817459106</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.3201017752289772</data>
   <data key="d16">2094.0</data>
 </node>
 <node id="2345486">
@@ -184,10 +184,10 @@
   <data key="d9">2.0</data>
   <data key="d10">24.1</data>
   <data key="d11">Q44822</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.98438823223114</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">1.9431480169296265</data>
   <data key="d16">2867.0</data>
 </node>
 <node id="238672">
@@ -203,10 +203,10 @@
   <data key="d9">5.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q78487</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.997199296951294</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.3040844798088074</data>
   <data key="d16">2431.0</data>
 </node>
 <node id="1328">
@@ -263,7 +263,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">3.0000300407409677</data>
+  <data key="d15">0.0</data>
   <data key="d16">2614.0</data>
 </node>
 <node id="5631582">
@@ -301,7 +301,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">4.452106359958648</data>
+  <data key="d15">0.0</data>
   <data key="d16">2532.0</data>
 </node>
 <node id="12083678">
@@ -374,10 +374,10 @@
   <data key="d9">9.0</data>
   <data key="d10">697.0000000000001</data>
   <data key="d11">Q173633</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9986443519592287</data>
+  <data key="d14">Sports</data>
+  <data key="d15">1.9913569688797</data>
   <data key="d16">2814.0</data>
 </node>
 <node id="1300762">
@@ -393,10 +393,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q581536</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9953737258911133</data>
+  <data key="d12">STEM.Physics</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Physics</data>
+  <data key="d15">0.6831850409507751</data>
   <data key="d16">2251.0</data>
 </node>
 <node id="8331746">
@@ -431,10 +431,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3084383</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9267608523368835</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.6681304872035979</data>
   <data key="d16">2694.0</data>
 </node>
 <node id="340544">
@@ -450,10 +450,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q768890</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9863731861114502</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.8031837940216064</data>
   <data key="d16">2292.0</data>
 </node>
 <node id="1697974">
@@ -488,10 +488,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3323291</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">1.7340915203094482</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">1.2595692873001099</data>
   <data key="d16">3067.0</data>
 </node>
 <node id="355566">
@@ -510,7 +510,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">24.00024032592774</data>
+  <data key="d15">0.0</data>
   <data key="d16">3549.0</data>
 </node>
 <node id="148638">
@@ -545,10 +545,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q267001</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9989112615585328</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.13297423720359802</data>
   <data key="d16">3519.0</data>
 </node>
 <node id="3470166">
@@ -586,7 +586,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d15">0.0</data>
   <data key="d16">2413.0</data>
 </node>
 <node id="9005082">
@@ -621,10 +621,10 @@
   <data key="d9">2.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q1284283</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.995516300201416</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.8298177123069763</data>
   <data key="d16">2925.0</data>
 </node>
 <node id="3529080">
@@ -659,10 +659,10 @@
   <data key="d9">10.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3154660</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9989112615585328</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.10088862478733064</data>
   <data key="d16">1866.0</data>
 </node>
 <node id="11604880">
@@ -678,10 +678,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q50415393</data>
-  <data key="d12">Geography.Regions.Europe.Northern_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Northern_Europe</data>
-  <data key="d15">1.3719189167022705</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.9220535755157472</data>
   <data key="d16">2777.0</data>
 </node>
 <node id="879844">
@@ -697,10 +697,10 @@
   <data key="d9">9.0</data>
   <data key="d10">176.2351026320507</data>
   <data key="d11">Q207352</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9972859621047976</data>
+  <data key="d14">Sports</data>
+  <data key="d15">1.980603098869324</data>
   <data key="d16">2070.0</data>
 </node>
 <node id="1608192">
@@ -716,10 +716,10 @@
   <data key="d9">11.0</data>
   <data key="d10">734.3052941441147</data>
   <data key="d11">Q787566</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.990795016288756</data>
+  <data key="d14">Media*</data>
+  <data key="d15">1.0642956793308258</data>
   <data key="d16">6054.0</data>
 </node>
 <node id="115278">
@@ -773,10 +773,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q139204</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9871888160705566</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.5698626637458801</data>
   <data key="d16">2324.0</data>
 </node>
 <node id="245960">
@@ -792,10 +792,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q46809</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9970290064811708</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.3415925204753876</data>
   <data key="d16">3366.0</data>
 </node>
 <node id="3998">
@@ -871,7 +871,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9988405108451844</data>
+  <data key="d15">0.0</data>
   <data key="d16">3166.0</data>
 </node>
 <node id="10278846">
@@ -887,10 +887,10 @@
   <data key="d9">4.0</data>
   <data key="d10">0.2609649122807017</data>
   <data key="d11">Q3105215</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.00004005432129</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">3.9697310924530034</data>
   <data key="d16">1988.0</data>
 </node>
 <node id="6291346">
@@ -906,10 +906,10 @@
   <data key="d9">4.0</data>
   <data key="d10">11.500717703349284</data>
   <data key="d11">Q203966</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">7.000070095062258</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">6.992135167121888</data>
   <data key="d16">3518.0</data>
 </node>
 <node id="429620">
@@ -925,10 +925,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1154.6473489723269</data>
   <data key="d11">Q1276886</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.5865634083747855</data>
+  <data key="d14">Music</data>
+  <data key="d15">4.298368692398071</data>
   <data key="d16">3751.0</data>
 </node>
 <node id="5455836">
@@ -944,10 +944,10 @@
   <data key="d9">7.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3106561</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9955416321754456</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.2069040536880493</data>
   <data key="d16">2377.0</data>
 </node>
 <node id="9582456">
@@ -1004,7 +1004,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.803215444087982</data>
+  <data key="d15">0.0</data>
   <data key="d16">4480.0</data>
 </node>
 <node id="2673416">
@@ -1023,7 +1023,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">95.6338119506836</data>
+  <data key="d15">0.0</data>
   <data key="d16">169203.0</data>
 </node>
 <node id="7910048">
@@ -1042,7 +1042,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9885594844818115</data>
+  <data key="d15">0.0</data>
   <data key="d16">2108.0</data>
 </node>
 <node id="91296">
@@ -1061,7 +1061,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.9974622726440425</data>
+  <data key="d15">0.0</data>
   <data key="d16">6213.0</data>
 </node>
 <node id="4455728">
@@ -1077,10 +1077,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3386974</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9019306898117064</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.41490885615348816</data>
   <data key="d16">3082.0</data>
 </node>
 <node id="222392">
@@ -1115,10 +1115,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q30223120</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9961855411529541</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.8479777574539185</data>
   <data key="d16">1539.0</data>
 </node>
 <node id="10042858">
@@ -1134,10 +1134,10 @@
   <data key="d9">4.0</data>
   <data key="d10">14.596785524417104</data>
   <data key="d11">Q10853588</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">8.00008010864258</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">7.903649806976318</data>
   <data key="d16">3217.0</data>
 </node>
 <node id="5639560">
@@ -1172,10 +1172,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q2009797</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.988197922706604</data>
+  <data key="d14">Literature</data>
+  <data key="d15">1.9023044109344482</data>
   <data key="d16">6291.0</data>
 </node>
 <node id="115842">
@@ -1194,7 +1194,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">0.99753737449646</data>
+  <data key="d15">0.0</data>
   <data key="d16">4434.0</data>
 </node>
 <node id="7374818">
@@ -1381,10 +1381,10 @@
   <data key="d9">2.0</data>
   <data key="d10">66.27781387853803</data>
   <data key="d11">Q81042</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.788567841053009</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">5.117480278015137</data>
   <data key="d16">4459.0</data>
 </node>
 <node id="8791618">
@@ -1422,7 +1422,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">12.995632112026216</data>
+  <data key="d15">0.0</data>
   <data key="d16">1347.0</data>
 </node>
 <node id="80630">
@@ -1438,10 +1438,10 @@
   <data key="d9">8.0</data>
   <data key="d10">1392.0000000000002</data>
   <data key="d11">Q130601</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.8867151737213137</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.7982628345489502</data>
   <data key="d16">5711.0</data>
 </node>
 <node id="3271106">
@@ -1457,10 +1457,10 @@
   <data key="d9">2.0</data>
   <data key="d10">6209.0</data>
   <data key="d11">Q669893</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.971398711204529</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.0345202684402464</data>
   <data key="d16">4569.0</data>
 </node>
 <node id="12122382">
@@ -1495,10 +1495,10 @@
   <data key="d9">2.0</data>
   <data key="d10">784.5701124314282</data>
   <data key="d11">Q57755</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.967069268226623</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.2904720902442932</data>
   <data key="d16">4658.0</data>
 </node>
 <node id="3168444">
@@ -1514,10 +1514,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3090149</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9850529432296752</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.22816647589206696</data>
   <data key="d16">1691.0</data>
 </node>
 <node id="3978076">
@@ -1571,10 +1571,10 @@
   <data key="d9">9.0</data>
   <data key="d10">1044.1</data>
   <data key="d11">Q88762</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.934138536453246</data>
+  <data key="d14">Sports</data>
+  <data key="d15">5.862195968627931</data>
   <data key="d16">8324.0</data>
 </node>
 <node id="834610">
@@ -1590,10 +1590,10 @@
   <data key="d9">11.0</data>
   <data key="d10">9.874025715238057</data>
   <data key="d11">Q1386966</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9991588592529297</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.2134011834859848</data>
   <data key="d16">5486.0</data>
 </node>
 <node id="3190658">
@@ -1609,10 +1609,10 @@
   <data key="d9">0.0</data>
   <data key="d10">565.3874308379961</data>
   <data key="d11">Q275029</data>
-  <data key="d12">Geography.Regions.Oceania</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Oceania</data>
-  <data key="d15">12.64062678050995</data>
+  <data key="d12">Culture.Media.Media*</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Media*</data>
+  <data key="d15">11.27255317568779</data>
   <data key="d16">2571.0</data>
 </node>
 <node id="1888486">
@@ -1647,10 +1647,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q1532982</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.985313832759857</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.701149106025696</data>
   <data key="d16">3995.0</data>
 </node>
 <node id="775238">
@@ -1666,10 +1666,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q316647</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9989450573921204</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.14805719256401062</data>
   <data key="d16">2525.0</data>
 </node>
 <node id="1459276">
@@ -1685,10 +1685,10 @@
   <data key="d9">10.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q689479</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9916942119598388</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.6791887283325195</data>
   <data key="d16">2737.0</data>
 </node>
 <node id="1575130">
@@ -1707,7 +1707,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.997541308403015</data>
+  <data key="d15">0.0</data>
   <data key="d16">6478.0</data>
 </node>
 <node id="264124">
@@ -1723,10 +1723,10 @@
   <data key="d9">13.0</data>
   <data key="d10">1182.180143488167</data>
   <data key="d11">Q2906056</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9942498803138733</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.1107061505317688</data>
   <data key="d16">2377.0</data>
 </node>
 <node id="2679312">
@@ -1799,10 +1799,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q35484</data>
-  <data key="d12">Geography.Regions.Asia.Asia*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Asia*</data>
-  <data key="d15">1.616154432296753</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.7996432781219482</data>
   <data key="d16">3707.0</data>
 </node>
 <node id="1299652">
@@ -1821,7 +1821,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.0000300407409677</data>
+  <data key="d15">0.0</data>
   <data key="d16">7766.0</data>
 </node>
 <node id="829932">
@@ -1856,10 +1856,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q603368</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">1.8867151737213137</data>
+  <data key="d12">Culture.Visual_arts.Visual_arts*</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Visual_arts*</data>
+  <data key="d15">0.4241576194763184</data>
   <data key="d16">3959.0</data>
 </node>
 <node id="1300154">
@@ -1875,10 +1875,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3102918</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9481645226478576</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.40734341740608215</data>
   <data key="d16">2181.0</data>
 </node>
 <node id="104396">
@@ -1897,7 +1897,7 @@
   <data key="d12">Geography.Regions.Asia.East_Asia</data>
   <data key="d13">Geography</data>
   <data key="d14">East_Asia</data>
-  <data key="d15">2.8534566164016724</data>
+  <data key="d15">0.0</data>
   <data key="d16">2563.0</data>
 </node>
 <node id="116788">
@@ -1970,10 +1970,10 @@
   <data key="d9">2.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q153099</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9983608722686768</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.786638855934143</data>
   <data key="d16">3008.0</data>
 </node>
 <node id="4051400">
@@ -1992,7 +1992,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">11.831356287002563</data>
+  <data key="d15">0.0</data>
   <data key="d16">2940.0</data>
 </node>
 <node id="149274">
@@ -2008,10 +2008,10 @@
   <data key="d9">6.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q2142823</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9983615279197692</data>
+  <data key="d12">History_and_Society.Business_and_economics</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Business_and_economics</data>
+  <data key="d15">0.33459946513175964</data>
   <data key="d16">3328.0</data>
 </node>
 <node id="10858574">
@@ -2065,10 +2065,10 @@
   <data key="d9">14.0</data>
   <data key="d10">4837.0</data>
   <data key="d11">Q77141</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.98891019821167</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.3465963900089264</data>
   <data key="d16">9781.0</data>
 </node>
 <node id="56900">
@@ -2084,10 +2084,10 @@
   <data key="d9">2.0</data>
   <data key="d10">12136.34288602252</data>
   <data key="d11">Q381244</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">13.740488052368162</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">13.295511245727539</data>
   <data key="d16">6860.0</data>
 </node>
 <node id="7962928">
@@ -2160,10 +2160,10 @@
   <data key="d9">5.0</data>
   <data key="d10">8426.678702546675</data>
   <data key="d11">Q150989</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.99076747894287</data>
+  <data key="d12">STEM.Physics</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Physics</data>
+  <data key="d15">4.311626315116882</data>
   <data key="d16">4282.0</data>
 </node>
 <node id="19546">
@@ -2182,7 +2182,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">0.9994572401046752</data>
+  <data key="d15">0.0</data>
   <data key="d16">3189.0</data>
 </node>
 <node id="4339746">
@@ -2236,10 +2236,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q19629275</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9659096002578736</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.3073680400848389</data>
   <data key="d16">4023.0</data>
 </node>
 <node id="968002">
@@ -2312,10 +2312,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q21198349</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9987651705741882</data>
+  <data key="d12">History_and_Society.Business_and_economics</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Business_and_economics</data>
+  <data key="d15">0.6001983880996704</data>
   <data key="d16">34070.0</data>
 </node>
 <node id="6685754">
@@ -2331,10 +2331,10 @@
   <data key="d9">4.0</data>
   <data key="d10">576.2448085486859</data>
   <data key="d11">Q2036942</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">7.993015766143799</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">7.93755292892456</data>
   <data key="d16">6127.0</data>
 </node>
 <node id="4294996">
@@ -2350,10 +2350,10 @@
   <data key="d9">1.0</data>
   <data key="d10">21.47944335464942</data>
   <data key="d11">Q11857917</data>
-  <data key="d12">Geography.Regions.Americas.North_America</data>
-  <data key="d13">Geography</data>
-  <data key="d14">North_America</data>
-  <data key="d15">0.9247972917556763</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.8443347364664078</data>
   <data key="d16">1396.0</data>
 </node>
 <node id="1508546">
@@ -2388,10 +2388,10 @@
   <data key="d9">5.0</data>
   <data key="d10">4157.0</data>
   <data key="d11">Q166562</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.997833490371704</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.7180780470371247</data>
   <data key="d16">5514.0</data>
 </node>
 <node id="431330">
@@ -2407,10 +2407,10 @@
   <data key="d9">10.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q106627</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.997833490371704</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.40640190243721</data>
   <data key="d16">2988.0</data>
 </node>
 <node id="11717068">
@@ -2448,7 +2448,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.983095109462738</data>
+  <data key="d15">0.0</data>
   <data key="d16">2916.0</data>
 </node>
 <node id="3531272">
@@ -2467,7 +2467,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9743776321411133</data>
+  <data key="d15">0.0</data>
   <data key="d16">2589.0</data>
 </node>
 <node id="32106">
@@ -2483,10 +2483,10 @@
   <data key="d9">3.0</data>
   <data key="d10">3402.166447697993</data>
   <data key="d11">Q181900</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.950219988822936</data>
+  <data key="d14">Literature</data>
+  <data key="d15">5.5155885219573975</data>
   <data key="d16">436684.0</data>
 </node>
 <node id="221546">
@@ -2502,10 +2502,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q159762</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">0.9989450573921204</data>
+  <data key="d12">STEM.Earth_and_environment</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Earth_and_environment</data>
+  <data key="d15">0.9926641583442688</data>
   <data key="d16">2380.0</data>
 </node>
 <node id="66296">
@@ -2524,7 +2524,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d15">0.0</data>
   <data key="d16">2999.0</data>
 </node>
 <node id="9566">
@@ -2559,10 +2559,10 @@
   <data key="d9">11.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q1826328</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9763205647468568</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.19194278120994568</data>
   <data key="d16">3269.0</data>
 </node>
 <node id="22550">
@@ -2597,10 +2597,10 @@
   <data key="d9">1.0</data>
   <data key="d10">55.569047619047616</data>
   <data key="d11">Q11896</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9981400966644287</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">1.358377456665039</data>
   <data key="d16">2286.0</data>
 </node>
 <node id="42990">
@@ -2616,10 +2616,10 @@
   <data key="d9">1.0</data>
   <data key="d10">868.4502901095337</data>
   <data key="d11">Q13353</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">6.812755227088927</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">0.8577325195074081</data>
   <data key="d16">4222.0</data>
 </node>
 <node id="4073238">
@@ -2635,10 +2635,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q263670</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.997894287109375</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.5234303474426271</data>
   <data key="d16">3183.0</data>
 </node>
 <node id="836004">
@@ -2673,10 +2673,10 @@
   <data key="d9">9.0</data>
   <data key="d10">5.4</data>
   <data key="d11">Q5274812</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.93997859954834</data>
+  <data key="d14">Sports</data>
+  <data key="d15">5.688987135887145</data>
   <data key="d16">2051.0</data>
 </node>
 <node id="46542">
@@ -2768,10 +2768,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q726036</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9777238368988036</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.2689514458179474</data>
   <data key="d16">2039.0</data>
 </node>
 <node id="96864">
@@ -2787,10 +2787,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q299669</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9961855411529541</data>
+  <data key="d14">Music</data>
+  <data key="d15">0.8774868249893188</data>
   <data key="d16">1736.0</data>
 </node>
 <node id="810706">
@@ -2828,7 +2828,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.995236575603485</data>
+  <data key="d15">0.0</data>
   <data key="d16">1920.0</data>
 </node>
 <node id="24630">
@@ -2882,10 +2882,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q2942295</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">0.9954004287719728</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.6001983880996704</data>
   <data key="d16">1863.0</data>
 </node>
 <node id="67756">
@@ -2939,10 +2939,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q4994262</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.988481760025024</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.7821582555770876</data>
   <data key="d16">4347.0</data>
 </node>
 <node id="575070">
@@ -2958,10 +2958,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q131333</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.997758150100708</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.8706072568893433</data>
   <data key="d16">5600.0</data>
 </node>
 <node id="5810134">
@@ -2996,10 +2996,10 @@
   <data key="d9">10.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q130853</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9952266216278076</data>
+  <data key="d14">Music</data>
+  <data key="d15">1.7680985927581787</data>
   <data key="d16">10505.0</data>
 </node>
 <node id="3581812">
@@ -3015,10 +3015,10 @@
   <data key="d9">9.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q242959</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9987257122993468</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.996837317943573</data>
   <data key="d16">4922.0</data>
 </node>
 <node id="11472010">
@@ -3072,10 +3072,10 @@
   <data key="d9">14.0</data>
   <data key="d10">2085.0</data>
   <data key="d11">Q56527642</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.886296033859253</data>
+  <data key="d14">Literature</data>
+  <data key="d15">2.9963889122009277</data>
   <data key="d16">4356.0</data>
 </node>
 <node id="370654">
@@ -3113,7 +3113,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">4.9912768602371225</data>
+  <data key="d15">0.0</data>
   <data key="d16">5872.0</data>
 </node>
 <node id="254966">
@@ -3132,7 +3132,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">19.992359876632687</data>
+  <data key="d15">0.0</data>
   <data key="d16">3164.0</data>
 </node>
 <node id="586410">
@@ -3167,10 +3167,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q211519</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.960371196269989</data>
   <data key="d16">3955.0</data>
 </node>
 <node id="4484440">
@@ -3224,10 +3224,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q36749</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">1.5326073169708252</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">1.0000200271606445</data>
   <data key="d16">4874.0</data>
 </node>
 <node id="2728064">
@@ -3262,10 +3262,10 @@
   <data key="d9">10.0</data>
   <data key="d10">8677.265906856166</data>
   <data key="d11">Q2580403</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9942498803138733</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.45612671971321106</data>
   <data key="d16">2994.0</data>
 </node>
 <node id="2747372">
@@ -3300,10 +3300,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q548211</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9960646033287048</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.1520422399044037</data>
   <data key="d16">6573.0</data>
 </node>
 <node id="437358">
@@ -3319,10 +3319,10 @@
   <data key="d9">11.0</data>
   <data key="d10">5158.943296926314</data>
   <data key="d11">Q265540</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.9947820901870745</data>
+  <data key="d14">Media*</data>
+  <data key="d15">1.969909280538559</data>
   <data key="d16">8039.0</data>
 </node>
 <node id="958504">
@@ -3338,10 +3338,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3085382</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">0.995199296951294</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.3290529549121857</data>
   <data key="d16">4596.0</data>
 </node>
 <node id="2920686">
@@ -3360,7 +3360,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9952266216278076</data>
+  <data key="d15">0.0</data>
   <data key="d16">2195.0</data>
 </node>
 <node id="4262042">
@@ -3379,7 +3379,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9932668209075928</data>
+  <data key="d15">0.0</data>
   <data key="d16">6820.0</data>
 </node>
 <node id="10182">
@@ -3433,10 +3433,10 @@
   <data key="d9">1.0</data>
   <data key="d10">344.17440858195795</data>
   <data key="d11">Q19851007</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">1.9892372570037844</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.7485707998275757</data>
   <data key="d16">1976.0</data>
 </node>
 <node id="3094918">
@@ -3452,10 +3452,10 @@
   <data key="d9">1.0</data>
   <data key="d10">543.1807965829806</data>
   <data key="d11">Q206</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.000060081481935</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.8442082405090336</data>
   <data key="d16">5823.0</data>
 </node>
 <node id="379052">
@@ -3509,10 +3509,10 @@
   <data key="d9">3.0</data>
   <data key="d10">2782.0</data>
   <data key="d11">Q60100</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.997610747814178</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">1.3142593204975128</data>
   <data key="d16">2711.0</data>
 </node>
 <node id="10772072">
@@ -3528,10 +3528,10 @@
   <data key="d9">3.0</data>
   <data key="d10">97.37400604700471</data>
   <data key="d11">Q29193047</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9956545829772951</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.6878101825714111</data>
   <data key="d16">2364.0</data>
 </node>
 <node id="222204">
@@ -3547,10 +3547,10 @@
   <data key="d9">5.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q3086163</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9672139883041384</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.4346950352191925</data>
   <data key="d16">10632.0</data>
 </node>
 <node id="952606">
@@ -3588,7 +3588,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.9940352439880367</data>
+  <data key="d15">0.0</data>
   <data key="d16">3910.0</data>
 </node>
 <node id="310246">
@@ -3604,10 +3604,10 @@
   <data key="d9">1.0</data>
   <data key="d10">925.8522860128096</data>
   <data key="d11">Q57336</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.98560220003128</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.5187931656837464</data>
   <data key="d16">4169.0</data>
 </node>
 <node id="146236">
@@ -3699,10 +3699,10 @@
   <data key="d9">3.0</data>
   <data key="d10">5144.099579061342</data>
   <data key="d11">Q56310320</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">1.9851800880432129</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.6293736696243286</data>
   <data key="d16">10685.0</data>
 </node>
 <node id="413590">
@@ -3718,10 +3718,10 @@
   <data key="d9">5.0</data>
   <data key="d10">1392.0</data>
   <data key="d11">Q3015148</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Performing_arts</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d14">Performing_arts</data>
+  <data key="d15">0.2588254511356354</data>
   <data key="d16">2483.0</data>
 </node>
 <node id="72352">
@@ -3737,10 +3737,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q235507</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Performing_arts</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9987651705741882</data>
+  <data key="d14">Performing_arts</data>
+  <data key="d15">0.5078218579292297</data>
   <data key="d16">3539.0</data>
 </node>
 <node id="4349272">
@@ -3794,10 +3794,10 @@
   <data key="d9">10.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q229187</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9993003606796264</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.2120788097381592</data>
   <data key="d16">2299.0</data>
 </node>
 <node id="47656">
@@ -3813,10 +3813,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q58600</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9942797422409058</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.6926519870758057</data>
   <data key="d16">3542.0</data>
 </node>
 <node id="135932">
@@ -3832,10 +3832,10 @@
   <data key="d9">12.0</data>
   <data key="d10">304.58393502490725</data>
   <data key="d11">Q950135</data>
-  <data key="d12">Geography.Regions.Asia.Asia*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Asia*</data>
-  <data key="d15">1.3432816686630245</data>
+  <data key="d12">STEM.STEM*</data>
+  <data key="d13">STEM</data>
+  <data key="d14">STEM*</data>
+  <data key="d15">0.0</data>
   <data key="d16">3863.0</data>
 </node>
 <node id="65874">
@@ -3870,10 +3870,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q29966442</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.987349271774292</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">2.5769405364990234</data>
   <data key="d16">2710.0</data>
 </node>
 <node id="271932">
@@ -3889,10 +3889,10 @@
   <data key="d9">16.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q36159</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.997199296951294</data>
+  <data key="d14">Sports</data>
+  <data key="d15">1.9651350975036617</data>
   <data key="d16">31668.0</data>
 </node>
 <node id="346780">
@@ -3908,10 +3908,10 @@
   <data key="d9">13.0</data>
   <data key="d10">8232.0</data>
   <data key="d11">Q602468</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.988434314727783</data>
+  <data key="d14">Literature</data>
+  <data key="d15">1.6383916139602661</data>
   <data key="d16">3705.0</data>
 </node>
 <node id="151438">
@@ -3927,10 +3927,10 @@
   <data key="d9">5.0</data>
   <data key="d10">3855.778635176295</data>
   <data key="d11">Q241222</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.0000300407409677</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">2.3155605196952824</data>
   <data key="d16">2820.0</data>
 </node>
 <node id="1216410">
@@ -3946,10 +3946,10 @@
   <data key="d9">11.0</data>
   <data key="d10">3427.107268533261</data>
   <data key="d11">Q240969</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.000050067901612</data>
+  <data key="d14">Media*</data>
+  <data key="d15">1.2842099368572235</data>
   <data key="d16">12433.0</data>
 </node>
 <node id="353912">
@@ -3984,10 +3984,10 @@
   <data key="d9">9.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q1158544</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9902108311653137</data>
+  <data key="d14">Sports</data>
+  <data key="d15">2.622261643409729</data>
   <data key="d16">1088.0</data>
 </node>
 <node id="65212">
@@ -4006,7 +4006,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">16.795255839824677</data>
+  <data key="d15">0.0</data>
   <data key="d16">13675.0</data>
 </node>
 <node id="103536">
@@ -4041,10 +4041,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1021.7920476582241</data>
   <data key="d11">Q47087</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.996933341026306</data>
+  <data key="d14">Media*</data>
+  <data key="d15">1.9962617754936218</data>
   <data key="d16">3468.0</data>
 </node>
 <node id="383996">
@@ -4060,10 +4060,10 @@
   <data key="d9">2.0</data>
   <data key="d10">28.17075542310993</data>
   <data key="d11">Q81184</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.754056036472321</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">6.069320321083069</data>
   <data key="d16">6438.0</data>
 </node>
 <node id="17156">
@@ -4098,10 +4098,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q135863</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9751567840576172</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">0.4454203248023986</data>
   <data key="d16">2721.0</data>
 </node>
 <node id="1873480">
@@ -4117,10 +4117,10 @@
   <data key="d9">14.0</data>
   <data key="d10">2776.0</data>
   <data key="d11">Q1984757</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9874402284622192</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.8603147268295288</data>
   <data key="d16">7776.0</data>
 </node>
 <node id="626016">
@@ -4136,10 +4136,10 @@
   <data key="d9">1.0</data>
   <data key="d10">25.67857142857143</data>
   <data key="d11">Q296771</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.978665709495544</data>
+  <data key="d12">History_and_Society.Business_and_economics</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Business_and_economics</data>
+  <data key="d15">0.7885555922985077</data>
   <data key="d16">3258.0</data>
 </node>
 <node id="5156424">
@@ -4155,10 +4155,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3588982</data>
-  <data key="d12">Geography.Regions.Europe.Northern_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Northern_Europe</data>
-  <data key="d15">0.9961400966644288</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.4787186980247498</data>
   <data key="d16">1905.0</data>
 </node>
 <node id="4852054">
@@ -4193,10 +4193,10 @@
   <data key="d9">2.0</data>
   <data key="d10">3465.0000000000005</data>
   <data key="d11">Q1382812</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.882791042327881</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">3.8213164806365967</data>
   <data key="d16">5399.0</data>
 </node>
 <node id="127862">
@@ -4215,7 +4215,7 @@
   <data key="d12">Geography.Regions.Americas.North_America</data>
   <data key="d13">Geography</data>
   <data key="d14">North_America</data>
-  <data key="d15">1.9682072401046753</data>
+  <data key="d15">0.0</data>
   <data key="d16">2523.0</data>
 </node>
 <node id="5785466">
@@ -4231,10 +4231,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q115206</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.939033031463622</data>
+  <data key="d14">Music</data>
+  <data key="d15">0.962493896484375</data>
   <data key="d16">2768.0</data>
 </node>
 <node id="3156960">
@@ -4288,10 +4288,10 @@
   <data key="d9">14.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3528336</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Visual_arts.Visual_arts*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.982296884059906</data>
+  <data key="d14">Visual_arts*</data>
+  <data key="d15">2.61182177066803</data>
   <data key="d16">2677.0</data>
 </node>
 <node id="965600">
@@ -4307,10 +4307,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3056809</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9496793746948242</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.1520422399044037</data>
   <data key="d16">4670.0</data>
 </node>
 <node id="3210472">
@@ -4345,10 +4345,10 @@
   <data key="d9">1.0</data>
   <data key="d10">13.139041796198544</data>
   <data key="d11">Q1684958</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.9161829948425297</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.4268023669719696</data>
   <data key="d16">1683.0</data>
 </node>
 <node id="1176286">
@@ -4367,7 +4367,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">0.9481645226478576</data>
+  <data key="d15">0.0</data>
   <data key="d16">4209.0</data>
 </node>
 <node id="321642">
@@ -4402,10 +4402,10 @@
   <data key="d9">1.0</data>
   <data key="d10">3.6599206349206352</data>
   <data key="d11">Q3387740</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.981160342693329</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">2.7297509908676147</data>
   <data key="d16">8178.0</data>
 </node>
 <node id="9544">
@@ -4459,10 +4459,10 @@
   <data key="d9">6.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3169770</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9935217499732972</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.9591643214225768</data>
   <data key="d16">3033.0</data>
 </node>
 <node id="248706">
@@ -4478,10 +4478,10 @@
   <data key="d9">7.0</data>
   <data key="d10">2085.5</data>
   <data key="d11">Q3385406</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.9865336418151855</data>
+  <data key="d14">Literature</data>
+  <data key="d15">1.100558876991272</data>
   <data key="d16">8962.0</data>
 </node>
 <node id="6810664">
@@ -4516,10 +4516,10 @@
   <data key="d9">5.0</data>
   <data key="d10">3465.0</data>
   <data key="d11">Q743684</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.966776847839355</data>
+  <data key="d12">STEM.Medicine_&amp;_Health</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Medicine_&amp;_Health</data>
+  <data key="d15">0.4512216448783874</data>
   <data key="d16">1819.0</data>
 </node>
 <node id="1872934">
@@ -4595,7 +4595,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9893575310707092</data>
+  <data key="d15">0.0</data>
   <data key="d16">2594.0</data>
 </node>
 <node id="2964290">
@@ -4687,10 +4687,10 @@
   <data key="d9">4.0</data>
   <data key="d10">1399.0465329991648</data>
   <data key="d11">Q170581</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">10.000100135803224</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">9.973783493041992</data>
   <data key="d16">13026.0</data>
 </node>
 <node id="11309686">
@@ -4804,7 +4804,7 @@
   <data key="d12">Geography.Regions.Europe.Northern_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Northern_Europe</data>
-  <data key="d15">5.878066062927244</data>
+  <data key="d15">0.0</data>
   <data key="d16">2427.0</data>
 </node>
 <node id="336906">
@@ -4820,10 +4820,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q236212</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9995221495628356</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.7718535065650941</data>
   <data key="d16">3782.0</data>
 </node>
 <node id="3894008">
@@ -4858,10 +4858,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q50926</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9926641583442688</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.8221991658210754</data>
   <data key="d16">7549.0</data>
 </node>
 <node id="967590">
@@ -4934,10 +4934,10 @@
   <data key="d9">2.0</data>
   <data key="d10">32593.39783575636</data>
   <data key="d11">Q5721</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">32.89563149213791</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">27.42805016040802</data>
   <data key="d16">292224.0</data>
 </node>
 <node id="247798">
@@ -4953,10 +4953,10 @@
   <data key="d9">2.0</data>
   <data key="d10">359.83333333333337</data>
   <data key="d11">Q1229212</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.91547554731369</data>
+  <data key="d12">History_and_Society.Education</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Education</data>
+  <data key="d15">3.256824314594269</data>
   <data key="d16">4360.0</data>
 </node>
 <node id="2787864">
@@ -5051,7 +5051,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9973783493041992</data>
+  <data key="d15">0.0</data>
   <data key="d16">2272.0</data>
 </node>
 <node id="591576">
@@ -5070,7 +5070,7 @@
   <data key="d12">Geography.Regions.Americas.North_America</data>
   <data key="d13">Geography</data>
   <data key="d14">North_America</data>
-  <data key="d15">0.9924327731132508</data>
+  <data key="d15">0.0</data>
   <data key="d16">13834.0</data>
 </node>
 <node id="6132626">
@@ -5241,7 +5241,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.998309314250946</data>
+  <data key="d15">0.0</data>
   <data key="d16">1015.0</data>
 </node>
 <node id="1127078">
@@ -5276,10 +5276,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q1067886</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">0.9433575868606568</data>
+  <data key="d12">Culture.Visual_arts.Architecture</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Architecture</data>
+  <data key="d15">0.5156299471855164</data>
   <data key="d16">4855.0</data>
 </node>
 <node id="1220752">
@@ -5295,10 +5295,10 @@
   <data key="d9">2.0</data>
   <data key="d10">475.09768287268287</data>
   <data key="d11">Q313863</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9297302961349487</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.7259584069252014</data>
   <data key="d16">3237.0</data>
 </node>
 <node id="4635432">
@@ -5336,7 +5336,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.979363679885864</data>
+  <data key="d15">0.0</data>
   <data key="d16">1520.0</data>
 </node>
 <node id="8394786">
@@ -5371,10 +5371,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3484626</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9914325475692748</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.16027602553367615</data>
   <data key="d16">3212.0</data>
 </node>
 <node id="394222">
@@ -5409,10 +5409,10 @@
   <data key="d9">4.0</data>
   <data key="d10">451.1334977426925</data>
   <data key="d11">Q434706</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.988885343074799</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">6.351255595684051</data>
   <data key="d16">2286.0</data>
 </node>
 <node id="10920572">
@@ -5450,7 +5450,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">0.9991540908813475</data>
+  <data key="d15">0.0</data>
   <data key="d16">5172.0</data>
 </node>
 <node id="314128">
@@ -5523,10 +5523,10 @@
   <data key="d9">9.0</data>
   <data key="d10">1.5</data>
   <data key="d11">Q133318</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9908008575439455</data>
+  <data key="d14">Sports</data>
+  <data key="d15">1.9870434999465945</data>
   <data key="d16">5212.0</data>
 </node>
 <node id="470642">
@@ -5561,10 +5561,10 @@
   <data key="d9">10.0</data>
   <data key="d10">1392.0</data>
   <data key="d11">Q485165</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.997955560684204</data>
+  <data key="d14">Music</data>
+  <data key="d15">1.7412145137786865</data>
   <data key="d16">2946.0</data>
 </node>
 <node id="605312">
@@ -5580,10 +5580,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q234891</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.997120440006256</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.8634016513824463</data>
   <data key="d16">11889.0</data>
 </node>
 <node id="131992">
@@ -5602,7 +5602,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">5.98736572265625</data>
+  <data key="d15">0.0</data>
   <data key="d16">3991.0</data>
 </node>
 <node id="4666200">
@@ -5618,10 +5618,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q14911897</data>
-  <data key="d12">Geography.Regions.Africa.Africa*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Africa*</data>
-  <data key="d15">0.43713401460647583</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.275139719247818</data>
   <data key="d16">3137.0</data>
 </node>
 <node id="7057586">
@@ -5637,10 +5637,10 @@
   <data key="d9">1.0</data>
   <data key="d10">261.12707244895915</data>
   <data key="d11">Q348144</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9950845837593074</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.0247775614261627</data>
   <data key="d16">3725.0</data>
 </node>
 <node id="121060">
@@ -5675,10 +5675,10 @@
   <data key="d9">4.0</data>
   <data key="d10">57.82065303117936</data>
   <data key="d11">Q18740945</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">13.790741205215452</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">11.031177043914795</data>
   <data key="d16">2707.0</data>
 </node>
 <node id="110802">
@@ -5732,10 +5732,10 @@
   <data key="d9">15.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q722412</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9965107440948489</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.2194315791130066</data>
   <data key="d16">2739.0</data>
 </node>
 <node id="468650">
@@ -5770,10 +5770,10 @@
   <data key="d9">11.0</data>
   <data key="d10">5.61904761904762</data>
   <data key="d11">Q1970649</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.996835172176361</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.38823817670345306</data>
   <data key="d16">7335.0</data>
 </node>
 <node id="705262">
@@ -5792,7 +5792,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9916942119598388</data>
+  <data key="d15">0.0</data>
   <data key="d16">1919.0</data>
 </node>
 <node id="12202">
@@ -5808,10 +5808,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q123078</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Entertainment</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9973700046539304</data>
+  <data key="d14">Entertainment</data>
+  <data key="d15">1.8346253633499143</data>
   <data key="d16">5199.0</data>
 </node>
 <node id="455014">
@@ -5830,7 +5830,7 @@
   <data key="d12">Geography.Regions.Americas.North_America</data>
   <data key="d13">Geography</data>
   <data key="d14">North_America</data>
-  <data key="d15">2.981160342693329</data>
+  <data key="d15">0.0</data>
   <data key="d16">5422.0</data>
 </node>
 <node id="267930">
@@ -5846,10 +5846,10 @@
   <data key="d9">11.0</data>
   <data key="d10">21.85324194555746</data>
   <data key="d11">Q237514</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.986891746520996</data>
+  <data key="d14">Literature</data>
+  <data key="d15">4.642094075679779</data>
   <data key="d16">9156.0</data>
 </node>
 <node id="41304">
@@ -5865,10 +5865,10 @@
   <data key="d9">5.0</data>
   <data key="d10">3353.277373289561</data>
   <data key="d11">Q945890</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.998308181762695</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.3648710548877716</data>
   <data key="d16">3570.0</data>
 </node>
 <node id="730632">
@@ -5884,10 +5884,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q230068</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9967230558395384</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.3465963900089264</data>
   <data key="d16">4376.0</data>
 </node>
 <node id="9982758">
@@ -5925,7 +5925,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">0.9659096002578736</data>
+  <data key="d15">0.0</data>
   <data key="d16">3653.0</data>
 </node>
 <node id="8529732">
@@ -5960,10 +5960,10 @@
   <data key="d9">11.0</data>
   <data key="d10">1.3273809523809523</data>
   <data key="d11">Q325334</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.988197922706604</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">0.24506643414497375</data>
   <data key="d16">2091.0</data>
 </node>
 <node id="3015286">
@@ -5979,10 +5979,10 @@
   <data key="d9">1.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q3158462</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.979363679885864</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.2732367813587189</data>
   <data key="d16">2794.0</data>
 </node>
 <node id="224430">
@@ -6055,10 +6055,10 @@
   <data key="d9">6.0</data>
   <data key="d10">1224.559691457971</data>
   <data key="d11">Q2993118</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">8.631027415275572</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">2.2826899290084843</data>
   <data key="d16">2576.0</data>
 </node>
 <node id="30380">
@@ -6093,10 +6093,10 @@
   <data key="d9">1.0</data>
   <data key="d10">771.2528354244531</data>
   <data key="d11">Q23681</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">5.935844302177429</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.2770486921072006</data>
   <data key="d16">4209.0</data>
 </node>
 <node id="3973272">
@@ -6112,10 +6112,10 @@
   <data key="d9">6.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q2965058</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9982088208198543</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.46834467351436615</data>
   <data key="d16">2106.0</data>
 </node>
 <node id="104218">
@@ -6131,10 +6131,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q639513</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.8893539309501648</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.8442468345165253</data>
   <data key="d16">3192.0</data>
 </node>
 <node id="800">
@@ -6172,7 +6172,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">7.609217643737793</data>
+  <data key="d15">0.0</data>
   <data key="d16">4308.0</data>
 </node>
 <node id="2773994">
@@ -6188,10 +6188,10 @@
   <data key="d9">17.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q145480</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.983875274658203</data>
+  <data key="d14">Media*</data>
+  <data key="d15">1.5234655737876892</data>
   <data key="d16">6576.0</data>
 </node>
 <node id="769542">
@@ -6210,7 +6210,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">14.994083046913145</data>
+  <data key="d15">0.0</data>
   <data key="d16">1603.0</data>
 </node>
 <node id="3198502">
@@ -6264,10 +6264,10 @@
   <data key="d9">10.0</data>
   <data key="d10">5931.421196794577</data>
   <data key="d11">Q239341</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.998150169849396</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.6648711860179901</data>
   <data key="d16">8328.0</data>
 </node>
 <node id="455290">
@@ -6283,10 +6283,10 @@
   <data key="d9">5.0</data>
   <data key="d10">1983.0062779211512</data>
   <data key="d11">Q274927</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9980804920196535</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.8910791277885438</data>
   <data key="d16">2628.0</data>
 </node>
 <node id="164172">
@@ -6359,10 +6359,10 @@
   <data key="d9">1.0</data>
   <data key="d10">3509.9504583325593</data>
   <data key="d11">Q335787</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">9.344051480293274</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">6.992644667625427</data>
   <data key="d16">2845.0</data>
 </node>
 <node id="11292158">
@@ -6435,10 +6435,10 @@
   <data key="d9">2.0</data>
   <data key="d10">20.494047619047613</data>
   <data key="d11">Q433116</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.9531646966934195</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">5.377568364143372</data>
   <data key="d16">8175.0</data>
 </node>
 <node id="498544">
@@ -6454,10 +6454,10 @@
   <data key="d9">0.0</data>
   <data key="d10">4844.38278943279</data>
   <data key="d11">Q231276</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.991032600402832</data>
+  <data key="d14">Media*</data>
+  <data key="d15">2.3100216388702393</data>
   <data key="d16">25716.0</data>
 </node>
 <node id="2898">
@@ -6492,10 +6492,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1764.6905464618783</data>
   <data key="d11">Q27509</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">5.967750549316406</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">2.091930627822876</data>
   <data key="d16">4795.0</data>
 </node>
 <node id="3962000">
@@ -6511,10 +6511,10 @@
   <data key="d9">14.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q2942001</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.99237734079361</data>
+  <data key="d14">Literature</data>
+  <data key="d15">2.8444935679435726</data>
   <data key="d16">3797.0</data>
 </node>
 <node id="7634982">
@@ -6571,7 +6571,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9697954058647156</data>
+  <data key="d15">0.0</data>
   <data key="d16">3690.0</data>
 </node>
 <node id="307200">
@@ -6587,10 +6587,10 @@
   <data key="d9">0.0</data>
   <data key="d10">854.8501210572373</data>
   <data key="d11">Q690974</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">10.98724561929703</data>
+  <data key="d14">Media*</data>
+  <data key="d15">7.395758748054504</data>
   <data key="d16">3107.0</data>
 </node>
 <node id="4006306">
@@ -6625,10 +6625,10 @@
   <data key="d9">12.0</data>
   <data key="d10">574.9377424639529</data>
   <data key="d11">Q194235</data>
-  <data key="d12">Geography.Regions.Asia.Asia*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Asia*</data>
-  <data key="d15">2.9573906049728387</data>
+  <data key="d12">STEM.STEM*</data>
+  <data key="d13">STEM</data>
+  <data key="d14">STEM*</data>
+  <data key="d15">0.0</data>
   <data key="d16">2228.0</data>
 </node>
 <node id="337216">
@@ -6647,7 +6647,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.6396679878234863</data>
+  <data key="d15">0.0</data>
   <data key="d16">1535.0</data>
 </node>
 <node id="183390">
@@ -6666,7 +6666,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.9364144802093506</data>
+  <data key="d15">0.0</data>
   <data key="d16">5866.0</data>
 </node>
 <node id="5872050">
@@ -6701,10 +6701,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q2825963</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">0.9723776321411132</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.40364643931388855</data>
   <data key="d16">2256.0</data>
 </node>
 <node id="181772">
@@ -6739,10 +6739,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3079777</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.8438637256622312</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.1397253274917603</data>
   <data key="d16">4059.0</data>
 </node>
 <node id="12013086">
@@ -6777,10 +6777,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q86659074</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">0.4114462008476257</data>
+  <data key="d12">STEM.Biology</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Biology</data>
+  <data key="d15">0.33459946513175964</data>
   <data key="d16">1719.0</data>
 </node>
 <node id="3103220">
@@ -6815,10 +6815,10 @@
   <data key="d9">9.0</data>
   <data key="d10">9.80594253337616</data>
   <data key="d11">Q202342</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.987349271774292</data>
+  <data key="d14">Sports</data>
+  <data key="d15">3.918710708618163</data>
   <data key="d16">2228.0</data>
 </node>
 <node id="824482">
@@ -6856,7 +6856,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9978901147842407</data>
+  <data key="d15">0.0</data>
   <data key="d16">3596.0</data>
 </node>
 <node id="5173324">
@@ -6913,7 +6913,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9898993968963623</data>
+  <data key="d15">0.0</data>
   <data key="d16">1475.0</data>
 </node>
 <node id="362756">
@@ -6948,10 +6948,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3525580</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9935217499732972</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.7981967926025391</data>
   <data key="d16">7727.0</data>
 </node>
 <node id="502198">
@@ -6989,7 +6989,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d15">0.0</data>
   <data key="d16">1806.0</data>
 </node>
 <node id="8343630">
@@ -7062,10 +7062,10 @@
   <data key="d9">1.0</data>
   <data key="d10">126.36351372763046</data>
   <data key="d11">Q1396784</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.839504480361938</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.6225517988204957</data>
   <data key="d16">3774.0</data>
 </node>
 <node id="4862757">
@@ -7122,7 +7122,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">1.9152464818954469</data>
+  <data key="d15">0.0</data>
   <data key="d16">4421.0</data>
 </node>
 <node id="10098375">
@@ -7157,10 +7157,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q2871412</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9755869507789612</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.10375863313674928</data>
   <data key="d16">3605.0</data>
 </node>
 <node id="227931">
@@ -7179,7 +7179,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">0.9019306898117064</data>
+  <data key="d15">0.0</data>
   <data key="d16">2861.0</data>
 </node>
 <node id="1319955">
@@ -7195,10 +7195,10 @@
   <data key="d9">4.0</data>
   <data key="d10">1033.860873184063</data>
   <data key="d11">Q48525</data>
-  <data key="d12">Geography.Regions.Americas.North_America</data>
-  <data key="d13">Geography</data>
-  <data key="d14">North_America</data>
-  <data key="d15">2.795544070243835</data>
+  <data key="d12">History_and_Society.Business_and_economics</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Business_and_economics</data>
+  <data key="d15">0.6768324673175811</data>
   <data key="d16">5071.0</data>
 </node>
 <node id="10547251">
@@ -7271,10 +7271,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q2820412</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">0.9825675487518308</data>
+  <data key="d12">Culture.Visual_arts.Visual_arts*</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Visual_arts*</data>
+  <data key="d15">0.2227101624011993</data>
   <data key="d16">3101.0</data>
 </node>
 <node id="424703">
@@ -7366,10 +7366,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1707.4253391309812</data>
   <data key="d11">Q53692</data>
-  <data key="d12">Geography.Regions.Asia.West_Asia</data>
-  <data key="d13">Geography</data>
-  <data key="d14">West_Asia</data>
-  <data key="d15">9.996417164802553</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">7.663036584854126</data>
   <data key="d16">1407.0</data>
 </node>
 <node id="668325">
@@ -7385,10 +7385,10 @@
   <data key="d9">1.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q253073</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9968243837356567</data>
+  <data key="d14">Sports</data>
+  <data key="d15">1.9945900440216064</data>
   <data key="d16">2068.0</data>
 </node>
 <node id="580353">
@@ -7442,10 +7442,10 @@
   <data key="d9">3.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q3554195</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.983365297317505</data>
+  <data key="d14">Sports</data>
+  <data key="d15">2.9742976427078243</data>
   <data key="d16">109100.0</data>
 </node>
 <node id="82149">
@@ -7464,7 +7464,7 @@
   <data key="d12">Geography.Regions.Americas.North_America</data>
   <data key="d13">Geography</data>
   <data key="d14">North_America</data>
-  <data key="d15">5.92072319984436</data>
+  <data key="d15">0.0</data>
   <data key="d16">3907.0</data>
 </node>
 <node id="471059">
@@ -7480,10 +7480,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q452772</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9992110729217527</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.3290529549121857</data>
   <data key="d16">2535.0</data>
 </node>
 <node id="179097">
@@ -7556,10 +7556,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3218900</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9924327731132508</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.26285186409950256</data>
   <data key="d16">5712.0</data>
 </node>
 <node id="2837653">
@@ -7613,10 +7613,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q18745288</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.89000940322876</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.3290529549121857</data>
   <data key="d16">1768.0</data>
 </node>
 <node id="584485">
@@ -7632,10 +7632,10 @@
   <data key="d9">0.0</data>
   <data key="d10">437.8301342141561</data>
   <data key="d11">Q228909</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">10.985072791576387</data>
+  <data key="d14">Media*</data>
+  <data key="d15">8.36726713180542</data>
   <data key="d16">3126.0</data>
 </node>
 <node id="4442371">
@@ -7651,10 +7651,10 @@
   <data key="d9">0.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q3368990</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9672139883041384</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.20751726627349856</data>
   <data key="d16">5457.0</data>
 </node>
 <node id="5675353">
@@ -7727,10 +7727,10 @@
   <data key="d9">17.0</data>
   <data key="d10">3471.0</data>
   <data key="d11">Q185610</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.97839242219925</data>
+  <data key="d14">Media*</data>
+  <data key="d15">4.353036284446716</data>
   <data key="d16">6523.0</data>
 </node>
 <node id="127201">
@@ -7746,10 +7746,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q327127</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9905974268913268</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.3557848632335663</data>
   <data key="d16">3078.0</data>
 </node>
 <node id="10985501">
@@ -7825,7 +7825,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.993274450302124</data>
+  <data key="d15">0.0</data>
   <data key="d16">1323.0</data>
 </node>
 <node id="4634411">
@@ -7860,10 +7860,10 @@
   <data key="d9">16.0</data>
   <data key="d10">1392.0</data>
   <data key="d11">Q179051</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.0000300407409677</data>
+  <data key="d14">Sports</data>
+  <data key="d15">2.721966683864593</data>
   <data key="d16">13340.0</data>
 </node>
 <node id="3496865">
@@ -7879,10 +7879,10 @@
   <data key="d9">14.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3309960</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.984585464000702</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">0.14805719256401062</data>
   <data key="d16">3753.0</data>
 </node>
 <node id="122287">
@@ -7898,10 +7898,10 @@
   <data key="d9">2.0</data>
   <data key="d10">1421.8648292840478</data>
   <data key="d11">Q275053</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.91547554731369</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">2.382948100566864</data>
   <data key="d16">3652.0</data>
 </node>
 <node id="13821">
@@ -7917,10 +7917,10 @@
   <data key="d9">13.0</data>
   <data key="d10">10419.564519794827</data>
   <data key="d11">Q22750</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.9826329946517935</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.6296637654304504</data>
   <data key="d16">94994.0</data>
 </node>
 <node id="251863">
@@ -7955,10 +7955,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q202650</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9863731861114502</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.4843900501728058</data>
   <data key="d16">4462.0</data>
 </node>
 <node id="1014689">
@@ -7993,10 +7993,10 @@
   <data key="d9">4.0</data>
   <data key="d10">1544.6296000054126</data>
   <data key="d11">Q1528150</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">8.981048583984375</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">8.560369849205017</data>
   <data key="d16">1762.0</data>
 </node>
 <node id="1300899">
@@ -8012,10 +8012,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.5</data>
   <data key="d11">Q3065072</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9830349683761597</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.575828343629837</data>
   <data key="d16">2230.0</data>
 </node>
 <node id="114461">
@@ -8034,7 +8034,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">8.852462947368624</data>
+  <data key="d15">0.0</data>
   <data key="d16">2736.0</data>
 </node>
 <node id="4083905">
@@ -8050,10 +8050,10 @@
   <data key="d9">2.0</data>
   <data key="d10">187.56666666666663</data>
   <data key="d11">Q2851706</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.77609884738922</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">2.1347091794013977</data>
   <data key="d16">13979.0</data>
 </node>
 <node id="927535">
@@ -8091,7 +8091,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">6.966783702373505</data>
+  <data key="d15">0.0</data>
   <data key="d16">5648.0</data>
 </node>
 <node id="12160159">
@@ -8126,10 +8126,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q312161</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9994572401046752</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.16452647745609286</data>
   <data key="d16">2672.0</data>
 </node>
 <node id="192979">
@@ -8183,10 +8183,10 @@
   <data key="d9">8.0</data>
   <data key="d10">697.0000000000001</data>
   <data key="d11">Q103333</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9540653228759768</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.8688102960586548</data>
   <data key="d16">2691.0</data>
 </node>
 <node id="2790823">
@@ -8259,10 +8259,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q338389</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">1.616154432296753</data>
   <data key="d16">3723.0</data>
 </node>
 <node id="144995">
@@ -8281,7 +8281,7 @@
   <data key="d12">Geography.Regions.Europe.Northern_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Northern_Europe</data>
-  <data key="d15">3.78001880645752</data>
+  <data key="d15">0.0</data>
   <data key="d16">3953.0</data>
 </node>
 <node id="6557899">
@@ -8316,10 +8316,10 @@
   <data key="d9">2.0</data>
   <data key="d10">1105.1206399081996</data>
   <data key="d11">Q57153</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.7948843240737915</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">6.730806589126586</data>
   <data key="d16">3576.0</data>
 </node>
 <node id="29559">
@@ -8373,10 +8373,10 @@
   <data key="d9">1.0</data>
   <data key="d10">11342.001430018554</data>
   <data key="d11">Q3587677</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">1.4585664482116698</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.6054696589708328</data>
   <data key="d16">2151.0</data>
 </node>
 <node id="385183">
@@ -8411,10 +8411,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q175176</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9843696951866154</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.39892271161079407</data>
   <data key="d16">3766.0</data>
 </node>
 <node id="85377">
@@ -8430,10 +8430,10 @@
   <data key="d9">2.0</data>
   <data key="d10">7755.846423700381</data>
   <data key="d11">Q272383</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">7.993647575378418</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">7.375454902648925</data>
   <data key="d16">3390.0</data>
 </node>
 <node id="104407">
@@ -8449,10 +8449,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q340787</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">0.4714247455596924</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.2227101624011993</data>
   <data key="d16">1387.0</data>
 </node>
 <node id="2792869">
@@ -8468,10 +8468,10 @@
   <data key="d9">4.0</data>
   <data key="d10">19.268429669745466</data>
   <data key="d11">Q912994</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.754056036472321</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">5.117480278015137</data>
   <data key="d16">2162.0</data>
 </node>
 <node id="1699541">
@@ -8506,10 +8506,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q946583</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9955416321754456</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.9539760947227478</data>
   <data key="d16">3679.0</data>
 </node>
 <node id="353303">
@@ -8525,10 +8525,10 @@
   <data key="d9">5.0</data>
   <data key="d10">3295.803046491815</data>
   <data key="d11">Q446006</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.798717498779297</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.0036911964416504</data>
   <data key="d16">42226.0</data>
 </node>
 <node id="737885">
@@ -8547,7 +8547,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">23.000230312347416</data>
+  <data key="d15">0.0</data>
   <data key="d16">2038.0</data>
 </node>
 <node id="1608977">
@@ -8566,7 +8566,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.996618628501892</data>
+  <data key="d15">0.0</data>
   <data key="d16">3645.0</data>
 </node>
 <node id="41303">
@@ -8715,10 +8715,10 @@
   <data key="d9">1.0</data>
   <data key="d10">30.234138084138078</data>
   <data key="d11">Q183375</data>
-  <data key="d12">Geography.Regions.Asia.Asia*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Asia*</data>
-  <data key="d15">0.812560519695282</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.46834467351436615</data>
   <data key="d16">1174.0</data>
 </node>
 <node id="6284901">
@@ -8791,10 +8791,10 @@
   <data key="d9">13.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q28497094</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9886782765388488</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.12253321707248688</data>
   <data key="d16">2692.0</data>
 </node>
 <node id="139025">
@@ -8829,10 +8829,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q721819</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.998803436756134</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.7663036584854126</data>
   <data key="d16">2038.0</data>
 </node>
 <node id="11885691">
@@ -8870,7 +8870,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">5.000050067901612</data>
+  <data key="d15">0.0</data>
   <data key="d16">2200.0</data>
 </node>
 <node id="12621">
@@ -8889,7 +8889,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">8.72815865278244</data>
+  <data key="d15">0.0</data>
   <data key="d16">4972.0</data>
 </node>
 <node id="59891">
@@ -8943,10 +8943,10 @@
   <data key="d9">8.0</data>
   <data key="d10">3471.0000000000005</data>
   <data key="d11">Q1423</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9734879732131962</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">2.8659873604774475</data>
   <data key="d16">3572.0</data>
 </node>
 <node id="2020347">
@@ -9038,10 +9038,10 @@
   <data key="d9">0.0</data>
   <data key="d10">1392.0</data>
   <data key="d11">Q3265246</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.8798466920852663</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.7551013827323914</data>
   <data key="d16">6371.0</data>
 </node>
 <node id="11396609">
@@ -9079,7 +9079,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">0.9987257122993468</data>
+  <data key="d15">0.0</data>
   <data key="d16">3194.0</data>
 </node>
 <node id="10442603">
@@ -9136,7 +9136,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.9918370246887207</data>
+  <data key="d15">0.0</data>
   <data key="d16">4307.0</data>
 </node>
 <node id="59927">
@@ -9209,10 +9209,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q16222574</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9937201142311096</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.4532718360424042</data>
   <data key="d16">2325.0</data>
 </node>
 <node id="76823">
@@ -9307,7 +9307,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.992888569831848</data>
+  <data key="d15">0.0</data>
   <data key="d16">1779.0</data>
 </node>
 <node id="1547877">
@@ -9342,10 +9342,10 @@
   <data key="d9">2.0</data>
   <data key="d10">15792.579138465222</data>
   <data key="d11">Q207958</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">20.92235845327377</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">17.973084926605225</data>
   <data key="d16">37326.0</data>
 </node>
 <node id="155179">
@@ -9364,7 +9364,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d15">0.0</data>
   <data key="d16">2627.0</data>
 </node>
 <node id="618809">
@@ -9418,10 +9418,10 @@
   <data key="d9">1.0</data>
   <data key="d10">4069.9561493166493</data>
   <data key="d11">Q57553</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">8.96110635995865</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">2.3115778863430023</data>
   <data key="d16">33594.0</data>
 </node>
 <node id="1793263">
@@ -9437,10 +9437,10 @@
   <data key="d9">9.0</data>
   <data key="d10">1.2000000000000002</data>
   <data key="d11">Q251980</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.9942025542259225</data>
+  <data key="d14">Sports</data>
+  <data key="d15">4.992306232452392</data>
   <data key="d16">2377.0</data>
 </node>
 <node id="91867">
@@ -9475,10 +9475,10 @@
   <data key="d9">6.0</data>
   <data key="d10">0.6265573506952818</data>
   <data key="d11">Q2363394</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">9.659096002578737</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.097157895565033</data>
   <data key="d16">2766.0</data>
 </node>
 <node id="6048155">
@@ -9494,10 +9494,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3332872</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9899964332580566</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.6224693655967712</data>
   <data key="d16">6502.0</data>
 </node>
 <node id="10423835">
@@ -9513,10 +9513,10 @@
   <data key="d9">4.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q26436159</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9984612464904783</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.5546197891235352</data>
   <data key="d16">9423.0</data>
 </node>
 <node id="851561">
@@ -9535,7 +9535,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9985091686248784</data>
+  <data key="d15">0.0</data>
   <data key="d16">3443.0</data>
 </node>
 <node id="8786079">
@@ -9554,7 +9554,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.8144020438194275</data>
+  <data key="d15">0.0</data>
   <data key="d16">49626.0</data>
 </node>
 <node id="329513">
@@ -9668,7 +9668,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9992306232452391</data>
+  <data key="d15">0.0</data>
   <data key="d16">1769.0</data>
 </node>
 <node id="11670775">
@@ -9703,10 +9703,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1393.0</data>
   <data key="d11">Q43266</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">3.798717498779297</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.5693873167037964</data>
   <data key="d16">6958.0</data>
 </node>
 <node id="10293">
@@ -9725,7 +9725,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">4.00004005432129</data>
+  <data key="d15">0.0</data>
   <data key="d16">2020.0</data>
 </node>
 <node id="798197">
@@ -9760,10 +9760,10 @@
   <data key="d9">0.0</data>
   <data key="d10">253.8408351319356</data>
   <data key="d11">Q344983</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">10.976100206375124</data>
+  <data key="d14">Music</data>
+  <data key="d15">7.471076011657715</data>
   <data key="d16">3324.0</data>
 </node>
 <node id="468267">
@@ -9798,10 +9798,10 @@
   <data key="d9">17.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q270364</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.978665709495544</data>
+  <data key="d14">Music</data>
+  <data key="d15">0.7527683973312378</data>
   <data key="d16">4511.0</data>
 </node>
 <node id="4753999">
@@ -9820,7 +9820,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.970656633377075</data>
+  <data key="d15">0.0</data>
   <data key="d16">6836.0</data>
 </node>
 <node id="5299335">
@@ -9836,10 +9836,10 @@
   <data key="d9">1.0</data>
   <data key="d10">4466.432498098597</data>
   <data key="d11">Q81545</data>
-  <data key="d12">Geography.Regions.Africa.Africa*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Africa*</data>
-  <data key="d15">10.270334243774414</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">7.901130437850952</data>
   <data key="d16">3240.0</data>
 </node>
 <node id="130423">
@@ -9855,10 +9855,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1351.4510464953632</data>
   <data key="d11">Q42053</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">4.813415706157683</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.533502958714962</data>
   <data key="d16">3082.0</data>
 </node>
 <node id="3344951">
@@ -9931,10 +9931,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q1556541</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.9905974268913268</data>
   <data key="d16">5332.0</data>
 </node>
 <node id="247867">
@@ -9969,10 +9969,10 @@
   <data key="d9">0.0</data>
   <data key="d10">9.648506112051</data>
   <data key="d11">Q184249</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">8.990201354026796</data>
+  <data key="d14">Media*</data>
+  <data key="d15">6.946681559085847</data>
   <data key="d16">4205.0</data>
 </node>
 <node id="5720829">
@@ -10007,10 +10007,10 @@
   <data key="d9">3.0</data>
   <data key="d10">5989.643989386667</data>
   <data key="d11">Q311607</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Visual_arts.Visual_arts*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.9740709066391</data>
+  <data key="d14">Visual_arts*</data>
+  <data key="d15">5.394788503646851</data>
   <data key="d16">16414.0</data>
 </node>
 <node id="199563">
@@ -10067,7 +10067,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.9638686776161194</data>
+  <data key="d15">0.0</data>
   <data key="d16">19935.0</data>
 </node>
 <node id="58511">
@@ -10140,10 +10140,10 @@
   <data key="d9">9.0</data>
   <data key="d10">2.5</data>
   <data key="d11">Q311222</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.993425011634826</data>
+  <data key="d14">Sports</data>
+  <data key="d15">4.925264716148376</data>
   <data key="d16">5572.0</data>
 </node>
 <node id="2676355">
@@ -10200,7 +10200,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">5.000050067901612</data>
+  <data key="d15">0.0</data>
   <data key="d16">5440.0</data>
 </node>
 <node id="781855">
@@ -10235,10 +10235,10 @@
   <data key="d9">3.0</data>
   <data key="d10">8221.937463965494</data>
   <data key="d11">Q3048</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9793185591697697</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.6520425528287888</data>
   <data key="d16">11794.0</data>
 </node>
 <node id="473109">
@@ -10276,7 +10276,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">7.206951484680176</data>
+  <data key="d15">0.0</data>
   <data key="d16">5238.0</data>
 </node>
 <node id="57443">
@@ -10292,10 +10292,10 @@
   <data key="d9">2.0</data>
   <data key="d10">2845.113405525845</data>
   <data key="d11">Q161076</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.981513917446136</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.9246108829975128</data>
   <data key="d16">4333.0</data>
 </node>
 <node id="5455851">
@@ -10311,10 +10311,10 @@
   <data key="d9">7.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q3350727</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9727463722229004</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.9843962788581848</data>
   <data key="d16">6724.0</data>
 </node>
 <node id="239185">
@@ -10349,10 +10349,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q355652</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Visual_arts.Comics_and_Anime</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.0000300407409677</data>
+  <data key="d14">Comics_and_Anime</data>
+  <data key="d15">2.4527535438537598</data>
   <data key="d16">9434.0</data>
 </node>
 <node id="834581">
@@ -10368,10 +10368,10 @@
   <data key="d9">11.0</data>
   <data key="d10">1154.8062971169732</data>
   <data key="d11">Q230929</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Television</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.991356194019318</data>
+  <data key="d14">Television</data>
+  <data key="d15">1.3778535276651382</data>
   <data key="d16">22879.0</data>
 </node>
 <node id="563937">
@@ -10387,10 +10387,10 @@
   <data key="d9">15.0</data>
   <data key="d10">6201.0</data>
   <data key="d11">Q448271</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.5884499549865722</data>
   <data key="d16">1521.0</data>
 </node>
 <node id="102781">
@@ -10409,7 +10409,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">0.9893575310707092</data>
+  <data key="d15">0.0</data>
   <data key="d16">3214.0</data>
 </node>
 <node id="12063327">
@@ -10425,10 +10425,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q21890311</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9790457487106324</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.14034625887870789</data>
   <data key="d16">2205.0</data>
 </node>
 <node id="1216411">
@@ -10447,7 +10447,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9973783493041992</data>
+  <data key="d15">0.0</data>
   <data key="d16">2013.0</data>
 </node>
 <node id="3640203">
@@ -10482,10 +10482,10 @@
   <data key="d9">5.0</data>
   <data key="d10">5462.5994269495595</data>
   <data key="d11">Q3560451</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.881113588809967</data>
+  <data key="d12">STEM.Biology</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Biology</data>
+  <data key="d15">1.77802973985672</data>
   <data key="d16">3178.0</data>
 </node>
 <node id="1733729">
@@ -10504,7 +10504,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9994029402732848</data>
+  <data key="d15">0.0</data>
   <data key="d16">3005.0</data>
 </node>
 <node id="317431">
@@ -10523,7 +10523,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d15">0.0</data>
   <data key="d16">2703.0</data>
 </node>
 <node id="3530893">
@@ -10539,10 +10539,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q16928476</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">1.988197922706604</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">1.966190218925476</data>
   <data key="d16">2323.0</data>
 </node>
 <node id="1796289">
@@ -10558,10 +10558,10 @@
   <data key="d9">5.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3379816</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9617719650268552</data>
+  <data key="d12">STEM.Medicine_&amp;_Health</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Medicine_&amp;_Health</data>
+  <data key="d15">0.2194315791130066</data>
   <data key="d16">3078.0</data>
 </node>
 <node id="8718553">
@@ -10580,7 +10580,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9959398508071899</data>
+  <data key="d15">0.0</data>
   <data key="d16">3287.0</data>
 </node>
 <node id="4707039">
@@ -10599,7 +10599,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">20.99247604608536</data>
+  <data key="d15">0.0</data>
   <data key="d16">1834.0</data>
 </node>
 <node id="103533">
@@ -10653,10 +10653,10 @@
   <data key="d9">4.0</data>
   <data key="d10">0.7026315789473683</data>
   <data key="d11">Q935734</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.00004005432129</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">3.954713106155395</data>
   <data key="d16">3706.0</data>
 </node>
 <node id="4601941">
@@ -10710,10 +10710,10 @@
   <data key="d9">7.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q621737</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">0.21124218606948847</data>
+  <data key="d12">History_and_Society.Business_and_economics</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Business_and_economics</data>
+  <data key="d15">0.16886694729328156</data>
   <data key="d16">2831.0</data>
 </node>
 <node id="10991627">
@@ -10748,10 +10748,10 @@
   <data key="d9">3.0</data>
   <data key="d10">1275.2917878098915</data>
   <data key="d11">Q465440</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.975082635879516</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.3366186916828158</data>
   <data key="d16">2626.0</data>
 </node>
 <node id="144889">
@@ -10767,10 +10767,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q379702</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.98891019821167</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">1.4743363857269287</data>
   <data key="d16">6014.0</data>
 </node>
 <node id="221879">
@@ -10805,10 +10805,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q425135</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9825675487518308</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.11280541121959685</data>
   <data key="d16">3527.0</data>
 </node>
 <node id="128543">
@@ -10824,10 +10824,10 @@
   <data key="d9">1.0</data>
   <data key="d10">2209.3580250200175</data>
   <data key="d11">Q1953</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">5.264920949935913</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">0.7555965185165405</data>
   <data key="d16">2912.0</data>
 </node>
 <node id="683437">
@@ -10862,10 +10862,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q741555</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.13297423720359802</data>
   <data key="d16">2903.0</data>
 </node>
 <node id="304717">
@@ -10881,10 +10881,10 @@
   <data key="d9">1.0</data>
   <data key="d10">308.6602337441612</data>
   <data key="d11">Q4558</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">3.6497848033905025</data>
+  <data key="d12">STEM.Earth_and_environment</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Earth_and_environment</data>
+  <data key="d15">2.0937213897705083</data>
   <data key="d16">3416.0</data>
 </node>
 <node id="194509">
@@ -10900,10 +10900,10 @@
   <data key="d9">1.0</data>
   <data key="d10">349.17307062840524</data>
   <data key="d11">Q162269</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9972968697547913</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">2.077955961227417</data>
   <data key="d16">3613.0</data>
 </node>
 <node id="1072943">
@@ -10919,10 +10919,10 @@
   <data key="d9">2.0</data>
   <data key="d10">723.773623412231</data>
   <data key="d11">Q17577</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">9.952548146247864</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">9.124462008476256</data>
   <data key="d16">12736.0</data>
 </node>
 <node id="109115">
@@ -10938,10 +10938,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.8333333333333334</data>
   <data key="d11">Q1442352</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">0.7442916841506959</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">0.6207121610641478</data>
   <data key="d16">3968.0</data>
 </node>
 <node id="4177195">
@@ -10976,10 +10976,10 @@
   <data key="d9">10.0</data>
   <data key="d10">2085.0</data>
   <data key="d11">Q28921</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.9984221458435054</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.40355449914932257</data>
   <data key="d16">3605.0</data>
 </node>
 <node id="6709139">
@@ -10995,10 +10995,10 @@
   <data key="d9">1.0</data>
   <data key="d10">7.002195871761086</data>
   <data key="d11">Q619829</data>
-  <data key="d12">Geography.Regions.Asia.West_Asia</data>
-  <data key="d13">Geography</data>
-  <data key="d14">West_Asia</data>
-  <data key="d15">1.8298219442367551</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">1.4115900993347168</data>
   <data key="d16">3329.0</data>
 </node>
 <node id="534951">
@@ -11014,10 +11014,10 @@
   <data key="d9">11.0</data>
   <data key="d10">1813.3815989626028</data>
   <data key="d11">Q346411</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">8.99163043498993</data>
+  <data key="d14">Media*</data>
+  <data key="d15">1.0152487009763715</data>
   <data key="d16">26054.0</data>
 </node>
 <node id="5704045">
@@ -11033,10 +11033,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1395.0585488456754</data>
   <data key="d11">Q167635</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">4.982081949710846</data>
+  <data key="d14">Media*</data>
+  <data key="d15">3.6553430557250977</data>
   <data key="d16">5847.0</data>
 </node>
 <node id="445799">
@@ -11090,10 +11090,10 @@
   <data key="d9">4.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q7294939</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9987276792526247</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.9672139883041384</data>
   <data key="d16">2541.0</data>
 </node>
 <node id="3086211">
@@ -11128,10 +11128,10 @@
   <data key="d9">3.0</data>
   <data key="d10">22669.0</data>
   <data key="d11">Q242798</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">1.8063365898132324</data>
+  <data key="d12">Culture.Linguistics</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Linguistics</data>
+  <data key="d15">1.3663700819015503</data>
   <data key="d16">2448.0</data>
 </node>
 <node id="7915533">
@@ -11147,10 +11147,10 @@
   <data key="d9">2.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q16626129</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9669240117073059</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.8991314172744751</data>
   <data key="d16">5916.0</data>
 </node>
 <node id="478205">
@@ -11185,10 +11185,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q7933011</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9732507467269896</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.6859594583511353</data>
   <data key="d16">2498.0</data>
 </node>
 <node id="84701">
@@ -11242,10 +11242,10 @@
   <data key="d9">13.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q509314</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.998977780342102</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.21734751760959625</data>
   <data key="d16">3409.0</data>
 </node>
 <node id="311197">
@@ -11264,7 +11264,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d15">0.0</data>
   <data key="d16">5817.0</data>
 </node>
 <node id="20033">
@@ -11318,10 +11318,10 @@
   <data key="d9">1.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q946</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9923710823059082</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.8756669759750366</data>
   <data key="d16">5880.0</data>
 </node>
 <node id="3584819">
@@ -11375,10 +11375,10 @@
   <data key="d9">2.0</data>
   <data key="d10">279.7048119143529</data>
   <data key="d11">Q48402</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.989900231361389</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">2.4665974974632263</data>
   <data key="d16">2492.0</data>
 </node>
 <node id="166747">
@@ -11489,10 +11489,10 @@
   <data key="d9">16.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q199896</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d14">Sports</data>
+  <data key="d15">1.9986007213592527</data>
   <data key="d16">4805.0</data>
 </node>
 <node id="5215449">
@@ -11527,10 +11527,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q180672</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">1.4720826358795167</data>
+  <data key="d12">Compilation.List_Disambig</data>
+  <data key="d13">Compilation</data>
+  <data key="d14">List_Disambig</data>
+  <data key="d15">0.0</data>
   <data key="d16">4013.0</data>
 </node>
 <node id="184535">
@@ -11546,10 +11546,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q159636</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Philosophy_and_religion</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9979592561721802</data>
+  <data key="d14">Philosophy_and_religion</data>
+  <data key="d15">0.4921981394290924</data>
   <data key="d16">1498.0</data>
 </node>
 <node id="1945829">
@@ -11565,10 +11565,10 @@
   <data key="d9">17.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q210327</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.31222978234291077</data>
   <data key="d16">2784.0</data>
 </node>
 <node id="2765345">
@@ -11584,10 +11584,10 @@
   <data key="d9">17.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q293590</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.9680725932121277</data>
+  <data key="d14">Music</data>
+  <data key="d15">1.640244483947754</data>
   <data key="d16">6215.0</data>
 </node>
 <node id="3917419">
@@ -11641,10 +11641,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3384043</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.994098961353302</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">0.10375863313674928</data>
   <data key="d16">4598.0</data>
 </node>
 <node id="42713">
@@ -11698,10 +11698,10 @@
   <data key="d9">7.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q3052935</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9924327731132508</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.7057950496673584</data>
   <data key="d16">4277.0</data>
 </node>
 <node id="347621">
@@ -11717,10 +11717,10 @@
   <data key="d9">11.0</data>
   <data key="d10">1454.0499576901962</data>
   <data key="d11">Q435455</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Television</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">5.99047315120697</data>
+  <data key="d14">Television</data>
+  <data key="d15">1.7653498649597164</data>
   <data key="d16">52593.0</data>
 </node>
 <node id="1901561">
@@ -11755,10 +11755,10 @@
   <data key="d9">11.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q80338</data>
-  <data key="d12">Geography.Regions.Asia.Asia*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Asia*</data>
-  <data key="d15">1.6709871292114258</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.5884499549865722</data>
   <data key="d16">3234.0</data>
 </node>
 <node id="203379">
@@ -11774,10 +11774,10 @@
   <data key="d9">13.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q253239</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9996530413627625</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.8558611869812012</data>
   <data key="d16">10731.0</data>
 </node>
 <node id="502585">
@@ -11793,10 +11793,10 @@
   <data key="d9">5.0</data>
   <data key="d10">6029.358399020333</data>
   <data key="d11">Q181799</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Performing_arts</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9990133047103882</data>
+  <data key="d14">Performing_arts</data>
+  <data key="d15">0.550279438495636</data>
   <data key="d16">2488.0</data>
 </node>
 <node id="443311">
@@ -11815,7 +11815,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">1.83930504322052</data>
+  <data key="d15">0.0</data>
   <data key="d16">1730.0</data>
 </node>
 <node id="7729067">
@@ -11831,10 +11831,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q565242</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9899964332580566</data>
+  <data key="d14">Literature</data>
+  <data key="d15">0.18714269995689392</data>
   <data key="d16">2413.0</data>
 </node>
 <node id="9575599">
@@ -11850,10 +11850,10 @@
   <data key="d9">1.0</data>
   <data key="d10">402.55860318778997</data>
   <data key="d11">Q21499517</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">8.852462947368624</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">8.29738676548004</data>
   <data key="d16">6109.0</data>
 </node>
 <node id="11921541">
@@ -11869,10 +11869,10 @@
   <data key="d9">1.0</data>
   <data key="d10">2883.4801251297054</data>
   <data key="d11">Q55391586</data>
-  <data key="d12">Geography.Regions.Americas.North_America</data>
-  <data key="d13">Geography</data>
-  <data key="d14">North_America</data>
-  <data key="d15">1.519228406906128</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.2833251953125</data>
   <data key="d16">12882.0</data>
 </node>
 <node id="847599">
@@ -11907,10 +11907,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q7244714</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">3.9797987937927246</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">1.100558876991272</data>
   <data key="d16">6370.0</data>
 </node>
 <node id="442685">
@@ -11964,10 +11964,10 @@
   <data key="d9">1.0</data>
   <data key="d10">43728.734943382566</data>
   <data key="d11">Q959</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">4.420246481895447</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">3.7454861402511597</data>
   <data key="d16">3408.0</data>
 </node>
 <node id="2072819">
@@ -12005,7 +12005,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9978272914886476</data>
+  <data key="d15">0.0</data>
   <data key="d16">1444.0</data>
 </node>
 <node id="4127783">
@@ -12024,7 +12024,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.97782039642334</data>
+  <data key="d15">0.0</data>
   <data key="d16">3710.0</data>
 </node>
 <node id="3491015">
@@ -12062,7 +12062,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">4.993825852870941</data>
+  <data key="d15">0.0</data>
   <data key="d16">4612.0</data>
 </node>
 <node id="117903">
@@ -12081,7 +12081,7 @@
   <data key="d12">Geography.Regions.Asia.Asia*</data>
   <data key="d13">Geography</data>
   <data key="d14">Asia*</data>
-  <data key="d15">0.8175845146179199</data>
+  <data key="d15">0.0</data>
   <data key="d16">2989.0</data>
 </node>
 <node id="79233">
@@ -12097,10 +12097,10 @@
   <data key="d9">1.0</data>
   <data key="d10">207.6648980455029</data>
   <data key="d11">Q6576</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">3.7376205921173096</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">3.0652146339416504</data>
   <data key="d16">4222.0</data>
 </node>
 <node id="26491">
@@ -12116,10 +12116,10 @@
   <data key="d9">1.0</data>
   <data key="d10">737.9257038683943</data>
   <data key="d11">Q82083</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Literature</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.996618628501892</data>
+  <data key="d14">Literature</data>
+  <data key="d15">1.3719189167022705</data>
   <data key="d16">5621.0</data>
 </node>
 <node id="171581">
@@ -12154,10 +12154,10 @@
   <data key="d9">5.0</data>
   <data key="d10">6029.358399020333</data>
   <data key="d11">Q102551</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.99491822719574</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.4346950352191925</data>
   <data key="d16">4845.0</data>
 </node>
 <node id="2974657">
@@ -12249,10 +12249,10 @@
   <data key="d9">9.0</data>
   <data key="d10">8004.897142183075</data>
   <data key="d11">Q54539</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.000060081481935</data>
+  <data key="d14">Sports</data>
+  <data key="d15">5.967750549316406</data>
   <data key="d16">4992.0</data>
 </node>
 <node id="30989">
@@ -12290,7 +12290,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.9960379600524902</data>
+  <data key="d15">0.0</data>
   <data key="d16">14422.0</data>
 </node>
 <node id="5151339">
@@ -12325,10 +12325,10 @@
   <data key="d9">14.0</data>
   <data key="d10">4157.0</data>
   <data key="d11">Q202660</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">2.61182177066803</data>
+  <data key="d12">History_and_Society.Education</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Education</data>
+  <data key="d15">1.77802973985672</data>
   <data key="d16">8741.0</data>
 </node>
 <node id="7483">
@@ -12347,7 +12347,7 @@
   <data key="d12">Geography.Regions.Americas.North_America</data>
   <data key="d13">Geography</data>
   <data key="d14">North_America</data>
-  <data key="d15">7.996272444725037</data>
+  <data key="d15">0.0</data>
   <data key="d16">4498.0</data>
 </node>
 <node id="3573325">
@@ -12458,10 +12458,10 @@
   <data key="d9">0.0</data>
   <data key="d10">669.1498997336022</data>
   <data key="d11">Q843881</data>
-  <data key="d12">Geography.Regions.Oceania</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Oceania</data>
-  <data key="d15">17.465350475311283</data>
+  <data key="d12">Culture.Sports</data>
+  <data key="d13">Culture</data>
+  <data key="d14">Sports</data>
+  <data key="d15">8.989469558000565</data>
   <data key="d16">1876.0</data>
 </node>
 <node id="8443071">
@@ -12480,7 +12480,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">1.9940580129623415</data>
+  <data key="d15">0.0</data>
   <data key="d16">1833.0</data>
 </node>
 <node id="65177">
@@ -12496,10 +12496,10 @@
   <data key="d9">6.0</data>
   <data key="d10">797.7501753993042</data>
   <data key="d11">Q2822856</data>
-  <data key="d12">Geography.Regions.Europe.Western_Europe</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Western_Europe</data>
-  <data key="d15">7.957784446716309</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">6.760234355926514</data>
   <data key="d16">5630.0</data>
 </node>
 <node id="11029529">
@@ -12515,10 +12515,10 @@
   <data key="d9">0.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q18818796</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Music</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9863731861114502</data>
+  <data key="d14">Music</data>
+  <data key="d15">0.26285186409950256</data>
   <data key="d16">2395.0</data>
 </node>
 <node id="3495007">
@@ -12534,10 +12534,10 @@
   <data key="d9">0.0</data>
   <data key="d10">119.32242265384896</data>
   <data key="d11">Q2532815</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">1.8993587493896484</data>
+  <data key="d12">STEM.Earth_and_environment</data>
+  <data key="d13">STEM</data>
+  <data key="d14">Earth_and_environment</data>
+  <data key="d15">1.7481744289398193</data>
   <data key="d16">3337.0</data>
 </node>
 <node id="6223735">
@@ -12556,7 +12556,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9982553720474244</data>
+  <data key="d15">0.0</data>
   <data key="d16">3470.0</data>
 </node>
 <node id="884325">
@@ -12572,10 +12572,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q255169</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.998309314250946</data>
+  <data key="d12">History_and_Society.History</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">History</data>
+  <data key="d15">0.9073222279548644</data>
   <data key="d16">3959.0</data>
 </node>
 <node id="4893055">
@@ -12594,7 +12594,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">2.000020027160645</data>
+  <data key="d15">0.0</data>
   <data key="d16">2021.0</data>
 </node>
 <node id="220211">
@@ -12610,10 +12610,10 @@
   <data key="d9">4.0</data>
   <data key="d10">2905.0543125608287</data>
   <data key="d11">Q4496</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">7.991011619567872</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">6.649224281311035</data>
   <data key="d16">3598.0</data>
 </node>
 <node id="1098011">
@@ -12629,10 +12629,10 @@
   <data key="d9">11.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q145464</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9995927214622498</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.11280541121959685</data>
   <data key="d16">3111.0</data>
 </node>
 <node id="2776921">
@@ -12667,10 +12667,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q220396</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9995927214622498</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.11597072333097458</data>
   <data key="d16">3820.0</data>
 </node>
 <node id="337205">
@@ -12705,10 +12705,10 @@
   <data key="d9">2.0</data>
   <data key="d10">1833.474556921612</data>
   <data key="d11">Q508659</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">7.927074909210205</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">6.649224281311035</data>
   <data key="d16">6742.0</data>
 </node>
 <node id="8653699">
@@ -12727,7 +12727,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">2.9591195583343506</data>
+  <data key="d15">0.0</data>
   <data key="d16">3014.0</data>
 </node>
 <node id="19119">
@@ -12746,7 +12746,7 @@
   <data key="d12">Geography.Regions.Europe.Europe*</data>
   <data key="d13">Geography</data>
   <data key="d14">Europe*</data>
-  <data key="d15">1.0000100135803225</data>
+  <data key="d15">0.0</data>
   <data key="d16">3272.0</data>
 </node>
 <node id="213289">
@@ -12784,7 +12784,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">0.9939124584197998</data>
+  <data key="d15">0.0</data>
   <data key="d16">2861.0</data>
 </node>
 <node id="6723881">
@@ -12819,10 +12819,10 @@
   <data key="d9">4.0</data>
   <data key="d10">1.8318181818181816</data>
   <data key="d11">Q544464</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">6.000060081481935</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">5.971528887748718</data>
   <data key="d16">1451.0</data>
 </node>
 <node id="1008463">
@@ -12838,10 +12838,10 @@
   <data key="d9">10.0</data>
   <data key="d10">2779.0</data>
   <data key="d11">Q430491</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Media.Media*</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.939033031463622</data>
+  <data key="d14">Media*</data>
+  <data key="d15">0.6207121610641478</data>
   <data key="d16">3568.0</data>
 </node>
 <node id="806531">
@@ -12895,10 +12895,10 @@
   <data key="d9">3.0</data>
   <data key="d10">5499.172738439483</data>
   <data key="d11">Q529385</data>
-  <data key="d12">Geography.Regions.Europe.Europe*</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Europe*</data>
-  <data key="d15">2.8846313953399654</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">1.8230195045471187</data>
   <data key="d16">4927.0</data>
 </node>
 <node id="996183">
@@ -12917,7 +12917,7 @@
   <data key="d12">Geography.Regions.Asia.Asia*</data>
   <data key="d13">Geography</data>
   <data key="d14">Asia*</data>
-  <data key="d15">7.122434139251709</data>
+  <data key="d15">0.0</data>
   <data key="d16">2341.0</data>
 </node>
 <node id="8272933">
@@ -12933,10 +12933,10 @@
   <data key="d9">3.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q14943864</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9946250915527344</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.989681839942932</data>
   <data key="d16">3074.0</data>
 </node>
 <node id="4840293">
@@ -12993,7 +12993,7 @@
   <data key="d12">Culture.Biography.Biography*</data>
   <data key="d13">Culture</data>
   <data key="d14">Biography*</data>
-  <data key="d15">3.976395845413208</data>
+  <data key="d15">0.0</data>
   <data key="d16">8868.0</data>
 </node>
 <node id="528027">
@@ -13009,10 +13009,10 @@
   <data key="d9">9.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q233306</data>
-  <data key="d12">Culture.Biography.Biography*</data>
+  <data key="d12">Culture.Sports</data>
   <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">0.9990700483322144</data>
+  <data key="d14">Sports</data>
+  <data key="d15">0.9935217499732972</data>
   <data key="d16">4405.0</data>
 </node>
 <node id="444915">
@@ -13031,7 +13031,7 @@
   <data key="d12">Geography.Geographical</data>
   <data key="d13">Geography</data>
   <data key="d14">Geographical</data>
-  <data key="d15">20.987057447433468</data>
+  <data key="d15">0.0</data>
   <data key="d16">2005.0</data>
 </node>
 <node id="10934719">
@@ -13047,10 +13047,10 @@
   <data key="d9">1.0</data>
   <data key="d10">697.0</data>
   <data key="d11">Q30343112</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">2.990511953830719</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">2.622261643409729</data>
   <data key="d16">6466.0</data>
 </node>
 <node id="84325">
@@ -13104,10 +13104,10 @@
   <data key="d9">1.0</data>
   <data key="d10">1.4619047619047618</data>
   <data key="d11">Q28419687</data>
-  <data key="d12">Geography.Regions.Asia.West_Asia</data>
-  <data key="d13">Geography</data>
-  <data key="d14">West_Asia</data>
-  <data key="d15">2.983875274658203</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">2.9371372461318974</data>
   <data key="d16">1662.0</data>
 </node>
 <node id="7355175">
@@ -13218,10 +13218,10 @@
   <data key="d9">6.0</data>
   <data key="d10">8.869215267491127</data>
   <data key="d11">Q3159243</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">19.916224479675293</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">4.563329517841339</data>
   <data key="d16">5161.0</data>
 </node>
 <node id="10935503">
@@ -13237,10 +13237,10 @@
   <data key="d9">1.0</data>
   <data key="d10">0.0</data>
   <data key="d11">Q30496487</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9968243837356567</data>
+  <data key="d12">History_and_Society.Politics_and_government</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Politics_and_government</data>
+  <data key="d15">1.8483036756515503</data>
   <data key="d16">3820.0</data>
 </node>
 <node id="9405">
@@ -13256,10 +13256,10 @@
   <data key="d9">1.0</data>
   <data key="d10">4164.131894256559</data>
   <data key="d11">Q27275</data>
-  <data key="d12">Geography.Geographical</data>
-  <data key="d13">Geography</data>
-  <data key="d14">Geographical</data>
-  <data key="d15">8.888849377632141</data>
+  <data key="d12">History_and_Society.Society</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Society</data>
+  <data key="d15">6.184051930904388</data>
   <data key="d16">6068.0</data>
 </node>
 <node id="311191">
@@ -13278,7 +13278,7 @@
   <data key="d12">Geography.Regions.Europe.Western_Europe</data>
   <data key="d13">Geography</data>
   <data key="d14">Western_Europe</data>
-  <data key="d15">5.000050067901612</data>
+  <data key="d15">0.0</data>
   <data key="d16">3677.0</data>
 </node>
 <node id="1500661">
@@ -13294,10 +13294,10 @@
   <data key="d9">2.0</data>
   <data key="d10">1392.0</data>
   <data key="d11">Q2821507</data>
-  <data key="d12">Culture.Biography.Biography*</data>
-  <data key="d13">Culture</data>
-  <data key="d14">Biography*</data>
-  <data key="d15">1.9413955211639404</data>
+  <data key="d12">History_and_Society.Military_and_warfare</data>
+  <data key="d13">History_and_Society</data>
+  <data key="d14">Military_and_warfare</data>
+  <data key="d15">0.24506643414497375</data>
   <data key="d16">11265.0</data>
 </node>
 <edge source="7783666" target="235574">
