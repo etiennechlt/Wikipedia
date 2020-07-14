@@ -54,14 +54,20 @@ def init_graph(param):
     graph_type = param.graph_type
     save = param.save
     
-    ### With .GRAPHML ###
-    if (graph_type == 'graphml'):
-        graph = nx.read_graphml(path+'graph.graphml')
-
-    ### With .GEXF ###
-    if (graph_type == 'gexf'):
-        graph = nx.read_gexf(path+'graph.gexf')
+    # Try with default name from SparkWiki
+    try:
+        graph = nx.read_gexf(path+'peaks_graph_'+date_beg+'_'+date_end+'.gexf')
         graph = nx.Graph(graph)
+    except:
+        ### With .GEXF ###
+        if (graph_type == 'gexf'):
+            graph = nx.read_gexf(path+'graph.gexf')
+            graph = nx.Graph(graph)
+
+        ### With .GRAPHML ###
+        if (graph_type == 'graphml'):
+            graph = nx.read_graphml(path+'graph.graphml')
+
 
     dataFrame = pd.DataFrame.from_dict(dict(graph.nodes(data=True)), orient='index')
     dataFrame['Id'] = dataFrame.index
@@ -266,14 +272,19 @@ def save_graph_attributes(param):
     list_ignored_topics = param.list_ignored_topics
     prob_threshold = param.prob_threshold
     
-    ### With .GRAPHML ###
-    if (graph_type == 'graphml'):
-        graph = nx.read_graphml(path+'graph.graphml')
-
-    ### With .GEXF ###
-    if (graph_type == 'gexf'):
-        graph = nx.read_gexf(path+'graph.gexf')
+   # Try with default name from SparkWiki
+    try:
+        graph = nx.read_gexf(path+'peaks_graph_'+date_beg+'_'+date_end+'.gexf')
         graph = nx.Graph(graph)
+    except:
+        ### With .GEXF ###
+        if (graph_type == 'gexf'):
+            graph = nx.read_gexf(path+'graph.gexf')
+            graph = nx.Graph(graph)
+
+        ### With .GRAPHML ###
+        if (graph_type == 'graphml'):
+            graph = nx.read_graphml(path+'graph.graphml')
 
 
     df = pd.read_csv(path + 'pages_views.csv', index_col = 'Unnamed: 0')
@@ -348,6 +359,12 @@ def count_topic_per_cluster(param):
     save = param.save
     plot = param.plot
     
+    # Create a folder for the figures
+    try:
+        os.mkdir(path+'Figures')
+    except:
+        pass
+    
     nodes = pd.read_csv(path + 'filled_nodes.csv', index_col = 'Unnamed: 0')
 
     list_cluster_topic = pd.DataFrame()
@@ -364,34 +381,38 @@ def count_topic_per_cluster(param):
         cluster = df.groupby(['Subtopic']).sum()['Count']
         df_cluster = pd.DataFrame(cluster)
         df_cluster['modularity_class'] = cluster_id
-        df_cluster['Ratio'] = (cluster / cluster.sum() * 100).round(decimals=1)
+        df_cluster['Percentage'] = (cluster / cluster.sum() * 100).round(decimals=1)
         df_cluster['Subtopic'] = df_cluster.index
         df_cluster.set_index('modularity_class', inplace=True)
         df_cluster.sort_values(by = ['Count'], ascending = [False], inplace=True)
+        df_cluster = df_cluster[['Subtopic', 'Percentage', 'Count']]
         list_cluster_topic = list_cluster_topic.append(df_cluster, ignore_index=False)
 
+        
+        plt.figure(cluster_id)
+        # Making descending lists for plotting
+        labels = list(df_cluster['Subtopic'])[::-1]
+        ratio = list(df_cluster['Percentage'])[::-1]
+
+        ind = np.arange(len(ratio))  
+        height = 0.8
+
+        fig1, ax1 = plt.subplots()
+        ax1.barh(ind, ratio, height=height, align='center')
+
+        # Labeling everything
+        ax1.set_yticks(ind)
+        ax1.set_yticklabels(labels)
+        for i, v in enumerate(ratio):
+            ax1.text(v, i, " "+str(v), color='black', va='center')
+        plt.xlabel('Percentage')
+        plt.ylabel('Topics')
+        plt.title('Cluster ' + str(cluster_id))
+        plt.savefig(path+'Figures/Cluster_' + str(cluster_id)+'.png', bbox_inches='tight', transparent=False, pad_inches=0.1)
         if (plot == True):
-            plt.figure(cluster_id)
-            # Making descending lists for plotting
-            labels = list(df_cluster['Subtopic'])[::-1]
-            ratio = list(df_cluster['Ratio'])[::-1]
-
-            ind = np.arange(len(ratio))  
-            height = 0.8
-
-            fig1, ax1 = plt.subplots()
-            ax1.barh(ind, ratio, height=height, align='center')
-
-            # Labeling everything
-            ax1.set_yticks(ind)
-            ax1.set_yticklabels(labels)
-            for i, v in enumerate(ratio):
-                ax1.text(v, i, " "+str(v), color='black', va='center')
-            plt.xlabel('Ratio %')
-            plt.ylabel('Topics')
-            plt.title('Cluster ' + str(cluster_id))
             plt.show()
-
+        plt.close(cluster_id)
+        
     # Save the result
     if (save == True):
         list_cluster_topic.to_csv(path + 'list_cluster_topic.csv', encoding='utf-8')
