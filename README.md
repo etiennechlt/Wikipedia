@@ -22,7 +22,7 @@ A Python tools helping to give statistics, clustering and topics labeling on [Wi
 ##### Wikipedia grah
 Get the graph from [SparkWiki projet](https://github.com/epfl-lts2/sparkwiki).
 
-Place the file in a folder "Python/Results/<Region>/<Region>\_<date\_beg>\_<date\_end>".
+Place the file in a folder "Python/Results/<region>/<region>\_<date\_beg>\_<date\_end>".
   
 With date format: YYYYMMDD
 
