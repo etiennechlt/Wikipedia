@@ -76,8 +76,9 @@ Gephi files representing the graphs are also in "/Gephi"
 
 
 ## Screenshots
-
+**Topics comparaison**
 ![Topics comparaison](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Python/Figures_comparison/bar.gif)
+**Gephi graph (EN\_20200301\_20200315)**
 ![Gephi graph example (EN\_20200301\_20200315)](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Gephi/Figures/EN_20200301_20200315.png)
 
 
