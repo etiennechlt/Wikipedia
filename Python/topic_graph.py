@@ -318,13 +318,6 @@ def save_graph_attributes(param):
     add_graph_attribute(graph, nodes, 'Weight')
     add_graph_attribute(graph, nodes, 'Views')
 
-#     ### With .GRAPHML ###
-#     if (graph_type == 'graphml'):
-#         nx.write_graphml_lxml(graph, path + 'filled_graph.graphml')  
-
-#     ### With .GEXF ###
-#     if (graph_type == 'gexf'):
-#         nx.write_gexf(graph, path + 'filled_graph.gexf')  
         
     # Save the graph
     nx.write_gexf(graph, path + 'filled_graph.gexf')  
