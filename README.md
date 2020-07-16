@@ -21,9 +21,13 @@ A Python tools helping to give statistics, clustering and topics labeling on [Wi
 
 ##### Wikipedia grah
 Get the graph from [SparkWiki projet](https://github.com/epfl-lts2/sparkwiki).
+
 Place the file in a folder "Python/Results/<Region>/<Region>\_<date\_beg>\_<date\_end>".
+  
 With date format: YYYYMMDD
+
 Graph file format: peaks\_graph\_<date\_beg>\_<date\_end>.gexf
+
 Example: "Python/Results/EN/EN\_20200316\_20200331/peaks\_graph\_20200316\_20200331.gexf"
 
 
@@ -69,8 +73,8 @@ Gephi files representing the graphs are also in "/Gephi"
 
 ## Screenshots
 
-[Topics comparaison](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Python/Figures_comparison/bar.gif)
-[Gephi graph example (EN\_20200301\_20200315)](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Gephi/Figures/EN_20200301_20200315.png)
+![Topics comparaison](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Python/Figures_comparison/bar.gif)
+![Gephi graph example (EN\_20200301\_20200315)](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Gephi/Figures/EN_20200301_20200315.png)
 
 
 
