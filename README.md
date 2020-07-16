@@ -56,8 +56,10 @@ $ python main.py EN 20200316 20200331 1
 Or run the "Topics_exctraction.ipynb" notebook for step visualisation
 
 ## Results
-At each step a .csv file is created to save the computation. The final step create
-a "/Figures" folder with figures of the topics repartition per cluster.
+At each step a .csv file is created to save the computation. 
+
+The final step createa "/Figures" folder with figures of the topics repartition per cluster.
+
 At the end a graph file with all the computed attributes is created : "filled\_graph.gexf"
 
 The graph can be visualize in Gephi with the Circle Pack Layout and modularity class attribute.
@@ -80,4 +82,5 @@ Gephi files representing the graphs are also in "/Gephi"
 
 ## Credits
 [SparkWiki](https://github.com/epfl-lts2/sparkwiki)
+
 [Community detection](https://github.com/taynaud/python-louvain)
