@@ -1,6 +1,6 @@
 # Wikipedia trending topic detection
 
-Python topic detection module for (SparkWiki)[https://github.com/epfl-lts2/sparkwiki]. The module computes statistics, clustering and assigns topics to clusters of trending [Wikipedia](https://www.wikipedia.org) pages, extracted using the [Anomaly Detection Algorithm](https://github.com/mizvol/anomaly-detection). Topic classification model is available [here](https://meta.wikimedia.org/wiki/Research:Language-Agnostic_Topic_Classification). The module works with all language editions of Wikipedia.
+Python topic detection module for [SparkWiki](https://github.com/epfl-lts2/sparkwiki). The module computes statistics, clustering and assigns topics to clusters of trending [Wikipedia](https://www.wikipedia.org) pages, extracted using the [Anomaly Detection Algorithm](https://github.com/mizvol/anomaly-detection). Topic classification model is available [here](https://meta.wikimedia.org/wiki/Research:Language-Agnostic_Topic_Classification). The module works with all language editions of Wikipedia.
 
 ## Features
 * Compute degree, betweeness centrality and modularity for clustering the graph by events
