@@ -93,4 +93,4 @@ Wikipedia trending topics detection: [SparkWiki](https://github.com/epfl-lts2/sp
 
 Clustering of trending pages: [Community detection](https://github.com/taynaud/python-louvain)
 
-Topic classification model: [Language-Agnostic Topic Classification(https://github.com/geohci/wikidata-topic-model)
+Topic classification model: [Language-Agnostic Topic Classification](https://github.com/geohci/wikidata-topic-model)
