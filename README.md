@@ -22,15 +22,15 @@ Python topic detection module for [SparkWiki](https://github.com/epfl-lts2/spark
 ##### Wikipedia graph
 Get the graph from [SparkWiki projet](https://github.com/epfl-lts2/sparkwiki) using [PeakFinder](https://github.com/epfl-lts2/sparkwiki/blob/master/src/main/scala/ch/epfl/lts2/wikipedia/PeakFinder.scala) module.
 
-Put the graph file into a local folder `Python/Results/< Language>/< Language>\_<date\_start>\_<date\_end>`.
+Put the graph file into a local folder `Python/Results/<Language>/<Language>_<date_start>_<date_end>`.
 
 Language: EN, FR, RU, etc.
   
 Date format: YYYYMMDD
 
-Graph file name format: `peaks\_graph\_<date\_start>\_<date\_end>.gexf`
+Graph file name format: `peaks_graph_<date_start>_<date_end>.gexf`
 
-Example: `Python/Results/EN/EN\_20200316\_20200331/peaks\_graph\_20200316\_20200331.gexf`
+Example: `Python/Results/EN/EN_20200316_20200331/peaks_graph_20200316_20200331.gexf`
 
 
 ## Usage
@@ -63,7 +63,7 @@ Every stage of the pipeline generates and saves a .csv file with corresponding r
 
 The final step creates `/Figures` folder with figures of the topics partition per cluster.
 
-Also, the final stage creates a graph file with all the computed attributes: `filled\_graph.gexf`
+Also, the final stage creates a graph file with all the computed attributes: `filled_graph.gexf`
 
 In order to explore the detected topics, the graph can be visualized in [Gephi](https://gephi.org). We used Circle Pack Layout with modularity class as a partitioning attribute.
 
@@ -71,7 +71,7 @@ In order to explore the detected topics, the graph can be visualized in [Gephi](
 ## Tests
 Wikipedia graphs of trending pages are available in `Python/Result` for 16/08/2018 to 31/12/2018 and 17/12/2019 to 15/04/2020 periods for EN, FR, RU languages.
 
-The notebook `Topic\_comparison.ipynb` gives a topic comparaison between EN, FR, RU languages. The figures are saved in `Python/Comparison_figures`.
+The notebook `Topic_comparison.ipynb` gives a topic comparaison between EN, FR, RU languages. The figures are saved in `Python/Comparison_figures`.
 
 Gephi files representing the graphs are also located in `/Gephi` folder.
 
