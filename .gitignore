@@ -205,3 +205,6 @@ Python/Test.ipynb
 
 # CSV
 *.csv#
+
+# File too big
+Python/Results/EN/EN_20200401_20200415/filled_graph.gexf
