@@ -25,7 +25,7 @@ Get the graph from [SparkWiki projet](https://github.com/epfl-lts2/sparkwiki) us
 Put the graph file into a local folder `Python/Results/<Language>/<Language>_<date_start>_<date_end>`.
 
 Language: EN, FR, RU, etc.
-  
+
 Date format: YYYYMMDD
 
 Graph file name format: `peaks_graph_<date_start>_<date_end>.gexf`
@@ -56,10 +56,10 @@ $ python main.py EN 20200316 20200331 1
 |           `5`          | Save graph attributes                                      |
 |           `6`          | Give topics repartition per cluster                        |
 
-Alternatively, one can run the `Topics_exctraction.ipynb` notebook. The notebook also includes the code generating visualisations. 
+Alternatively, one can run the `Topics_exctraction.ipynb` notebook. The notebook also includes the code generating visualisations.
 
 ## Results
-Every stage of the pipeline generates and saves a .csv file with corresponding results. 
+Every stage of the pipeline generates and saves a .csv file with corresponding results.
 
 The final step creates `/Figures` folder with figures of the topics partition per cluster.
 
@@ -81,9 +81,9 @@ Gephi files representing the graphs are also located in `/Gephi` folder.
 Here you can see a visual example. The animation shows trending topics for the last four months of 2018. The graph visualization illustrates the graph computed for the period 1-15 March 2020.
 
 **Topics comparaison**
-![Topics comparaison](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Python/Figures_comparison/bar.gif)
+![Topics comparaison](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Figures/bar.gif)
 **Gephi graph (EN\_20200301\_20200315)**
-![Gephi graph example (EN\_20200301\_20200315)](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Gephi/Figures/EN_20200301_20200315.png)
+![Gephi graph example (EN\_20200301\_20200315)](https://raw.githubusercontent.com/etiennechlt/Wikipedia/master/Figures/EN_20200301_20200315.png)
 
 
 
