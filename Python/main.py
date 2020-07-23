@@ -28,6 +28,7 @@ from topic_graph import *
 ### Mode: 4 run count_views               ###
 ### Mode: 5 run save_graph_attributes     ###
 ### Mode: 6 run count_topic_per_cluster   ###
+### Mode: 6 run translate_label           ###
 
 def main():
     if (len(sys.argv) < 4):
@@ -92,7 +93,13 @@ def main():
         except (FileNotFoundError):
             print("File 'filled_nodes.csv' not found, try running 'save_graph_attributes()' first")
             return
-            
+    # Running translate_label()    
+    if (mode == 7):
+        try:
+            translate_label(param)
+        except (FileNotFoundError):
+            print("File 'filled_nodes.csv' not found, try running 'save_graph_attributes()' first")
+        return
     
     
 if __name__ == "__main__":

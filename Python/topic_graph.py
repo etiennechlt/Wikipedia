@@ -420,3 +420,61 @@ def count_topic_per_cluster(param):
 
 
 
+def translate_label(param):
+    print("Translating label...", end="\r")
+    from googletrans import Translator
+    translator = Translator()
+    region = param.region
+    date_beg = param.date_beg
+    date_end = param.date_end
+    path = param.path
+    graph_type = param.graph_type
+    
+     # Try with default name from SparkWiki
+    try:
+        graph = nx.read_gexf(path+'filled_graph.gexf')
+        graph = nx.Graph(graph)
+    except:
+        print("Error: filled_graph.gexf not found")
+        return
+    
+    df = pd.read_csv(path + 'filled_nodes.csv', index_col = 'Unnamed: 0')
+    i=0
+    n=df['Label'].size
+    
+
+    if region == 'ZH':
+        for label in df['Label']:
+            word_to_translate = label
+            label_en = vars(translator.translate(word_to_translate, src='zh-cn', dest='en'))['text']
+            df.loc[df['Label'] == label, 'Label_en'] = label_en
+            i+=1
+            # Loading display
+            sys.stdout.write("\033[K")
+            print("Translating label:", i,"/", n, label,'->', label_en, end="\r")
+            
+    else:
+        for label in df['Label']:
+            word_to_translate = label
+            label_en = vars(translator.translate(word_to_translate, src=region.lower(), dest='en'))['text']
+            df.loc[df['Label'] == label, 'Label_en'] = label_en
+            i+=1
+            # Loading display
+            sys.stdout.write("\033[K")
+            print("Translating label:", i,"/", n, label,'->', label_en, end="\r")
+            
+            
+    add_graph_attribute(graph, df, 'Label_en')
+
+    # Save the graph
+    nx.write_gexf(graph, path + 'filled_graph_translated.gexf')  
+
+    df.to_csv(path + 'filled_nodes_translated.csv', encoding='utf-8')
+    
+    sys.stdout.write("\033[K")
+    print("Translating label: Done")
+    
+    return df
+
+
+
