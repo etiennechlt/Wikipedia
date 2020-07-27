@@ -1,0 +1,1014 @@
+,Degree,Id,Label,Probability,Qid,Topic,Unnamed: 0.1,betweenesscentrality,modularity_class,Views,Weight,Main topic,Subtopic,Label_en
+0,2.0,846.0,Denia,0.994455099105835,Q646725,Geography.Regions.Europe.Europe*,846.0,1011.0,1.0,3643.0,0.0,Geography,Europe*,Denia
+1,44.0,3008.0,Zaragoza,0.9344051480293274,Q10305,Geography.Regions.Europe.Europe*,3008.0,256055.41516111052,2.0,17342.0,0.0,Geography,Europe*,Saragossa
+2,1.0,6674.0,Melanoma,0.9995657801628112,Q180614,STEM.Medicine_&_Health,6674.0,0.0,18.0,21819.0,0.9995657801628112,STEM,Medicine_&_Health,Melanoma
+3,2.0,10609.0,Macotera,1.0000100135803225,Q570936,Geography.Regions.Europe.Southern_Europe,10609.0,2020.0,1.0,764.0,0.0,Geography,Southern_Europe,Macotera
+4,1.0,15329.0,Bormujos,1.0000100135803225,Q1605629,Geography.Regions.Europe.Southern_Europe,15329.0,0.0,3.0,1773.0,0.0,Geography,Southern_Europe,Bormujos
+5,1.0,18849.0,Peregrino,0.8031837940216064,Q542704,Culture.Philosophy_and_religion,18849.0,0.0,5.0,3664.0,0.8031837940216064,Culture,Philosophy_and_religion,Pilgrim
+6,6.0,19085.0,Reus,0.9916942119598388,Q487096,Geography.Regions.Europe.Southern_Europe,19085.0,7590.1121172131825,1.0,3004.0,0.0,Geography,Southern_Europe,Reus
+7,4.0,21180.0,Provincia de Madrid,0.9905974268913268,Q24004405,Geography.Regions.Europe.Southern_Europe,21180.0,2075.1048521224257,1.0,1793.0,0.0,Geography,Southern_Europe,Province of madrid
+8,2.0,26689.0,Juan Moreira,0.2227101624011993,Q1710591,Culture.Sports,26689.0,0.0,20.0,1895.0,0.4454203248023986,Culture,Sports,Juan Moreira
+9,1.0,27207.0,Carl Orff,0.8670457601547241,Q44086,Culture.Media.Media*,27207.0,0.0,18.0,3336.0,0.8670457601547241,Culture,Media*,Carl Orff
+10,2.0,28580.0,Estepona,1.0000100135803225,Q492748,Geography.Regions.Europe.Southern_Europe,28580.0,1011.0,3.0,3616.0,0.0,Geography,Southern_Europe,Estepona
+11,1.0,29081.0,Mijas,1.0000100135803225,Q492744,Geography.Regions.Europe.Southern_Europe,29081.0,0.0,3.0,2474.0,0.0,Geography,Southern_Europe,Mijas
+12,1.0,30120.0,Conspiración de silencio,0.9979592561721802,Q963045,Culture.Media.Films,30120.0,0.0,4.0,2182.0,0.9979592561721802,Culture,Films,Conspiracy of silence
+13,3.0,33099.0,Arco de Triunfo de Barcelona,0.8634016513824463,Q631075,Culture.Visual_arts.Visual_arts*,33099.0,1011.0,5.0,2655.0,2.590204954147339,Culture,Visual_arts*,Arc de Triomphe of Barcelona
+14,2.0,35371.0,Partido de San Isidro,0.9984612464904784,Q2644735,Geography.Regions.Americas.South_America,35371.0,655.3690905032292,15.0,2194.0,0.0,Geography,South_America,San Isidro party
+15,5.0,35933.0,Señera,1.0000100135803225,Q16630951,History_and_Society.History,35933.0,1413.5819360902506,5.0,1871.0,5.000050067901612,History_and_Society,History,Señera
+16,1.0,35987.0,Ciudad Rodrigo,0.9916942119598388,Q820476,Geography.Regions.Europe.Southern_Europe,35987.0,0.0,1.0,6515.0,0.0,Geography,Southern_Europe,Rodrigo City
+17,8.0,36227.0,Partido de Tigre,0.9994572401046752,Q1906802,Geography.Regions.Americas.South_America,36227.0,8124.155456572512,20.0,3015.0,0.0,Geography,South_America,Tiger party
+18,5.0,36518.0,Provincia de Gerona,0.99219411611557,Q7194,Geography.Regions.Europe.Southern_Europe,36518.0,5722.082899245428,1.0,3534.0,0.0,Geography,Southern_Europe,Girona province
+19,8.0,36557.0,Provincia de Tarragona,0.9919480085372924,Q98392,Geography.Regions.Europe.Europe*,36557.0,14560.402043113168,1.0,3365.0,0.0,Geography,Europe*,Tarragona province
+20,1.0,40791.0,Mahón,0.9995927214622498,Q49550,Geography.Regions.Europe.Southern_Europe,40791.0,0.0,11.0,2554.0,0.0,Geography,Southern_Europe,Mahon
+21,3.0,41350.0,Pedro III de Aragón,0.7490972280502319,Q312311,History_and_Society.History,41350.0,8039.0,5.0,3108.0,2.247291684150696,History_and_Society,History,Pedro III of Aragon
+22,11.0,42463.0,Miranda de Ebro,0.9942797422409058,Q11994,Geography.Regions.Europe.Europe*,42463.0,50592.44883102493,1.0,2740.0,0.0,Geography,Europe*,Miranda de Ebro
+23,3.0,42665.0,Enrique Líster,0.7431780099868774,Q460529,History_and_Society.Military_and_warfare,42665.0,26595.0,1.0,2971.0,2.2295340299606323,History_and_Society,Military_and_warfare,Enrique Líster
+24,3.0,42914.0,Bloque Nacionalista Galego,0.5234303474426271,Q885433,History_and_Society.Politics_and_government,42914.0,2021.0,1.0,2632.0,1.5702910423278813,History_and_Society,Politics_and_government,Galician Nationalist Block
+25,1.0,44630.0,Izquierda Castellana,0.8991314172744751,Q3322766,History_and_Society.Politics_and_government,44630.0,0.0,6.0,1303.0,0.8991314172744751,History_and_Society,Politics_and_government,Castellana Left
+26,2.0,45133.0,Lucrecia Martel,0.15611489117145538,Q254152,Culture.Literature,45133.0,1011.0,15.0,2535.0,0.3122297823429108,Culture,Literature,Lucrecia Martel
+27,9.0,45242.0,Niní Marshall,0.3775506913661957,Q3326132,Culture.Media.Media*,45242.0,45952.56732420447,12.0,3111.0,3.397956222295761,Culture,Media*,Niní Marshall
+28,1.0,46447.0,Ola de calor en Europa en 2003,0.24509501457214355,Q1136557,History_and_Society.Politics_and_government,46447.0,0.0,2.0,2172.0,0.24509501457214355,History_and_Society,Politics_and_government,Heat wave in Europe in 2003
+29,1.0,47945.0,Benasque,1.0000100135803225,Q575809,Geography.Regions.Europe.Southern_Europe,47945.0,0.0,3.0,2337.0,0.0,Geography,Southern_Europe,Benasque
+30,15.0,48948.0,Club Baloncesto Estudiantes,0.9777238368988036,Q54900,Culture.Sports,48948.0,11562.443504582025,11.0,2554.0,14.665857553482056,Culture,Sports,Student Basketball Club
+31,2.0,49005.0,Luis Pastor,0.5156299471855164,Q2354365,Culture.Media.Music,49005.0,1011.0,2.0,3053.0,1.0312598943710327,Culture,Music,Luis Pastor
+32,13.0,49808.0,Cine español,0.9219318628311156,Q1200406,Culture.Media.Films,49808.0,55639.5,4.0,3235.0,11.985114216804506,Culture,Films,Spanish cinema
+33,1.0,49846.0,Petilla de Aragón,0.8479777574539185,Q984872,Culture.Linguistics,49846.0,0.0,1.0,3754.0,0.8479777574539185,Culture,Linguistics,Petilla de Aragón
+34,1.0,51438.0,Bandera de Castilla y León,0.9939124584197998,Q1073663,History_and_Society.History,51438.0,0.0,6.0,4673.0,0.9939124584197998,History_and_Society,History,Flag of Castilla y León
+35,8.0,51595.0,Javier de Burgos,0.9416641592979432,Q3087826,Culture.Biography.Biography*,51595.0,22404.61240502957,1.0,1658.0,0.0,Culture,Biography*,Javier de Burgos
+36,2.0,53015.0,Compromiso de Caspe,0.8080772161483765,Q1541862,History_and_Society.Politics_and_government,53015.0,2020.0,5.0,2931.0,1.6161544322967532,History_and_Society,Politics_and_government,Caspe's commitment
+37,1.0,56612.0,Orduña,0.9748311638832092,Q225662,Culture.Linguistics,56612.0,0.0,1.0,3422.0,0.9748311638832092,Culture,Linguistics,Orduña
+38,3.0,58552.0,Grenoble,0.9648651480674744,Q1289,Geography.Regions.Europe.Europe*,58552.0,10029.0,1.0,2535.0,0.0,Geography,Europe*,Grenoble
+39,9.0,59112.0,Les Luthiers,0.94500470161438,Q2526850,Culture.Media.Music,59112.0,6549.467673992681,15.0,114822.0,8.50504231452942,Culture,Music,Les Luthiers
+40,4.0,59395.0,Motril,0.9986429810523988,Q210093,Geography.Regions.Europe.Southern_Europe,59395.0,3986.2714285714296,1.0,2987.0,0.0,Geography,Southern_Europe,Motril
+41,1.0,59575.0,Culleredo,1.0000100135803225,Q1113450,Geography.Regions.Europe.Southern_Europe,59575.0,0.0,2.0,1293.0,0.0,Geography,Southern_Europe,Culleredo
+42,1.0,60190.0,Abies pinsapo,0.9995794296264648,Q849381,STEM.Biology,60190.0,0.0,3.0,1968.0,0.9995794296264648,STEM,Biology,Abies pinsapo
+43,3.0,63695.0,Johann Sebastian Mastropiero,0.5000100135803223,Q5677369,Culture.Media.Media*,63695.0,0.0,15.0,10027.0,1.5000300407409668,Culture,Media*,Johann Sebastian Mastropiero
+44,16.0,64062.0,Club Joventut Badalona,0.94500470161438,Q54908,Culture.Sports,64062.0,5303.019132173892,11.0,2891.0,15.12007522583008,Culture,Sports,Joventut Badalona Club
+45,1.0,70203.0,Dulzaina,0.9755869507789612,Q1264870,Culture.Media.Music,70203.0,0.0,6.0,2930.0,0.9755869507789612,Culture,Music,Dulzaina
+46,1.0,70909.0,Luanco,1.0000100135803225,Q859804,Geography.Regions.Europe.Southern_Europe,70909.0,0.0,0.0,1033.0,0.0,Geography,Southern_Europe,Luanco
+47,3.0,72301.0,El Escorial,0.9990700483322144,Q985269,Geography.Regions.Europe.Southern_Europe,72301.0,149.63333333333333,3.0,2994.0,0.0,Geography,Southern_Europe,El Escorial
+48,10.0,74772.0,Mario Camus,0.9992306232452391,Q739500,Culture.Biography.Biography*,74772.0,40064.33333333334,4.0,2456.0,0.0,Culture,Biography*,Mario Camus
+49,1.0,77026.0,Sandro Pertini,0.3140605390071869,Q1233,History_and_Society.Politics_and_government,77026.0,0.0,17.0,2428.0,0.3140605390071869,History_and_Society,Politics_and_government,Sandro Pertini
+50,1.0,77510.0,José Antonio Abellán,0.5544804334640503,Q5937662,Culture.Media.Media*,77510.0,0.0,16.0,2962.0,0.5544804334640503,Culture,Media*,José Antonio Abellán
+51,4.0,77794.0,Catedral-basílica de Nuestra Señora del Pilar de Zaragoza,0.812877357006073,Q810684,Culture.Philosophy_and_religion,77794.0,1154.4285714285713,2.0,2922.0,3.251509428024292,Culture,Philosophy_and_religion,Cathedral-basilica of Our Lady of the Pillar of Zaragoza
+52,3.0,80229.0,Alcañiz,0.984585464000702,Q572800,Geography.Regions.Europe.Europe*,80229.0,4946.926601731089,1.0,3234.0,0.0,Geography,Europe*,Alcañiz
+53,1.0,81513.0,Mágico González,0.946606695652008,Q762497,Culture.Sports,81513.0,0.0,2.0,5869.0,0.946606695652008,Culture,Sports,Magical Gonzalez
+54,1.0,81539.0,Luigi Tenco,0.7931159734725952,Q469068,Culture.Media.Media*,81539.0,0.0,12.0,1637.0,0.7931159734725952,Culture,Media*,Luigi Tenco
+55,1.0,81671.0,Árbol de Guernica,0.9149109721183776,Q919957,STEM.Biology,81671.0,0.0,1.0,2277.0,0.9149109721183776,STEM,Biology,Guernica Tree
+56,4.0,83156.0,Bandera de Aragón,0.99219411611557,Q774799,History_and_Society.History,83156.0,486.3390331890339,5.0,3969.0,3.96877646446228,History_and_Society,History,Flag of aragon
+57,4.0,84841.0,Gaetano Donizetti,0.8670457601547241,Q101698,Culture.Media.Music,84841.0,1514.0,18.0,2753.0,3.4681830406188965,Culture,Music,Gaetano Donizetti
+58,1.0,86957.0,San Jorge (desambiguación),0.7248802781105042,Q408146,Culture.Linguistics,86957.0,0.0,5.0,674.0,0.7248802781105042,Culture,Linguistics,Saint George (disambiguation)
+59,1.0,89413.0,Terpsícore,0.9324633479118348,Q104042,Culture.Literature,89413.0,0.0,5.0,5370.0,0.9324633479118348,Culture,Literature,Terpsichore
+60,1.0,89531.0,José Echegaray,0.9965265989303588,Q127349,Culture.Biography.Biography*,89531.0,0.0,6.0,3331.0,0.0,Culture,Biography*,José Echegaray
+61,2.0,90499.0,Sitges,0.997894287109375,Q15551,Geography.Regions.Europe.Southern_Europe,90499.0,87.5,1.0,2428.0,0.0,Geography,Southern_Europe,Sitges
+62,3.0,91523.0,San Cugat del Vallés,0.998599648475647,Q13936,Geography.Regions.Europe.Southern_Europe,91523.0,10029.0,0.0,4522.0,0.0,Geography,Southern_Europe,San Cugat del Vallés
+63,8.0,92753.0,Alcorcón,0.9994215965270996,Q10372,Geography.Regions.Europe.Southern_Europe,92753.0,15031.308390369091,2.0,4041.0,0.0,Geography,Southern_Europe,Alcorcón
+64,3.0,93756.0,Cabra (Córdoba),0.998599648475647,Q927931,Geography.Regions.Europe.Southern_Europe,93756.0,5478.820341921294,3.0,2705.0,0.0,Geography,Southern_Europe,Goat (Córdoba)
+65,2.0,96326.0,Omar Chabán,0.2227101624011993,Q7089666,Culture.Media.Music,96326.0,1011.0,22.0,2854.0,0.4454203248023986,Culture,Music,Omar Chabán
+66,1.0,97158.0,Cipriano Mera,0.22816647589206696,Q977325,History_and_Society.Military_and_warfare,97158.0,0.0,1.0,3957.0,0.22816647589206696,History_and_Society,Military_and_warfare,Cipriano Mera
+67,1.0,97506.0,Navalmoral de la Mata,1.0000100135803225,Q965529,Geography.Regions.Europe.Southern_Europe,97506.0,0.0,2.0,5710.0,0.0,Geography,Southern_Europe,Navalmoral de la Mata
+68,8.0,99588.0,Juan Bravo,0.1259327530860901,Q2742152,History_and_Society.Military_and_warfare,99588.0,2220.3499999999563,6.0,3434.0,1.0074620246887207,History_and_Society,Military_and_warfare,Juan Bravo
+69,9.0,99592.0,Juan de Padilla,0.2509227991104126,Q1339628,History_and_Society.Military_and_warfare,99592.0,219.29999999999782,6.0,4093.0,2.2583051919937134,History_and_Society,Military_and_warfare,Juan de Padilla
+70,8.0,99597.0,Francisco Maldonado,0.4225146472454071,Q2742352,History_and_Society.Military_and_warfare,99597.0,201.53333333333188,6.0,2714.0,3.380117177963257,History_and_Society,Military_and_warfare,Francisco Maldonado
+71,7.0,99872.0,María Pacheco,0.7826725244522095,Q2742060,History_and_Society.History,99872.0,200.66666666666518,6.0,2812.0,5.478707671165466,History_and_Society,History,Maria Pacheco
+72,5.0,100200.0,Silvia Pinal,0.9954004287719728,Q332485,Culture.Biography.Biography*,100200.0,32455.0,9.0,126665.0,0.0,Culture,Biography*,Silvia Pinal
+73,9.0,101234.0,Cincinnati Bengals,0.9019306898117064,Q223511,Culture.Sports,101234.0,3664.8761904761895,19.0,1381.0,8.117376208305357,Culture,Sports,Cincinnati Bengals
+74,3.0,101922.0,Las Rozas de Madrid,1.0000100135803225,Q592747,Geography.Regions.Europe.Southern_Europe,101922.0,258.756307435255,3.0,2392.0,0.0,Geography,Southern_Europe,Las Rozas de Madrid
+75,1.0,105010.0,Roger de Lauria,0.7248802781105042,Q283466,History_and_Society.Military_and_warfare,105010.0,0.0,5.0,1730.0,0.7248802781105042,History_and_Society,Military_and_warfare,Roger de Lauria
+76,3.0,107074.0,María José Cantudo,0.9983615279197692,Q6004034,Culture.Biography.Biography*,107074.0,2021.0,4.0,2821.0,0.0,Culture,Biography*,María José Cantudo
+77,3.0,108468.0,Roberto Devereux,0.9946250915527344,Q672708,Culture.Media.Music,108468.0,0.5,18.0,4654.0,2.983875274658203,Culture,Music,Robert Devereux
+78,5.0,110360.0,Silvestre Revueltas,0.9706977605819702,Q332421,Culture.Media.Music,110360.0,15975.0,9.0,3552.0,4.853488802909852,Culture,Music,Silvestre Revueltas
+79,6.0,111324.0,Batalla de los Cuernos de Hattin,0.992888569831848,Q233568,History_and_Society.History,111324.0,587.6666666666638,5.0,2818.0,5.957331418991088,History_and_Society,History,Battle of the Horns of Hattin
+80,4.0,113018.0,Carlos Chávez,0.9615437984466552,Q357326,Culture.Media.Media*,113018.0,5035.0,9.0,2828.0,3.8461751937866206,Culture,Media*,Carlos Chavez
+81,4.0,114114.0,Javier Sardà,0.348655104637146,Q2272579,Culture.Media.Media*,114114.0,24066.120238095238,16.0,5033.0,1.394620418548584,Culture,Media*,Javier Sardà
+82,3.0,115320.0,Estadio Ramón de Carranza,0.16027602553367615,Q2301915,Culture.Sports,115320.0,3029.0,2.0,1616.0,0.4808280766010285,Culture,Sports,Ramón de Carranza Stadium
+83,2.0,115558.0,Marcelino Menéndez Pelayo,0.9960646033287048,Q716799,Culture.Biography.Biography*,115558.0,7035.0,2.0,4089.0,0.0,Culture,Biography*,Marcelino Menéndez Pelayo
+84,1.0,116160.0,Cristina Almeida,0.14034625887870789,Q457414,History_and_Society.Politics_and_government,116160.0,0.0,3.0,3910.0,0.14034625887870789,History_and_Society,Politics_and_government,Cristina Almeida
+85,3.0,116687.0,Osuna,0.9879562258720398,Q586018,Geography.Regions.Europe.Southern_Europe,116687.0,1011.0,3.0,3643.0,0.0,Geography,Southern_Europe,Osuna
+86,2.0,117948.0,San Vicente de la Barquera,1.0000100135803225,Q384817,Geography.Regions.Europe.Southern_Europe,117948.0,20.579578754578755,3.0,1510.0,0.0,Geography,Southern_Europe,San Vicente de la Barquera
+87,2.0,119390.0,Valentín González,0.4688006341457367,Q595504,History_and_Society.Military_and_warfare,119390.0,0.0,1.0,1979.0,0.9376012682914734,History_and_Society,Military_and_warfare,Valentin Gonzalez
+88,6.0,120338.0,Jordi Villacampa,0.974052667617798,Q386463,Culture.Sports,120338.0,876.679305423908,11.0,2255.0,5.844316005706787,Culture,Sports,Jordi Villacampa
+89,5.0,120991.0,Caesaraugusta,0.9381340146064758,Q2932882,History_and_Society.History,120991.0,2029.0,2.0,2373.0,4.690670073032379,History_and_Society,History,Caesaraugusta
+90,2.0,121380.0,Juan Benet,0.275139719247818,Q706516,Culture.Literature,121380.0,1011.0,4.0,2305.0,0.550279438495636,Culture,Literature,Juan Benet
+91,5.0,121683.0,Parque de la Ciudadela,0.21734751760959625,Q301135,Culture.Visual_arts.Architecture,121683.0,2195.7623737373747,5.0,12822.0,1.0867375880479813,Culture,Architecture,Citadel Park
+92,6.0,122314.0,Calatayud,0.99567848443985,Q496424,Geography.Regions.Europe.Europe*,122314.0,6237.716934992057,2.0,2885.0,0.0,Geography,Europe*,Calatayud
+93,5.0,122607.0,Parlamento de Cataluña,0.3415925204753876,Q135630,History_and_Society.Politics_and_government,122607.0,8755.126624749495,5.0,3637.0,1.707962602376938,History_and_Society,Politics_and_government,Parliament of Catalonia
+94,12.0,123002.0,Memphis Grizzlies,0.9284188151359558,Q165529,Culture.Sports,123002.0,4123.073175782956,7.0,3012.0,11.14102578163147,Culture,Sports,Memphis Grizzlies
+95,5.0,125994.0,Batalla de Guadalajara (1937),0.9796776771545408,Q1641241,History_and_Society.Military_and_warfare,125994.0,29489.0,1.0,3655.0,4.898388385772704,History_and_Society,Military_and_warfare,Battle of Guadalajara (1937)
+96,9.0,128226.0,Copa Saporta,0.9688661694526672,Q767127,Culture.Sports,128226.0,10956.52890221362,11.0,1146.0,8.719795525074005,Culture,Sports,Saporta Cup
+97,14.0,128376.0,Copa Korać,0.9099169969558716,Q913635,Culture.Sports,128376.0,4149.3847660267775,11.0,1664.0,12.738837957382202,Culture,Sports,Korać Cup
+98,17.0,128489.0,Copa del Rey de baloncesto,0.8740872144699097,Q1130925,Culture.Sports,128489.0,138229.1107190687,11.0,4065.0,14.859482645988464,Culture,Sports,Basketball king cup
+99,5.0,129194.0,Juan Carlos Ferrero,0.9970290064811708,Q185722,Culture.Sports,129194.0,8039.5,0.0,3740.0,4.985145032405853,Culture,Sports,Juan Carlos Ferrero
+100,2.0,129877.0,Guecho,0.7606606483459473,Q492420,Culture.Linguistics,129877.0,3027.0,2.0,2799.0,1.5213212966918943,Culture,Linguistics,Geto
+101,3.0,130173.0,María Estuardo (ópera),0.9994029402732848,Q377685,Culture.Performing_arts,130173.0,504.5,18.0,3623.0,2.9982088208198543,Culture,Performing_arts,Maria Estuardo (opera)
+102,3.0,130747.0,Batalla de Almansa,0.8872146010398865,Q320394,History_and_Society.Military_and_warfare,130747.0,343.0071428571428,5.0,8323.0,2.6616438031196594,History_and_Society,Military_and_warfare,Battle of Almansa
+103,2.0,130757.0,Morella,0.9970290064811708,Q732907,Geography.Regions.Europe.Europe*,130757.0,1011.0,5.0,1921.0,0.0,Geography,Europe*,Morella
+104,5.0,132038.0,Balián de Ibelín,0.9637899398803712,Q374385,History_and_Society.History,132038.0,0.25,5.0,5741.0,4.818949699401856,History_and_Society,History,Balián de Ibelín
+105,10.0,132164.0,Reino de Valencia,0.9019306898117064,Q142417,History_and_Society.History,132164.0,37273.85282076076,5.0,3415.0,9.019306898117064,History_and_Society,History,Kingdom of Valencia
+106,2.0,133750.0,Sopelana,0.8962613940238953,Q657407,Culture.Linguistics,133750.0,2020.0,2.0,1212.0,1.7925227880477903,Culture,Linguistics,Sopelana
+107,2.0,134419.0,Molina de Segura,0.9986429810523988,Q917883,Geography.Regions.Europe.Southern_Europe,134419.0,2020.0,2.0,5063.0,0.0,Geography,Southern_Europe,Molina de Segura
+108,5.0,135743.0,Valdemoro,0.9989112615585328,Q840373,Geography.Regions.Europe.Europe*,135743.0,7468.813989247728,2.0,2385.0,0.0,Geography,Europe*,Valdemoro
+109,3.0,135896.0,Migueli,0.9814634323120116,Q459056,Culture.Sports,135896.0,1201.2703513877436,8.0,2082.0,2.9443902969360347,Culture,Sports,Migueli
+110,4.0,136122.0,José Ramón Alexanko,0.997120440006256,Q442537,Culture.Sports,136122.0,5426.558987751384,8.0,1769.0,3.988481760025024,Culture,Sports,José Ramón Alexanko
+111,6.0,139367.0,Guido de Lusignan,0.8840492963790894,Q294192,History_and_Society.History,139367.0,587.6666666666638,5.0,3274.0,5.304295778274536,History_and_Society,History,Guido de Lusignan
+112,3.0,139820.0,Juanele,0.996185541152954,Q972356,Culture.Sports,139820.0,2021.0,14.0,949.0,2.9885566234588623,Culture,Sports,Juanele
+113,1.0,140539.0,Guillermo Vilas,0.99593985080719,Q201515,Culture.Sports,140539.0,0.0,12.0,37893.0,0.99593985080719,Culture,Sports,Guillermo Vilas
+114,7.0,141913.0,Condado de Treviño,0.41490885615348816,Q946251,Culture.Linguistics,141913.0,1806.653571428593,1.0,4548.0,2.904361993074417,Culture,Linguistics,Treviño County
+115,2.0,141914.0,Muddy Waters,0.8311530351638794,Q220707,Culture.Media.Music,141914.0,1011.0,10.0,3102.0,1.6623060703277588,Culture,Music,Muddy Waters
+116,3.0,142988.0,Ramón Calderé,0.9942797422409058,Q786047,Culture.Sports,142988.0,12044.252223488456,8.0,1694.0,2.9828392267227173,Culture,Sports,Ramón Calderé
+117,2.0,143225.0,Javier Urruticoechea,0.9926641583442688,Q440927,Culture.Sports,143225.0,190.27035138774244,8.0,1993.0,1.9853283166885376,Culture,Sports,Javier Urruticoechea
+118,1.0,145176.0,Macizo de Montserrat,0.8439050912857056,Q732115,Geography.Regions.Europe.Southern_Europe,145176.0,0.0,5.0,2664.0,0.0,Geography,Southern_Europe,Montserrat massif
+119,2.0,145380.0,Marat Safin,0.9935217499732972,Q133318,Culture.Sports,145380.0,0.0,0.0,4253.0,1.9870434999465945,Culture,Sports,Marat Safin
+120,2.0,145490.0,Jon Andoni Goikoetxea,0.9916942119598388,Q358222,Culture.Sports,145490.0,16227.18001860212,8.0,4390.0,1.9833884239196773,Culture,Sports,Jon Andoni Goikoetxea
+121,2.0,146785.0,Juan Carlos Pérez Rojo,0.9886782765388488,Q5572968,Culture.Sports,146785.0,190.27035138774244,8.0,1038.0,1.9773565530776973,Culture,Sports,Juan Carlos Pérez Rojo
+122,2.0,148059.0,Windsor (Berkshire),0.13661839067935946,Q464955,History_and_Society.History,148059.0,6036.0,18.0,2175.0,0.2732367813587189,History_and_Society,History,Windsor (Berkshire)
+123,2.0,148453.0,Gemma Nierga,0.287777841091156,Q3394883,Culture.Media.Media*,148453.0,14024.724792960671,16.0,6399.0,0.575555682182312,Culture,Media*,Gemma Nierga
+124,4.0,148683.0,Ana Bolena (ópera),0.9949496984481812,Q559848,Culture.Media.Music,148683.0,5039.0,18.0,3991.0,3.9797987937927246,Culture,Music,Ana Bolena (opera)
+125,3.0,148859.0,Partido de Zárate,0.9942797422409058,Q2622012,Geography.Regions.Americas.South_America,148859.0,11.115614216701177,20.0,1117.0,0.0,Geography,South_America,Zarate party
+126,5.0,149525.0,Partido de Lanús,0.9966334104537964,Q730109,Geography.Regions.Americas.South_America,149525.0,166.69226190476294,15.0,2535.0,0.0,Geography,South_America,Lanús party
+127,3.0,149652.0,Área Metropolitana Córdoba,0.3702353835105896,Q1542365,Culture.Visual_arts.Architecture,149652.0,1512.5,12.0,6101.0,1.1107061505317688,Culture,Architecture,Córdoba Metropolitan Area
+128,3.0,149675.0,Gran Rosario,0.3140605390071869,Q2267932,Culture.Sports,149675.0,2021.0,20.0,5226.0,0.9421816170215608,Culture,Sports,Great rosary
+129,1.0,150066.0,Partido de La Costa,0.9914325475692748,Q1038912,Geography.Regions.Americas.South_America,150066.0,0.0,15.0,2522.0,0.0,Geography,South_America,La Costa Party
+130,2.0,150528.0,Partido de Berisso,0.9980222582817078,Q793491,Geography.Regions.Americas.South_America,150528.0,0.0,20.0,1102.0,0.0,Geography,South_America,Berisso party
+131,1.0,150623.0,Fernando Poo,0.6076731681823729,Q5860080,History_and_Society.History,150623.0,0.0,5.0,2632.0,0.6076731681823729,History_and_Society,History,Fernando Poo
+132,1.0,151229.0,Ibiza (ciudad),0.9992778301239014,Q473914,Geography.Regions.Europe.Southern_Europe,151229.0,0.0,1.0,2259.0,0.0,Geography,Southern_Europe,Ibiza (city)
+133,2.0,151579.0,San Vicente,0.6723417043685913,Q241544,Culture.Linguistics,151579.0,0.0,2.0,1276.0,1.3446834087371826,Culture,Linguistics,Saint vincent
+134,11.0,152421.0,Partido del Pilar,0.9996640086174012,Q2621913,Geography.Regions.Americas.South_America,152421.0,13933.924711485432,20.0,2073.0,0.0,Geography,South_America,Pilar party
+135,2.0,153439.0,Mario Firmenich,0.24509501457214355,Q3293436,History_and_Society.Business_and_economics,153439.0,0.0,1.0,3371.0,0.4901900291442871,History_and_Society,Business_and_economics,Mario Firmenich
+136,4.0,154055.0,San Miguel (Buenos Aires),0.9979592561721802,Q1967802,Geography.Regions.Americas.South_America,154055.0,930.0275970704636,20.0,3107.0,0.0,Geography,South_America,San Miguel (Buenos Aires)
+137,6.0,154056.0,Partido de San Miguel,0.9976133108139038,Q2209426,Geography.Regions.Americas.South_America,154056.0,5342.705650379572,20.0,3564.0,0.0,Geography,South_America,San Miguel party
+138,3.0,154450.0,Vallés Occidental,0.94500470161438,Q13948,Geography.Regions.Europe.Southern_Europe,154450.0,21077.490365175752,0.0,2750.0,0.0,Geography,Southern_Europe,Vallés Occidental
+139,1.0,156978.0,Vicente Rodríguez Guillén,0.9863731861114502,Q296180,Culture.Sports,156978.0,0.0,8.0,2054.0,0.9863731861114502,Culture,Sports,Vicente Rodríguez Guillén
+140,2.0,157466.0,Luis León Sánchez,0.99753737449646,Q164090,Culture.Sports,157466.0,0.0,3.0,1094.0,1.99507474899292,Culture,Sports,Luis León Sánchez
+141,3.0,157818.0,Iban Mayo,0.9985549449920654,Q435047,Culture.Sports,157818.0,3027.0,1.0,4541.0,2.9956648349761963,Culture,Sports,They were going May
+142,4.0,160167.0,Paco Mancebo,0.990301549434662,Q505746,Culture.Sports,160167.0,5460.202380952381,3.0,2800.0,3.961206197738648,Culture,Sports,Paco Mancebo
+143,3.0,160303.0,Igor Astarloa,0.9954004287719728,Q180216,Culture.Sports,160303.0,1011.0,1.0,1539.0,2.9862012863159184,Culture,Sports,Igor Astarloa
+144,8.0,160360.0,Cadel Evans,1.0000100135803225,Q190919,Culture.Sports,160360.0,9180.563430533259,3.0,2910.0,8.00008010864258,Culture,Sports,Cadel Evans
+145,4.0,162090.0,El fantasma de la ópera,0.9697954058647156,Q272506,Culture.Literature,162090.0,1011.0,10.0,25061.0,3.8791816234588623,Culture,Literature,The Phantom of the Opera
+146,2.0,164280.0,Cuestión de confianza,0.9304682612419128,Q330094,History_and_Society.Politics_and_government,164280.0,1011.0,2.0,2813.0,1.8609365224838257,History_and_Society,Politics_and_government,Question of confidence
+147,4.0,164560.0,Mercedes (Buenos Aires),0.9830951094627379,Q1027041,Geography.Regions.Americas.South_America,164560.0,3458.629329855949,20.0,2661.0,0.0,Geography,South_America,Mercedes (Buenos Aires)
+148,4.0,166740.0,Cunit,0.9995517134666444,Q474489,Geography.Regions.Europe.Southern_Europe,166740.0,9153.871297619273,1.0,1122.0,0.0,Geography,Southern_Europe,Cunit
+149,1.0,167871.0,Villa Gobernador Gálvez,0.9626831412315368,Q2280502,Geography.Regions.Americas.South_America,167871.0,0.0,20.0,2119.0,0.0,Geography,South_America,Villa Governor Gálvez
+150,9.0,169035.0,Partido de Florencio Varela,0.9990402460098268,Q2621603,Geography.Regions.Americas.South_America,169035.0,20896.6321846751,15.0,2315.0,0.0,Geography,South_America,Florencio Varela party
+151,2.0,171324.0,Óscar Chávez,0.1778208613395691,Q3593648,Culture.Media.Media*,171324.0,1011.0,9.0,57845.0,0.3556417226791382,Culture,Media*,Óscar Chávez
+152,2.0,171965.0,Rincón de la Victoria,1.0000100135803225,Q1248474,Geography.Regions.Europe.Southern_Europe,171965.0,54.33333333333333,3.0,1709.0,0.0,Geography,Southern_Europe,Victory Corner
+153,1.0,172337.0,Alberto Rabadá,0.9697954058647156,Q5663472,Culture.Biography.Biography*,172337.0,0.0,2.0,560.0,0.0,Culture,Biography*,Alberto Rabadá
+154,2.0,172597.0,Preston North End Football Club,0.9219318628311156,Q19612,Culture.Sports,172597.0,1011.0,18.0,3060.0,1.8438637256622312,Culture,Sports,Preston North End Football Club
+155,3.0,173159.0,Gracita Morales,0.16452647745609286,Q3320687,History_and_Society.History,173159.0,24.25,4.0,2419.0,0.4935794323682786,History_and_Society,History,Gracita Morales
+156,3.0,174946.0,José Pablo Moncayo,0.9908843636512756,Q732490,Culture.Media.Music,174946.0,0.0,9.0,3661.0,2.972653090953827,Culture,Music,José Pablo Moncayo
+157,1.0,175023.0,Tiermes,0.2942249774932861,Q2429023,History_and_Society.History,175023.0,0.0,2.0,8795.0,0.2942249774932861,History_and_Society,History,Tiermes
+158,5.0,175025.0,Reinaldo de Châtillon,0.9496793746948242,Q316831,History_and_Society.History,175025.0,6036.0,5.0,2673.0,4.748396873474121,History_and_Society,History,Reinaldo de Châtillon
+159,2.0,175684.0,Nigrán,1.0000100135803225,Q1617562,Geography.Regions.Europe.Southern_Europe,175684.0,1011.0,2.0,1155.0,0.0,Geography,Southern_Europe,Nigran
+160,2.0,178025.0,Carlos López Puccio,0.8221991658210754,Q5042301,Culture.Media.Music,178025.0,0.0,15.0,24179.0,1.6443983316421509,Culture,Music,Carlos López Puccio
+161,5.0,178028.0,Carlos Núñez Cortés,0.10375863313674928,Q5042444,Culture.Media.Media*,178028.0,2.833333333333333,15.0,34979.0,0.5187931656837464,Culture,Media*,Carlos Núñez Cortés
+162,4.0,178052.0,Gerardo Masana,0.1824355274438858,Q5550283,Culture.Media.Music,178052.0,1770.909523809523,15.0,36876.0,0.7297421097755432,Culture,Music,Gerardo Masana
+163,3.0,178272.0,Jorge Maronna,0.7826725244522095,Q6278318,Culture.Media.Media*,178272.0,0.5,15.0,24744.0,2.3480175733566284,Culture,Media*,Jorge Maronna
+164,2.0,178600.0,Colmenar Viejo,0.9986429810523988,Q55480,Geography.Regions.Europe.Europe*,178600.0,108.8904761904762,3.0,2117.0,0.0,Geography,Europe*,Old apiary
+165,1.0,178855.0,Los caifanes (película),0.9324633479118348,Q5980675,Culture.Media.Films,178855.0,0.0,9.0,6247.0,0.9324633479118348,Culture,Films,The caifanes (film)
+166,2.0,179038.0,Paterna,0.996185541152954,Q23042,Geography.Regions.Europe.Southern_Europe,179038.0,2020.0,2.0,1958.0,0.0,Geography,Southern_Europe,Paternal
+167,8.0,180101.0,Marcos Mundstock,0.4225146472454071,Q6757896,Culture.Media.Media*,180101.0,2145.725000000001,15.0,114255.0,3.380117177963257,Culture,Media*,Marcos Mundstock
+168,4.0,180476.0,Daniel Rabinovich,0.2509227991104126,Q8353654,Culture.Media.Media*,180476.0,0.3333333333333333,15.0,44406.0,1.0036911964416504,Culture,Media*,Daniel Rabinovich
+169,4.0,180563.0,Selección de fútbol de Irlanda,0.9919480085372924,Q163547,Culture.Sports,180563.0,23374.89171598955,18.0,3295.0,3.9677920341491695,Culture,Sports,Ireland national football team
+170,6.0,181258.0,Copa de la Liga de España,0.880807101726532,Q493331,Culture.Sports,181258.0,8704.165282651484,8.0,1362.0,5.284842610359191,Culture,Sports,Spanish League Cup
+171,1.0,183714.0,Requena (España),0.99219411611557,Q302099,Geography.Regions.Europe.Southern_Europe,183714.0,0.0,3.0,2682.0,0.0,Geography,Southern_Europe,Requena (Spain)
+172,6.0,183765.0,Tigre (Buenos Aires),0.9855064153671264,Q54106,Geography.Regions.Americas.South_America,183765.0,61372.122474726406,12.0,2413.0,0.0,Geography,South_America,Tigre (Buenos Aires)
+173,9.0,183841.0,San Isidro (Buenos Aires),0.7981967926025391,Q2164117,Geography.Geographical,183841.0,89315.49116167193,15.0,2608.0,0.0,Geography,Geographical,San Isidro (Buenos Aires)
+174,9.0,183852.0,Lomas de Zamora,0.99745911359787,Q642057,Geography.Regions.Americas.South_America,183852.0,14066.506414264242,15.0,3413.0,0.0,Geography,South_America,Lomas de zamora
+175,6.0,184969.0,Salvador Novo,0.3629792034626007,Q63667,Culture.Literature,184969.0,26669.0,9.0,2958.0,2.177875220775604,Culture,Literature,Salvador Novo
+176,3.0,185973.0,José Rafael Ortiz,1.0000100135803225,Q966899,Culture.Sports,185973.0,128492.2651439522,7.0,4956.0,3.000030040740968,Culture,Sports,José Rafael Ortiz
+177,2.0,188506.0,Andoni Goikoetxea,0.9980832934379578,Q358424,Culture.Sports,188506.0,15378.056392228484,8.0,2573.0,1.9961665868759155,Culture,Sports,Andoni Goikoetxea
+178,3.0,189583.0,Veguería,0.2814156115055084,Q697390,History_and_Society.Politics_and_government,189583.0,226.5,1.0,1369.0,0.8442468345165253,History_and_Society,Politics_and_government,Veguería
+179,5.0,189962.0,José Antonio Montero,0.9905974268913268,Q550259,Culture.Sports,189962.0,317.77891764834544,11.0,1575.0,4.952987134456634,Culture,Sports,José Antonio Montero
+180,2.0,190510.0,José Ángel Iribar,0.9825675487518308,Q529173,Culture.Sports,190510.0,159.2101792943897,8.0,1960.0,1.9651350975036617,Culture,Sports,José Ángel Iribar
+181,2.0,191521.0,Božidar Maljković,0.9748311638832092,Q629248,Culture.Sports,191521.0,595.7575818888039,11.0,1159.0,1.9496623277664185,Culture,Sports,Božidar Maljković
+182,4.0,192115.0,Txetxu Rojo,0.9890230894088744,Q2724693,Culture.Sports,192115.0,3361.5452053794183,8.0,1904.0,3.9560923576354976,Culture,Sports,Txetxu Red
+183,4.0,192643.0,Arganda del Rey,0.9990989565849304,Q497692,Geography.Regions.Europe.Southern_Europe,192643.0,5930.2319617462645,2.0,2205.0,0.0,Geography,Southern_Europe,Arganda del Rey
+184,8.0,193156.0,Rafael Jofresa,0.9830951094627379,Q2560973,Culture.Sports,193156.0,7.902777777777778,11.0,1468.0,7.864760875701903,Culture,Sports,Rafael Jofresa
+185,6.0,193746.0,Torrelavega,0.9960646033287048,Q494693,Geography.Regions.Europe.Europe*,193746.0,5046.667257758884,3.0,3558.0,0.0,Geography,Europe*,Torrelavega
+186,1.0,195886.0,Camargo (Cantabria),1.0000100135803225,Q1635185,Geography.Regions.Europe.Southern_Europe,195886.0,0.0,3.0,1187.0,0.0,Geography,Southern_Europe,Camargo (Cantabria)
+187,6.0,197685.0,Vuelta a España 1999,0.6791887283325195,Q950363,Culture.Sports,197685.0,8729.373815654575,3.0,10957.0,4.075132369995116,Culture,Sports,Tour of Spain 1999
+188,1.0,198445.0,Baccara,0.8933194279670715,Q753066,Culture.Media.Media*,198445.0,0.0,2.0,3788.0,0.8933194279670715,Culture,Media*,Baccara
+189,4.0,198906.0,Kiko (futbolista),0.984585464000702,Q263391,Culture.Sports,198906.0,21907.0,14.0,2273.0,3.938341856002808,Culture,Sports,Kiko (soccer player)
+190,5.0,199250.0,Premios César,0.22816647589206696,Q174389,Culture.Media.Media*,199250.0,23778.0,1.0,2010.0,1.1408323794603348,Culture,Media*,César Awards
+191,2.0,199870.0,Treviño,0.3140605390071869,Q427099,History_and_Society.Society,199870.0,0.0,1.0,3851.0,0.6281210780143738,History_and_Society,Society,Trevino
+192,1.0,199984.0,Orleans,0.946606695652008,Q6548,Geography.Regions.Europe.Europe*,199984.0,0.0,21.0,2137.0,0.0,Geography,Europe*,Orleans
+193,2.0,200563.0,Aleksandar Đorđević,0.9914325475692748,Q380033,Culture.Sports,200563.0,1036.2684523809519,18.0,1517.0,1.9828650951385496,Culture,Sports,Aleksandar Đorđević
+194,3.0,200905.0,Valle de Villaverde,0.275139719247818,Q1603035,Culture.Linguistics,200905.0,0.0,1.0,2149.0,0.8254191577434541,Culture,Linguistics,Villaverde Valley
+195,4.0,200942.0,Johan Museeuw,0.997894287109375,Q378264,Culture.Sports,200942.0,406.38001867412885,3.0,1629.0,3.9915771484375,Culture,Sports,Johan Museeuw
+196,3.0,203248.0,Escudo de Aragón,0.3629792034626007,Q2304688,History_and_Society.History,203248.0,3.6666666666666665,5.0,2716.0,1.088937610387802,History_and_Society,History,Shield of aragon
+197,2.0,203419.0,Oiz,0.6297846436500549,Q557367,History_and_Society.Society,203419.0,1011.0,3.0,830.0,1.25956928730011,History_and_Society,Society,Oiz
+198,2.0,206223.0,Albarracín,0.9808859825134276,Q695488,Geography.Regions.Europe.Europe*,206223.0,4486.9135834691615,1.0,3157.0,0.0,Geography,Europe*,Albarracín
+199,2.0,207593.0,Robert Jarni,0.9984612464904784,Q311898,Culture.Sports,207593.0,1011.0,14.0,2609.0,1.9969224929809568,Culture,Sports,Robert Jarni
+200,6.0,214275.0,Victoria Libertas Pesaro,0.9790457487106324,Q36406,Culture.Sports,214275.0,754.0069259554231,11.0,1066.0,5.874274492263795,Culture,Sports,Victoria Libertas Pesaro
+201,3.0,214884.0,Gabino Diego,0.23371636867523202,Q4350356,Culture.Media.Media*,214884.0,3530.5,4.0,3274.0,0.7011491060256961,Culture,Media*,Gabino Diego
+202,1.0,216443.0,Rebelión de la India de 1857,0.7773098945617676,Q129864,History_and_Society.Military_and_warfare,216443.0,0.0,1.0,2913.0,0.7773098945617676,History_and_Society,Military_and_warfare,Indian Rebellion of 1857
+203,2.0,217655.0,Agra,0.9019306898117064,Q42941,Geography.Regions.Asia.Asia*,217655.0,1011.0,1.0,2872.0,0.0,Geography,Asia*,Agra
+204,4.0,218938.0,Organización política de Hispania,0.546748161315918,Q6052738,History_and_Society.Politics_and_government,218938.0,7035.0,2.0,2934.0,2.186992645263672,History_and_Society,Politics_and_government,Political organization of Hispania
+205,4.0,221168.0,Pável Tonkov,0.9770326614379884,Q444439,Culture.Sports,221168.0,467.92699639599954,3.0,1012.0,3.9081306457519536,Culture,Sports,Pavel Tonkov
+206,3.0,221303.0,Villa María (Córdoba),0.9972090721130372,Q2525523,Geography.Regions.Americas.South_America,221303.0,505.5,12.0,2946.0,0.0,Geography,South_America,Villa María (Córdoba)
+207,1.0,221749.0,El séptimo día,0.8221991658210754,Q3227106,Culture.Media.Media*,221749.0,0.0,4.0,1765.0,0.8221991658210754,Culture,Media*,The seventh day
+208,1.0,225702.0,Bueu,1.0000100135803225,Q1632909,Geography.Regions.Europe.Southern_Europe,225702.0,0.0,1.0,1843.0,0.0,Geography,Southern_Europe,Wow
+209,3.0,226635.0,Vicente de Huesca,0.3557848632335663,Q318974,History_and_Society.History,226635.0,2020.0,2.0,1328.0,1.0673545897006989,History_and_Society,History,Vicente de Huesca
+210,1.0,226734.0,Presidente de la Región de Murcia,0.4063222279548645,Q5199072,Geography.Regions.Europe.Southern_Europe,226734.0,0.0,3.0,3233.0,0.0,Geography,Southern_Europe,President of the Murcia Region
+211,3.0,226821.0,Melcior Mauri,0.9993638396263124,Q603743,Culture.Sports,226821.0,0.0,3.0,2116.0,2.9980915188789368,Culture,Sports,Melcior Mauri
+212,6.0,227165.0,Chauncey Billups,0.9981998205184937,Q298531,Culture.Sports,227165.0,3613.112760287034,7.0,2143.0,5.989198923110963,Culture,Sports,Chauncey Billups
+213,1.0,228187.0,San Lorenzo (Santa Fe),0.9966334104537964,Q52546,Geography.Regions.Americas.South_America,228187.0,0.0,20.0,1800.0,0.0,Geography,South_America,San Lorenzo (Santa Fe)
+214,3.0,231000.0,Ligue 2,0.8596737384796143,Q217374,Culture.Sports,231000.0,8039.0,21.0,1824.0,2.5790212154388428,Culture,Sports,Ligue 2
+215,2.0,231839.0,¡Así es mi tierra!,0.9783946871757508,Q6172051,Culture.Media.Media*,231839.0,1011.0,9.0,1436.0,1.9567893743515017,Culture,Media*,¡Así es mi tierra!
+216,1.0,231865.0,Xavier Cugat,0.6076731681823729,Q334180,Culture.Media.Media*,231865.0,0.0,2.0,2211.0,0.6076731681823729,Culture,Media*,Xavier Cugat
+217,4.0,232180.0,Cerdaña,0.9019306898117064,Q15385,Geography.Regions.Europe.Europe*,232180.0,5036.416666666667,1.0,2788.0,0.0,Geography,Europe*,Cerdanya
+218,2.0,237089.0,Fernando Sancho,0.9908843636512756,Q1406829,Culture.Biography.Biography*,237089.0,2020.0,2.0,1434.0,0.0,Culture,Biography*,Fernando Sancho
+219,3.0,238366.0,Partido de José C. Paz,0.998599648475647,Q2329785,Geography.Regions.Americas.South_America,238366.0,10.099206349206346,20.0,1810.0,0.0,Geography,South_America,José C. Paz Party
+220,1.0,241965.0,Aeropuerto de Bilbao,0.991162657737732,Q598197,STEM.Engineering,241965.0,0.0,3.0,2136.0,0.991162657737732,STEM,Engineering,Bilbao airport
+221,1.0,242526.0,Pulp (banda),0.9219318628311156,Q504464,Culture.Media.Music,242526.0,0.0,13.0,2507.0,0.9219318628311156,Culture,Music,Pulp (band)
+222,2.0,244613.0,Thomas Muster,1.0000100135803225,Q219966,Culture.Sports,244613.0,0.0,0.0,2005.0,2.000020027160645,Culture,Sports,Thomas muster
+223,5.0,245483.0,Collado Villalba,1.0000100135803225,Q735759,Geography.Regions.Europe.Southern_Europe,245483.0,1631.5271026273276,3.0,2186.0,0.0,Geography,Southern_Europe,Collado Villalba
+224,2.0,246487.0,Maulets (historia),0.11280541121959685,Q3066463,History_and_Society.Politics_and_government,246487.0,0.0,5.0,1695.0,0.2256108224391937,History_and_Society,Politics_and_government,Maulets (story)
+225,2.0,249060.0,Selección de baloncesto de la Unión Soviética,0.8840492963790894,Q810377,Culture.Sports,249060.0,0.0,7.0,1568.0,1.7680985927581787,Culture,Sports,Basketball team of the Soviet Union
+226,1.0,249093.0,Caso Bosman,0.7122421860694885,Q465550,History_and_Society.Politics_and_government,249093.0,0.0,2.0,2392.0,0.7122421860694885,History_and_Society,Politics_and_government,Bosman case
+227,3.0,251572.0,Manuel Alexandre,0.9916942119598388,Q983626,Culture.Biography.Biography*,251572.0,44.0,4.0,3162.0,0.0,Culture,Biography*,Manuel Alexandre
+228,1.0,251976.0,Minifundio,0.59267657995224,Q1746361,History_and_Society.Business_and_economics,251976.0,0.0,3.0,3261.0,0.59267657995224,History_and_Society,Business_and_economics,Minifundio
+229,1.0,253416.0,Torrente (Valencia),0.9964163899421692,Q161945,Geography.Regions.Europe.Southern_Europe,253416.0,0.0,2.0,2607.0,0.0,Geography,Southern_Europe,Torrente (Valencia)
+230,3.0,257264.0,Ernesto Acher,0.22816647589206696,Q5394111,Culture.Media.Music,257264.0,1001.5476190476184,15.0,24504.0,0.6844994276762009,Culture,Music,Ernest Acher
+231,8.0,257845.0,Villalar de los Comuneros,1.0000100135803225,Q1908262,Geography.Regions.Europe.Southern_Europe,257845.0,13.933333333333335,6.0,10357.0,0.0,Geography,Southern_Europe,Villalar de los Comuneros
+232,1.0,261227.0,Gran San Miguel de Tucumán,0.3702353835105896,Q8964910,Culture.Visual_arts.Architecture,261227.0,0.0,20.0,2521.0,0.3702353835105896,Culture,Architecture,Greater San Miguel de Tucumán
+233,2.0,263468.0,Área metropolitana de Bogotá,0.12253321707248688,Q3291586,History_and_Society.Politics_and_government,263468.0,1011.0,20.0,2999.0,0.2450664341449737,History_and_Society,Politics_and_government,Bogotá metropolitan area
+234,2.0,267449.0,Daniel Samper Pizano,0.3998216390609741,Q1977271,Culture.Media.Media*,267449.0,1011.0,20.0,3712.0,0.7996432781219482,Culture,Media*,Daniel Samper Pizano
+235,7.0,267594.0,Partido de Moreno,0.997894287109375,Q2037611,Geography.Regions.Americas.South_America,267594.0,467.14127062592604,20.0,2811.0,0.0,Geography,South_America,Moreno party
+236,1.0,269092.0,Plencia,0.8354935646057129,Q1228773,History_and_Society.Society,269092.0,0.0,1.0,1368.0,0.8354935646057129,History_and_Society,Society,Plencia
+237,1.0,271871.0,PC Fútbol,1.0000100135803225,Q3887972,Culture.Internet_culture,271871.0,0.0,18.0,3648.0,1.0000100135803225,Culture,Internet_culture,PC Soccer
+238,4.0,274173.0,Partido de Exaltación de la Cruz,0.9886782765388488,Q253247,Geography.Regions.Americas.South_America,274173.0,1440.1755387635794,20.0,3825.0,0.0,Geography,South_America,Exaltation of the Cross Party
+239,3.0,275613.0,Alberto Márcico,0.984585464000702,Q1998778,Culture.Sports,275613.0,2021.0,20.0,1841.0,2.953756392002106,Culture,Sports,Alberto Márcico
+240,1.0,277813.0,Parque Avellaneda (Buenos Aires),0.9724247455596924,Q597824,Geography.Regions.Americas.South_America,277813.0,0.0,2.0,1741.0,0.0,Geography,South_America,Parque Avellaneda (Buenos Aires)
+241,5.0,278424.0,Partido de Merlo,0.997758150100708,Q1239732,Geography.Regions.Americas.South_America,278424.0,386.9633329089212,20.0,3319.0,0.0,Geography,South_America,Merlo party
+242,6.0,278805.0,Angliru,0.951152205467224,Q443610,Geography.Regions.Europe.Europe*,278805.0,2880.121237907664,3.0,2981.0,0.0,Geography,Europe*,Angliru
+243,3.0,279055.0,Enrique Cerezo,0.2120788097381592,Q2457791,Culture.Media.Music,279055.0,2051.4749999999976,8.0,2068.0,0.6362364292144777,Culture,Music,Enrique Cerezo
+244,12.0,280591.0,Villa Carlos Paz,0.9939124584197998,Q48285,Geography.Regions.Americas.South_America,280591.0,42093.19344411163,12.0,2766.0,0.0,Geography,South_America,Villa Carlos Paz
+245,6.0,283551.0,Sibila de Jerusalén,0.9626831412315368,Q234782,History_and_Society.History,283551.0,587.6666666666638,5.0,4768.0,5.77609884738922,History_and_Society,History,Sibila de Jerusalén
+246,8.0,285311.0,María Luisa Ponte,0.275139719247818,Q3573066,History_and_Society.History,285311.0,12527.166666666664,4.0,4556.0,2.201117753982544,History_and_Society,History,María Luisa Ponte
+247,3.0,285916.0,B&B,0.8596737384796143,Q4833575,Culture.Media.Media*,285916.0,2691.570516435444,13.0,1849.0,2.5790212154388428,Culture,Media*,B&B
+248,11.0,286014.0,Mariano Ozores,0.9905974268913268,Q545395,Culture.Biography.Biography*,286014.0,15035.0,4.0,2450.0,0.0,Culture,Biography*,Mariano Ozores
+249,1.0,286060.0,Mayra Gómez Kemp,0.2568419873714447,Q6797938,Culture.Media.Media*,286060.0,0.0,4.0,3795.0,0.2568419873714447,Culture,Media*,Mayra Gomez Kemp
+250,5.0,286161.0,Balduino V de Jerusalén,0.9433575868606568,Q345687,History_and_Society.History,286161.0,251.75,5.0,1544.0,4.716787934303285,History_and_Society,History,Baudouin V of Jerusalem
+251,7.0,289299.0,Gran La Plata,0.2393593490123749,Q5600603,Culture.Visual_arts.Visual_arts*,289299.0,3303.265263647163,20.0,3513.0,1.6755154430866244,Culture,Visual_arts*,Great La Plata
+252,1.0,289947.0,7 vírgenes,0.9783946871757508,Q5653004,Culture.Media.Media*,289947.0,0.0,4.0,1773.0,0.9783946871757508,Culture,Media*,7 virgins
+253,1.0,290582.0,Reocín,1.0000100135803225,Q1623013,Geography.Regions.Europe.Europe*,290582.0,0.0,3.0,683.0,0.0,Geography,Europe*,Reocín
+254,2.0,292618.0,Gianluca Bortolami,0.9954004287719728,Q728765,Culture.Sports,292618.0,0.0,3.0,569.0,1.990800857543945,Culture,Sports,Gianluca Bortolami
+255,3.0,293452.0,Vuelta a España 1998,0.6513648629188538,Q769344,Culture.Sports,293452.0,4260.492100164769,3.0,1817.0,1.9540945887565613,Culture,Sports,Tour of Spain 1998
+256,1.0,293902.0,Así en el cielo como en la tierra,0.9324633479118348,Q5710175,Culture.Media.Media*,293902.0,0.0,4.0,1598.0,0.9324633479118348,Culture,Media*,Así en el cielo como en la tierra
+257,2.0,296999.0,Área metropolitana de Valencia,0.839743971824646,Q3325101,Geography.Regions.Europe.Southern_Europe,296999.0,1011.0,2.0,1797.0,0.0,Geography,Southern_Europe,Área metropolitana de Valencia
+258,3.0,302211.0,Roberto Laiseka,0.9946250915527344,Q728352,Culture.Sports,302211.0,191.73028711484366,3.0,2730.0,2.983875274658203,Culture,Sports,Roberto Laiseka
+259,3.0,302265.0,Louis Bullock,0.9976868629455566,Q1336704,Culture.Sports,302265.0,25.30087193209418,11.0,1833.0,2.99306058883667,Culture,Sports,Louis Bullock
+260,3.0,305429.0,Giovanni Trapattoni,0.99593985080719,Q44420,Culture.Sports,305429.0,20919.225049322897,18.0,2291.0,2.98781955242157,Culture,Sports,Giovanni Trapattoni
+261,2.0,308385.0,Rumasa,0.2942249774932861,Q175855,History_and_Society.Business_and_economics,308385.0,0.0,8.0,3341.0,0.5884499549865722,History_and_Society,Business_and_economics,Rumasa
+262,1.0,317181.0,Necochea,0.9149109721183776,Q1022275,Geography.Regions.Americas.South_America,317181.0,0.0,15.0,2488.0,0.0,Geography,South_America,Necochea
+263,1.0,319266.0,Óscar Sevilla,0.9899964332580566,Q293473,Culture.Sports,319266.0,0.0,3.0,2418.0,0.9899964332580566,Culture,Sports,Oscar Sevilla
+264,4.0,323873.0,Stephen Frears,0.15611489117145538,Q55258,Culture.Media.Media*,323873.0,19859.0,1.0,1821.0,0.6244595646858215,Culture,Media*,Stephen Frears
+265,3.0,326244.0,Tanoka Beard,0.9937201142311096,Q2474683,Culture.Sports,326244.0,0.0,11.0,2205.0,2.981160342693329,Culture,Sports,Tanoka Beard
+266,2.0,326274.0,Castilleja de Guzmán,1.0000100135803225,Q1628350,Geography.Regions.Europe.Europe*,326274.0,3027.0,3.0,1024.0,0.0,Geography,Europe*,Castilleja de Guzmán
+267,1.0,326323.0,El Cuervo de Sevilla,1.0000100135803225,Q62705,Geography.Regions.Europe.Europe*,326323.0,0.0,3.0,2386.0,0.0,Geography,Europe*,The Raven of Seville
+268,2.0,327842.0,Las noticias del guiñol,0.9648651480674744,Q6492742,Culture.Media.Media*,327842.0,0.0,18.0,1057.0,1.9297302961349487,Culture,Media*,The News of the Winkle
+269,5.0,328121.0,Florencio Varela (Buenos Aires),0.7663036584854126,Q2359107,Geography.Geographical,328121.0,2.333333333333333,15.0,3102.0,0.0,Geography,Geographical,Florencio Varela (Buenos Aires)
+270,4.0,330163.0,Exposición Universal de Barcelona (1888),0.11921291798353195,Q1384735,Culture.Visual_arts.Visual_arts*,330163.0,1959.6543650793647,5.0,3000.0,0.4768516719341278,Culture,Visual_arts*,Universal Exhibition of Barcelona (1888)
+271,2.0,332912.0,Estadio de Sarriá,0.5156299471855164,Q1325234,Culture.Sports,332912.0,18210.54885884669,14.0,1266.0,1.0312598943710327,Culture,Sports,Sarriá Stadium
+272,2.0,333970.0,Paul Rodgers,0.8596737384796143,Q313098,Culture.Media.Music,333970.0,2020.0,10.0,2269.0,1.7193474769592283,Culture,Music,Paul Rodgers
+273,4.0,336994.0,Andrea Tafi,0.9931061863899232,Q495174,Culture.Sports,336994.0,1039.3118368559371,3.0,897.0,3.9724247455596937,Culture,Sports,Andrea Tafi
+274,2.0,337303.0,Lang Lang,0.7371681928634644,Q155713,Culture.Media.Media*,337303.0,15936.0,10.0,4627.0,1.4743363857269287,Culture,Media*,Lang Lang
+275,3.0,337891.0,Tour de Francia 2002,0.9591643214225768,Q827953,Culture.Sports,337891.0,9.066666666666666,3.0,2037.0,2.8774929642677303,Culture,Sports,Tour de France 2002
+276,4.0,340127.0,Michele Scarponi,0.989681839942932,Q362095,Culture.Sports,340127.0,931.5730096850473,3.0,3691.0,3.958727359771728,Culture,Sports,Michele Scarponi
+277,5.0,342181.0,Olavarría,0.9539760947227478,Q1004149,Geography.Regions.Americas.South_America,342181.0,7534.665489252049,20.0,2704.0,0.0,Geography,South_America,Olavarria
+278,2.0,342507.0,Igor Antón,0.9958112239837646,Q363840,Culture.Sports,342507.0,0.0,3.0,991.0,1.9916224479675293,Culture,Sports,Igor Antón
+279,2.0,343496.0,Smile (banda),0.538993239402771,Q841707,Culture.Media.Media*,343496.0,1011.0,10.0,2638.0,1.077986478805542,Culture,Media*,Smile (band)
+280,5.0,346532.0,Cruz de San Jorge,0.6992644667625427,Q614328,History_and_Society.History,346532.0,1355.5186160915061,5.0,4711.0,3.4963223338127136,History_and_Society,History,St. George's Cross
+281,3.0,355176.0,Luis López Álvarez,0.16886694729328156,Q5798215,Culture.Literature,355176.0,0.0,6.0,773.0,0.5066008418798447,Culture,Literature,Luis López Álvarez
+282,2.0,356288.0,Pilar (Buenos Aires),0.7248802781105042,Q1786597,Geography.Regions.Americas.South_America,356288.0,0.0,20.0,2625.0,0.0,Geography,South_America,Pilar (Buenos Aires)
+283,1.0,365216.0,Jesús Hermida,0.9263137578964232,Q5547586,Culture.Biography.Biography*,365216.0,0.0,16.0,1947.0,0.0,Culture,Biography*,Jesus Hermida
+284,2.0,374756.0,Pampita,0.10088862478733064,Q129745,Culture.Visual_arts.Visual_arts*,374756.0,4860.718215395626,13.0,15218.0,0.20177724957466128,Culture,Visual_arts*,Pampita
+285,1.0,375488.0,Güeñes,0.9399233460426332,Q596305,Culture.Linguistics,375488.0,0.0,8.0,792.0,0.9399233460426332,Culture,Linguistics,Güeñes
+286,1.0,377397.0,Blackpool,0.946606695652008,Q170377,Geography.Regions.Europe.Europe*,377397.0,0.0,18.0,2817.0,0.0,Geography,Europe*,Blackpool
+287,5.0,380083.0,Morón (Buenos Aires),0.9924327731132508,Q967746,Geography.Regions.Americas.South_America,380083.0,5152.644972973795,20.0,2071.0,0.0,Geography,South_America,Morón (Buenos Aires)
+288,3.0,380454.0,Cartago Nova,0.9850529432296752,Q2727884,History_and_Society.History,380454.0,3027.0,2.0,2469.0,2.955158829689025,History_and_Society,History,Carthage Nova
+289,2.0,385190.0,Mikel Astarloza,0.9979592561721802,Q357332,Culture.Sports,385190.0,0.0,1.0,868.0,1.9959185123443604,Culture,Sports,Mikel Astarloza
+290,5.0,385719.0,El fantasma de la ópera (musical de 1986),0.998977780342102,Q382353,Culture.Performing_arts,385719.0,1512.0,10.0,16735.0,4.994888901710509,Culture,Performing_arts,Phantom of the Opera (1986 musical)
+291,2.0,385745.0,Copa de Campeones de Europa 1987-88,0.9955416321754456,Q392526,Culture.Sports,385745.0,0.0,18.0,2550.0,1.9910832643508911,Culture,Sports,1987-88 European Champions Cup
+292,2.0,390260.0,Berisso,0.9886782765388488,Q668462,Geography.Regions.Americas.South_America,390260.0,0.0,20.0,2075.0,0.0,Geography,South_America,Berisso
+293,2.0,390623.0,Partido de Ezeiza,0.9972090721130372,Q2510045,Geography.Regions.Americas.South_America,390623.0,21.769444444444453,15.0,1859.0,0.0,Geography,South_America,Ezeiza party
+294,2.0,390649.0,Ezeiza,0.9241518378257751,Q1385982,Geography.Regions.Americas.South_America,390649.0,856.9523809523799,15.0,2645.0,0.0,Geography,South_America,Ezeiza
+295,3.0,391334.0,Partido de Olavarría,0.992888569831848,Q2621613,Geography.Regions.Americas.South_America,391334.0,289.8382783882785,20.0,1631.0,0.0,Geography,South_America,Olavarría party
+296,4.0,392142.0,Telefe Internacional,0.8903042674064636,Q386603,Culture.Media.Media*,392142.0,4856.147647637502,12.0,1882.0,3.5612170696258545,Culture,Media*,International Telefe
+297,2.0,393377.0,Juan Eduardo Esnáider,0.9967369437217712,Q62227,Culture.Sports,393377.0,1491.1111744249845,8.0,2170.0,1.9934738874435425,Culture,Sports,Juan Eduardo Esnáider
+298,1.0,395801.0,Renovación Española,0.7773098945617676,Q1508640,History_and_Society.Politics_and_government,395801.0,0.0,2.0,2375.0,0.7773098945617676,History_and_Society,Politics_and_government,Spanish Renovation
+299,2.0,397837.0,Olga Viza,0.3557848632335663,Q3394985,Culture.Media.Media*,397837.0,6036.0,16.0,3147.0,0.7115697264671326,Culture,Media*,Olga Viza
+300,4.0,400415.0,José María Ruiz-Mateos,0.812877357006073,Q1147998,History_and_Society.Politics_and_government,400415.0,1009.5,8.0,5839.0,3.251509428024292,History_and_Society,Politics_and_government,José María Ruiz-Mateos
+301,22.0,400609.0,Michael Robinson,0.91965252161026,Q1929070,Culture.Sports,400609.0,74567.35797192159,18.0,287866.0,20.232355475425717,Culture,Sports,Michael Robinson
+302,6.0,404237.0,Gianni Lunadei,0.9706977605819702,Q5475586,Culture.Biography.Biography*,404237.0,6287.539962537545,12.0,2018.0,0.0,Culture,Biography*,Gianni Lunadei
+303,4.0,405837.0,Finidi George,0.9931061863899232,Q379349,Culture.Sports,405837.0,10658.903030303038,14.0,3430.0,3.9724247455596937,Culture,Sports,Finidi George
+304,2.0,406859.0,Gaetano Scirea,0.9763205647468568,Q299608,Culture.Sports,406859.0,19983.39171598956,18.0,1781.0,1.9526411294937136,Culture,Sports,Gaetano Scirea
+305,2.0,408034.0,Ituzaingó (Buenos Aires),0.9967369437217712,Q615244,Geography.Regions.Americas.South_America,408034.0,0.0,20.0,1771.0,0.0,Geography,South_America,Ituzaingó (Buenos Aires)
+306,10.0,414857.0,Partido de Quilmes,0.9990402460098268,Q1855418,Geography.Regions.Americas.South_America,414857.0,5357.299406644081,15.0,3088.0,0.0,Geography,South_America,Quilmes party
+307,2.0,415901.0,Gabriel Figueroa,0.21734751760959625,Q1489209,Culture.Visual_arts.Visual_arts*,415901.0,12000.0,9.0,1918.0,0.4346950352191925,Culture,Visual_arts*,Gabriel Figueroa
+308,2.0,416404.0,Primera División de España 1991-92,0.5000100135803223,Q720554,Culture.Sports,416404.0,3027.0,14.0,1995.0,1.0000200271606443,Culture,Sports,Spanish First Division 1991-92
+309,1.0,426593.0,Vicente Miera,0.99219411611557,Q1372383,Culture.Sports,426593.0,0.0,14.0,763.0,0.99219411611557,Culture,Sports,Vicente Miera
+310,3.0,426613.0,Tiago Splitter,1.0000100135803225,Q352168,Culture.Sports,426613.0,1011.0,11.0,2339.0,3.000030040740968,Culture,Sports,Tiago Splitter
+311,2.0,432948.0,Bílbilis,0.6791887283325195,Q860500,History_and_Society.History,432948.0,1011.0,2.0,9291.0,1.358377456665039,History_and_Society,History,Bilbilis
+312,1.0,434148.0,Castillo de Osborne,0.9914325475692748,Q565155,Culture.Visual_arts.Visual_arts*,434148.0,0.0,1.0,2034.0,0.9914325475692748,Culture,Visual_arts*,Osborne Castle
+313,2.0,439443.0,AZ Alkmaar,0.8774868249893188,Q191264,Culture.Sports,439443.0,0.0,21.0,2333.0,1.7549736499786377,Culture,Sports,AZ Alkmaar
+314,1.0,440559.0,El misterioso caso de Styles,0.9963027834892272,Q472228,Culture.Literature,440559.0,0.0,1.0,2531.0,0.9963027834892272,Culture,Literature,Styles' Mysterious Case
+315,2.0,440565.0,José Corbacho,0.23371636867523202,Q580414,Culture.Media.Media*,440565.0,2020.0,16.0,1917.0,0.46743273735046403,Culture,Media*,Jose Corbacho
+316,11.0,445011.0,Término municipal,0.4990100135803223,Q55843,Geography.Regions.Europe.Southern_Europe,445011.0,9939.176956943691,3.0,5954.0,0.0,Geography,Southern_Europe,Municipality
+317,1.0,446384.0,Paulo Roberto Falcão,0.996837317943573,Q312454,Culture.Sports,446384.0,0.0,18.0,2191.0,0.996837317943573,Culture,Sports,Paulo Roberto Falcão
+318,2.0,449094.0,Posromanticismo,0.974052667617798,Q3782252,Culture.Literature,449094.0,1011.0,6.0,3366.0,1.948105335235596,Culture,Literature,Post-romanticism
+319,8.0,451029.0,Castellanismo (política),0.6791887283325195,Q2581716,History_and_Society.Politics_and_government,451029.0,4038.433333333333,6.0,3060.0,5.433509826660156,History_and_Society,Politics_and_government,Castellanismo (política)
+320,2.0,455926.0,Enzo Scifo,0.9987651705741882,Q221432,Culture.Sports,455926.0,1011.0,8.0,1725.0,1.9975303411483765,Culture,Sports,Enzo Scifo
+321,4.0,457167.0,Mikel Lasa,0.9985088109970092,Q937833,Culture.Sports,457167.0,1011.0,2.0,1254.0,3.9940352439880367,Culture,Sports,Mikel Lasa
+322,4.0,473392.0,Alberto Herreros,0.99219411611557,Q721076,Culture.Sports,473392.0,7.767105698327932,11.0,2071.0,3.96877646446228,Culture,Sports,Alberto Herreros
+323,13.0,475190.0,Mark Aguirre,1.0000100135803225,Q714640,Culture.Sports,475190.0,1169.946051172556,7.0,2384.0,13.000130176544195,Culture,Sports,Mark Aguirre
+324,1.0,485107.0,Montblanch,0.9871888160705566,Q761735,Geography.Regions.Europe.Europe*,485107.0,0.0,5.0,2402.0,0.0,Geography,Europe*,Montblanc
+325,2.0,487089.0,Región de León,0.26285186409950256,Q1118661,History_and_Society.History,487089.0,1011.0,1.0,2276.0,0.5257037281990051,History_and_Society,History,Leon region
+326,3.0,487418.0,Tormenta (cantante),0.5234303474426271,Q16641059,Culture.Media.Music,487418.0,2021.0,12.0,2824.0,1.5702910423278813,Culture,Music,Storm (singer)
+327,4.0,488424.0,Galeazzo Ciano,0.5156299471855164,Q220105,History_and_Society.Military_and_warfare,488424.0,16948.0,17.0,2001.0,2.062519788742065,History_and_Society,Military_and_warfare,Galeazzo Ciano
+328,1.0,489448.0,Abel Caballero,0.9986429810523988,Q2821496,Culture.Biography.Biography*,489448.0,0.0,1.0,3790.0,0.0,Culture,Biography*,Abel Caballero
+329,2.0,493486.0,Marcos Ana,0.2509227991104126,Q1932152,Culture.Literature,493486.0,25636.0,1.0,1982.0,0.5018455982208252,Culture,Literature,Marcos Ana
+330,1.0,495639.0,Rafael Arnaiz Barón,0.5621865391731262,Q639347,Culture.Philosophy_and_religion,495639.0,0.0,2.0,3708.0,0.5621865391731262,Culture,Philosophy_and_religion,Rafael Arnaiz Barón
+331,2.0,500025.0,José Ángel Egido,0.9981998205184937,Q133597,Culture.Biography.Biography*,500025.0,1011.0,16.0,3601.0,0.0,Culture,Biography*,José Ángel Egido
+332,2.0,501342.0,Charo (cantante),0.6224693655967712,Q453949,Culture.Media.Media*,501342.0,1011.0,2.0,2159.0,1.2449387311935425,Culture,Media*,Charo (cantante)
+333,1.0,502321.0,Lluís Guilera,0.7931159734725952,Q5977917,Culture.Media.Media*,502321.0,0.0,0.0,1267.0,0.7931159734725952,Culture,Media*,Lluís Guilera
+334,4.0,507089.0,Brian Dennehy,0.15611489117145538,Q313545,Culture.Performing_arts,507089.0,5042.0,4.0,60136.0,0.6244595646858215,Culture,Performing_arts,Brian Dennehy
+335,2.0,507803.0,Betanzos,0.9995657801628112,Q671341,Geography.Regions.Europe.Southern_Europe,507803.0,3027.0,1.0,2190.0,0.0,Geography,Southern_Europe,Betanzos
+336,2.0,512736.0,José María Romero Poyón,0.9990989565849304,Q382074,Culture.Sports,512736.0,10020.0,14.0,2006.0,1.9981979131698608,Culture,Sports,José María Romero Poyón
+337,5.0,515768.0,Pepu Hernández,0.2393593490123749,Q2608549,Culture.Sports,515768.0,3027.0,11.0,2335.0,1.1967967450618746,Culture,Sports,Pepu Hernández
+338,3.0,525358.0,Leicester,0.9124462008476256,Q83065,Geography.Geographical,525358.0,10171.782128427632,1.0,6364.0,0.0,Geography,Geographical,Leicester
+339,2.0,528190.0,Ya tiene comisario el pueblo (película de 1967),0.994455099105835,Q6169487,Culture.Media.Films,528190.0,166.00966130000637,12.0,1438.0,1.98891019821167,Culture,Films,The town already has a commissioner (1967 film)
+340,5.0,531800.0,Cáceres,0.98678719997406,Q15678,Geography.Regions.Europe.Europe*,531800.0,4083.142857142856,2.0,8147.0,0.0,Geography,Europe*,Cáceres
+341,1.0,535887.0,Copa de Oro Nicolás Leoz,0.9980832934379578,Q430418,Culture.Sports,535887.0,0.0,20.0,1631.0,0.9980832934379578,Culture,Sports,Nicolás Leoz Gold Cup
+342,5.0,539571.0,Canto de Esperanza,0.19194278120994568,Q6403014,History_and_Society.Politics_and_government,539571.0,7.333333333333332,6.0,847.0,0.9597139060497284,History_and_Society,Politics_and_government,Song of Hope
+343,1.0,539887.0,Criptopórtico,0.8519628047943115,Q660398,Culture.Visual_arts.Visual_arts*,539887.0,0.0,2.0,1456.0,0.8519628047943115,Culture,Visual_arts*,Cryptoportic
+344,4.0,541917.0,Maracaná 06,0.9099169969558716,Q5995239,Culture.Media.Television,541917.0,0.0,18.0,904.0,3.6396679878234863,Culture,Television,Maracana 06
+345,1.0,552527.0,Campeonato Mundial de Ciclismo en Ruta de 2005,0.9939124584197998,Q33729,Culture.Sports,552527.0,0.0,3.0,1159.0,0.9939124584197998,Culture,Sports,Campeonato Mundial de Ciclismo en Ruta de 2005
+346,1.0,556627.0,Italpark,0.26285186409950256,Q4121129,Culture.Media.Entertainment,556627.0,0.0,12.0,3118.0,0.26285186409950256,Culture,Entertainment,Italpark
+347,2.0,559409.0,Uxama Argaela,0.812877357006073,Q6158255,History_and_Society.History,559409.0,1011.0,2.0,3022.0,1.625754714012146,History_and_Society,History,Uxama Argaela
+348,3.0,560307.0,José Yves Limantour,0.9715740084648132,Q684289,Culture.Biography.Biography*,560307.0,2021.0,9.0,2879.0,0.0,Culture,Biography*,José Yves Limantour
+349,5.0,565387.0,Moreno (Buenos Aires),0.9875783920288086,Q1496283,Geography.Regions.Americas.South_America,565387.0,7140.24068619341,20.0,2761.0,0.0,Geography,South_America,Moreno (Buenos Aires)
+350,2.0,567576.0,Sobredosis de TV (programa de televisión),0.8962613940238953,Q7696971,Culture.Media.Television,567576.0,1011.0,12.0,1337.0,1.7925227880477903,Culture,Television,TV overdose (TV show)
+351,7.0,568568.0,Torneo Conde de Godó,0.9951046109199524,Q299163,Culture.Sports,568568.0,4037.5,0.0,5675.0,6.965732276439668,Culture,Sports,Torneo Conde de Godó
+352,1.0,574580.0,Parlamento de Andalucía,0.2568419873714447,Q2743388,History_and_Society.Politics_and_government,574580.0,0.0,1.0,4521.0,0.2568419873714447,History_and_Society,Politics_and_government,Andalusian Parliament
+353,1.0,575686.0,Enrique Pinti,0.1067005917429924,Q5379789,Culture.Media.Media*,575686.0,0.0,12.0,1891.0,0.1067005917429924,Culture,Media*,Enrique Pinti
+354,4.0,580106.0,Belén de Escobar,0.6791887283325195,Q816341,Geography.Regions.Americas.South_America,580106.0,1541.2457610675772,20.0,1907.0,0.0,Geography,South_America,Nativity scene from Escobar
+355,2.0,581075.0,Operación Torch,0.8558611869812012,Q194132,History_and_Society.Military_and_warfare,581075.0,1011.0,17.0,2929.0,1.7117223739624023,History_and_Society,Military_and_warfare,Operation Torch
+356,1.0,602324.0,Área metropolitana de Zaragoza,0.9905974268913268,Q2880524,Geography.Regions.Europe.Southern_Europe,602324.0,0.0,2.0,1231.0,0.0,Geography,Southern_Europe,Área metropolitana de Zaragoza
+357,6.0,612378.0,Kwame Brown,0.9993638396263124,Q317037,Culture.Sports,612378.0,798.0659172868228,7.0,3013.0,5.9961830377578735,Culture,Sports,Kwame brown
+358,2.0,629019.0,Yves Montand,0.2227101624011993,Q106057,Culture.Media.Media*,629019.0,24675.0,1.0,2305.0,0.4454203248023986,Culture,Media*,Yves Montand
+359,1.0,631082.0,Anna Netrebko,0.9304682612419128,Q78516,Culture.Media.Media*,631082.0,0.0,18.0,3081.0,0.9304682612419128,Culture,Media*,Anna Netrebko
+360,3.0,654913.0,Álvaro de Luna (actor),0.9935217499732972,Q251455,Culture.Biography.Biography*,654913.0,1011.0,4.0,3448.0,0.0,Culture,Biography*,Álvaro de Luna (actor)
+361,1.0,657415.0,Carlos Luna,0.994455099105835,Q765888,Culture.Sports,657415.0,0.0,20.0,2334.0,0.994455099105835,Culture,Sports,Carlos Luna
+362,5.0,663475.0,Ernesto Sáenz de Buruaga,0.5234303474426271,Q5837028,Culture.Media.Media*,663475.0,5044.0,16.0,2399.0,2.6171517372131348,Culture,Media*,Ernesto Sáenz de Buruaga
+363,3.0,665118.0,Nuevo Mester de Juglaría,0.4532718360424042,Q1219021,Culture.Media.Music,665118.0,1011.0,6.0,1600.0,1.3598155081272123,Culture,Music,New Mester of Juglaría
+364,2.0,667618.0,Diego Catalán,0.16452647745609286,Q3821716,Culture.Linguistics,667618.0,0.0,2.0,1672.0,0.3290529549121857,Culture,Linguistics,Diego Catalán
+365,2.0,675190.0,Policía Montada del Canadá,0.6654205918312073,Q335175,History_and_Society.Politics_and_government,675190.0,1011.0,10.0,2455.0,1.3308411836624146,History_and_Society,Politics_and_government,Canadian Mounted Police
+366,1.0,679724.0,Juan Carlos Calabró,0.24509501457214355,Q6299208,Culture.Media.Media*,679724.0,0.0,12.0,2441.0,0.24509501457214355,Culture,Media*,Juan Carlos Calabró
+367,1.0,681498.0,José Legrá,0.94500470161438,Q3326577,Culture.Sports,681498.0,0.0,4.0,3366.0,0.94500470161438,Culture,Sports,José Legrá
+368,5.0,688475.0,Nieves Herrero,0.7310686111450195,Q5812266,Culture.Literature,688475.0,9042.0,16.0,2311.0,3.6553430557250977,Culture,Literature,Nieves Herrero
+369,1.0,688951.0,Irma Soriano,0.5621865391731262,Q5920424,Culture.Media.Media*,688951.0,0.0,16.0,2741.0,0.5621865391731262,Culture,Media*,Irma Soriano
+370,2.0,688956.0,Resistiré (telenovela),0.8670457601547241,Q944294,Culture.Media.Media*,688956.0,1011.0,12.0,1511.0,1.7340915203094482,Culture,Media*,Resistiré (telenovela)
+371,1.0,689061.0,Un lugar en el mundo (película),0.9149109721183776,Q1675415,Culture.Media.Films,689061.0,0.0,12.0,2941.0,0.9149109721183776,Culture,Films,A place in the world (film)
+372,1.0,689368.0,Perico Fernández,0.7431780099868774,Q3138945,Culture.Sports,689368.0,0.0,2.0,1419.0,0.7431780099868774,Culture,Sports,Perico Fernández
+373,7.0,697039.0,Vuelta a España 2007,0.6926519870758057,Q899602,Culture.Sports,697039.0,14285.925735604194,3.0,1148.0,4.84856390953064,Culture,Sports,Vuelta a España 2007
+374,2.0,699314.0,Doña Perfecta,0.9496793746948242,Q476558,Culture.Media.Books,699314.0,1011.0,2.0,3336.0,1.8993587493896484,Culture,Books,Perfect lady
+375,2.0,700025.0,Copa de España de fútbol sala,0.538993239402771,Q616383,Culture.Sports,700025.0,1878.982142857141,2.0,727.0,1.077986478805542,Culture,Sports,Futsal Spain Cup
+376,4.0,704638.0,Festividad de los Mayos,0.546748161315918,Q900013,Culture.Philosophy_and_religion,704638.0,12684.470315071403,1.0,4113.0,2.186992645263672,Culture,Philosophy_and_religion,Festividad de los Mayos
+377,3.0,707345.0,Abel Aguilar,0.9886782765388488,Q318416,Culture.Sports,707345.0,3029.0,2.0,2133.0,2.9660348296165466,Culture,Sports,Abel Aguilar
+378,2.0,707784.0,José Sazatornil,0.11280541121959685,Q3138894,Culture.Media.Media*,707784.0,503.5,4.0,2331.0,0.2256108224391937,Culture,Media*,José Sazatornil
+379,2.0,708704.0,Yolanda González,0.19194278120994568,Q5274881,History_and_Society.Politics_and_government,708704.0,1011.0,2.0,1074.0,0.38388556241989136,History_and_Society,Politics_and_government,Yolanda González
+380,1.0,717386.0,Fiesta de los mayos (Galicia),0.4843900501728058,Q30906398,Culture.Media.Films,717386.0,0.0,1.0,3654.0,0.4843900501728058,Culture,Films,Fiesta de los mayos (Galicia)
+381,1.0,728820.0,"Cal Ripken, Jr.",1.0000100135803225,Q731168,Culture.Sports,728820.0,0.0,19.0,2231.0,1.0000100135803225,Culture,Sports,"Cal Ripken, Jr."
+382,16.0,731736.0,Joe Dumars,0.9982553720474244,Q348598,Culture.Sports,731736.0,2770.12416663828,7.0,4138.0,15.972085952758789,Culture,Sports,Joe Dumars
+383,11.0,732483.0,Rick Mahorn,0.9983615279197692,Q2062631,Culture.Sports,732483.0,943.0051887232696,7.0,2027.0,10.98197680711746,Culture,Sports,Rick Mahorn
+384,3.0,739574.0,Cielo Latini,0.3775506913661957,Q5769011,Culture.Literature,739574.0,2021.0,13.0,2512.0,1.1326520740985868,Culture,Literature,Heaven Latini
+385,3.0,743650.0,Tarraco,0.8479777574539185,Q1501940,History_and_Society.History,743650.0,2020.0,2.0,3966.0,2.543933272361756,History_and_Society,History,Tarraco
+386,2.0,746076.0,Albert Costa,0.9937201142311096,Q317828,Culture.Sports,746076.0,0.0,0.0,1266.0,1.9874402284622192,Culture,Sports,Albert Costa
+387,1.0,746771.0,Fernando Vázquez Pena,0.9871888160705566,Q977909,Culture.Sports,746771.0,0.0,14.0,1366.0,0.9871888160705566,Culture,Sports,Fernando Vázquez Pena
+388,4.0,747401.0,Bruno Mussolini,0.3998216390609741,Q2665964,History_and_Society.Military_and_warfare,747401.0,2021.0,17.0,4444.0,1.5992865562438965,History_and_Society,Military_and_warfare,Bruno Mussolini
+389,1.0,750783.0,Manolo Otero,0.1259327530860901,Q526356,Culture.Media.Media*,750783.0,0.0,4.0,3505.0,0.1259327530860901,Culture,Media*,Manolo Otero
+390,1.0,751111.0,Carmen Tomás,0.6224693655967712,Q5485663,Culture.Media.Media*,751111.0,0.0,16.0,3284.0,0.6224693655967712,Culture,Media*,Carmen Tomás
+391,1.0,752027.0,Presidente de la Junta de Extremadura,0.14323513412475586,Q3049413,Geography.Regions.Europe.Southern_Europe,752027.0,0.0,2.0,2554.0,0.0,Geography,Southern_Europe,President of the Junta de Extremadura
+392,14.0,752354.0,John Salley,0.984585464000702,Q982558,Culture.Sports,752354.0,2043.7137267536866,7.0,4552.0,13.784196496009828,Culture,Sports,John Salley
+393,1.0,754165.0,Andrés Guglielminpietro,0.9967369437217712,Q2455140,Culture.Sports,754165.0,0.0,20.0,4158.0,0.9967369437217712,Culture,Sports,Andrés Guglielminpietro
+394,1.0,755564.0,Lucas Castromán,0.9626831412315368,Q2618473,Culture.Sports,755564.0,0.0,20.0,2037.0,0.9626831412315368,Culture,Sports,Lucas Castromán
+395,2.0,757016.0,Brett Favre,1.0000100135803225,Q267088,Culture.Sports,757016.0,1011.0,19.0,2631.0,2.000020027160645,Culture,Sports,Brett Favre
+396,6.0,757917.0,Danny Ainge,0.9995221495628356,Q918347,Culture.Sports,757917.0,1162.4490978596887,7.0,2963.0,5.997132897377013,Culture,Sports,Danny Ainge
+397,1.0,767536.0,Artemio de Valle Arizpe,0.8558611869812012,Q5706790,Culture.Biography.Biography*,767536.0,0.0,9.0,1318.0,0.0,Culture,Biography*,Artemio de Valle Arizpe
+398,4.0,767894.0,Sam Bowie,0.9978272914886476,Q1373712,Culture.Sports,767894.0,44.8127235808021,7.0,10128.0,3.9913091659545903,Culture,Sports,Sam Bowie
+399,3.0,769813.0,Draft de la NBA de 2004,0.99753737449646,Q1474606,Culture.Sports,769813.0,1011.0,7.0,2270.0,2.99261212348938,Culture,Sports,Draft de la NBA de 2004
+400,5.0,771054.0,Ralph Sampson,0.9995927214622498,Q594137,Culture.Sports,771054.0,3.939808110332408,7.0,2028.0,4.997963607311249,Culture,Sports,Ralph Sampson
+401,5.0,772998.0,Antonio de Acuña,0.5621865391731262,Q2857509,Culture.Philosophy_and_religion,772998.0,199.46666666666528,6.0,950.0,2.810932695865631,Culture,Philosophy_and_religion,Antonio de Acuña
+402,2.0,773559.0,Lima (Buenos Aires),1.0000100135803225,Q6548772,Geography.Regions.Americas.South_America,773559.0,0.0,20.0,1778.0,0.0,Geography,South_America,Lima (Buenos Aires)
+403,1.0,776180.0,Dean Smith,0.9836069941520692,Q202584,Culture.Sports,776180.0,0.0,19.0,4323.0,0.9836069941520692,Culture,Sports,Dean Smith
+404,3.0,780598.0,Miku (futbolista),0.9697954058647156,Q359179,Culture.Sports,780598.0,5350.033982683986,2.0,2448.0,2.9093862175941467,Culture,Sports,Miku (soccer player)
+405,6.0,785391.0,Gilbert Arenas,0.9947898983955384,Q310108,Culture.Sports,785391.0,418.2740478637752,7.0,2106.0,5.968739390373231,Culture,Sports,Gilbert Arenas
+406,3.0,785765.0,John Paxson,0.9990989565849304,Q659284,Culture.Sports,785765.0,1011.5287179487179,7.0,7625.0,2.9972968697547917,Culture,Sports,John Paxson
+407,5.0,787289.0,Bill Cartwright,0.984585464000702,Q862011,Culture.Sports,787289.0,414.09689256176034,7.0,3983.0,4.9229273200035095,Culture,Sports,Bill Cartwright
+408,1.0,787390.0,Mickaël Gelabale,1.0000100135803225,Q1375950,Culture.Sports,787390.0,0.0,11.0,911.0,1.0000100135803225,Culture,Sports,Mickaël Gelabale
+409,4.0,788856.0,Draft de la NBA de 2001,0.99745911359787,Q588895,Culture.Sports,788856.0,3632.105191693636,7.0,3269.0,3.98983645439148,Culture,Sports,2001 NBA Draft
+410,2.0,793095.0,Chuck Daly,0.99567848443985,Q176263,Culture.Sports,793095.0,0.0,7.0,3174.0,1.9913569688797,Culture,Sports,Chuck Daly
+411,1.0,793631.0,Delta Goodrem,0.7490972280502319,Q228818,Culture.Media.Music,793631.0,0.0,10.0,1676.0,0.7490972280502319,Culture,Music,Delta Goodrem
+412,2.0,793884.0,Cella,1.0000100135803225,Q1651638,Geography.Regions.Europe.Southern_Europe,793884.0,1011.0,2.0,1885.0,0.0,Geography,Southern_Europe,Cella
+413,1.0,794389.0,Nadiuska,0.997758150100708,Q1561436,Culture.Biography.Biography*,794389.0,0.0,4.0,2096.0,0.0,Culture,Biography*,Nadiuska
+414,4.0,795060.0,Draft de la NBA de 1985,0.9952548146247864,Q1632257,Culture.Sports,795060.0,4273.349009897233,7.0,2998.0,3.9810192584991455,Culture,Sports,1985 NBA Draft
+415,2.0,798979.0,Mary Carrillo,0.15611489117145538,Q2300189,History_and_Society.History,798979.0,3434.6666666666674,4.0,2250.0,0.3122297823429108,History_and_Society,History,Mary Carrillo
+416,1.0,800190.0,María Antonia Iglesias,0.40734341740608215,Q270825,Culture.Literature,800190.0,0.0,2.0,1860.0,0.40734341740608215,Culture,Literature,Maria Antonia Iglesias
+417,2.0,801351.0,Robert Ryan,0.1097157895565033,Q350680,Culture.Media.Media*,801351.0,1011.0,4.0,1865.0,0.2194315791130066,Culture,Media*,Robert Ryan
+418,1.0,803939.0,Alejo García Pintos,0.9836069941520692,Q1649812,Culture.Biography.Biography*,803939.0,0.0,15.0,2769.0,0.0,Culture,Biography*,Alejo García Pintos
+419,2.0,806231.0,Máximo Pradera,0.5621865391731262,Q5843631,Culture.Media.Media*,806231.0,14780.665269151144,16.0,3891.0,1.1243730783462524,Culture,Media*,Máximo Pradera
+420,2.0,806335.0,Luboslav Penev,0.9863731861114502,Q322073,Culture.Sports,806335.0,4032.0,14.0,1850.0,1.9727463722229004,Culture,Sports,Luboslav Penev
+421,6.0,807236.0,Osvaldo Laport,0.10375863313674928,Q2620033,Culture.Media.Music,807236.0,4506.871310546633,12.0,2616.0,0.6225517988204957,Culture,Music,Osvaldo Laport
+422,4.0,808215.0,Ricardo Espalter,0.9433575868606568,Q2148652,Culture.Biography.Biography*,808215.0,9933.21366509792,12.0,1993.0,0.0,Culture,Biography*,Ricardo Espalter
+423,1.0,810538.0,Las edades de Lulú (película),0.989681839942932,Q1516610,Culture.Media.Films,810538.0,0.0,4.0,2257.0,0.989681839942932,Culture,Films,Lulu's Ages (film)
+424,1.0,819061.0,Melchor Miralles,0.4532718360424042,Q7898763,Culture.Media.Media*,819061.0,0.0,2.0,2355.0,0.4532718360424042,Culture,Media*,Melchor Miralles
+425,3.0,828265.0,Patxi Salinas,0.9946250915527344,Q2606664,Culture.Sports,828265.0,6698.959098421247,8.0,1524.0,2.983875274658203,Culture,Sports,Patxi Salinas
+426,1.0,830074.0,Len Bias,0.9770326614379884,Q964585,Culture.Sports,830074.0,0.0,7.0,3559.0,0.9770326614379884,Culture,Sports,Len Bias
+427,3.0,831608.0,Ulises Dumont,0.9879562258720398,Q4888833,Culture.Biography.Biography*,831608.0,2007.485347985348,12.0,1090.0,0.0,Culture,Biography*,Ulysses Dumont
+428,1.0,835718.0,Loreto Valverde,0.4455395638942719,Q5979176,Culture.Media.Media*,835718.0,0.0,4.0,1581.0,0.4455395638942719,Culture,Media*,Loreto Valverde
+429,7.0,837989.0,Draft de la NBA de 1986,0.9955416321754456,Q1810519,Culture.Sports,837989.0,7785.353917160955,7.0,3231.0,6.968791425228119,Culture,Sports,1986 NBA Draft
+430,1.0,849644.0,Ramón Pellicer,0.9883227348327636,Q11702061,Culture.Biography.Biography*,849644.0,0.0,16.0,3895.0,0.0,Culture,Biography*,Ramon Pellicer
+431,3.0,853797.0,José Biriukov,0.9989112615585328,Q599391,Culture.Sports,853797.0,5311.5176457360685,11.0,2584.0,2.9967337846755986,Culture,Sports,José Biriukov
+432,1.0,854484.0,Javier Manjarín,0.9960646033287048,Q2327907,Culture.Sports,854484.0,0.0,14.0,1007.0,0.9960646033287048,Culture,Sports,Javier Manjarín
+433,4.0,856540.0,Trofeo Heisman,0.6926519870758057,Q1035067,History_and_Society.Society,856540.0,5.291666666666667,19.0,1633.0,2.7706079483032227,History_and_Society,Society,Heisman Trophy
+434,2.0,857237.0,Josele Román,0.11280541121959685,Q5936693,Culture.Media.Music,857237.0,0.0,4.0,1271.0,0.2256108224391937,Culture,Music,Josele Román
+435,14.0,857467.0,North Carolina Tar Heels,0.6791887283325195,Q3098948,Culture.Sports,857467.0,245579.5354234139,19.0,3322.0,9.508642196655273,Culture,Sports,North Carolina Tar Heels
+436,4.0,871629.0,Draft de la NBA de 1987,0.996185541152954,Q1637721,Culture.Sports,871629.0,56781.008265690565,7.0,4808.0,3.984742164611816,Culture,Sports,1987 NBA Draft
+437,4.0,871873.0,Walter Herrmann,1.0000100135803225,Q552489,Culture.Sports,871873.0,1011.0,11.0,2092.0,4.00004005432129,Culture,Sports,Walter Herrmann
+438,2.0,874312.0,Florinda Chico,0.1968362182378769,Q3309044,History_and_Society.History,874312.0,7824.0,4.0,1918.0,0.3936724364757538,History_and_Society,History,Florinda Chico
+439,3.0,881593.0,Emma Cohen,0.1520422399044037,Q440102,Culture.Literature,881593.0,2020.0,4.0,8137.0,0.4561267197132111,Culture,Literature,Emma Cohen
+440,5.0,883714.0,Partido de Lomas de Zamora,0.9996640086174012,Q14638682,Geography.Regions.Americas.South_America,883714.0,379.1440412528646,15.0,2886.0,0.0,Geography,South_America,Partido de Lomas de Zamora
+441,4.0,886546.0,María Goyri,0.8558611869812012,Q5139346,Culture.Linguistics,886546.0,6044.0,2.0,2742.0,3.4234447479248047,Culture,Linguistics,Maria Goyri
+442,1.0,893766.0,Batalla de Dieppe,0.9926641583442688,Q270517,History_and_Society.Military_and_warfare,893766.0,0.0,17.0,2420.0,0.9926641583442688,History_and_Society,Military_and_warfare,Battle of Dieppe
+443,3.0,898302.0,Javier Beirán,0.8596737384796143,Q3807471,Culture.Sports,898302.0,228.94930674464248,11.0,889.0,2.5790212154388428,Culture,Sports,Javier Beirán
+444,1.0,899623.0,Laura del Sol,0.19194278120994568,Q459890,History_and_Society.History,899623.0,0.0,1.0,1545.0,0.19194278120994568,History_and_Society,History,Laura del Sol
+445,1.0,903958.0,Frank Vandenbroucke,0.9952548146247864,Q378167,Culture.Sports,903958.0,0.0,3.0,3494.0,0.9952548146247864,Culture,Sports,Frank Vandenbroucke
+446,1.0,918939.0,B. J. Armstrong,0.9992059469223022,Q795227,Culture.Sports,918939.0,0.0,7.0,2160.0,0.9992059469223022,Culture,Sports,B. J. Armstrong
+447,15.0,919254.0,Charles Oakley,0.9992059469223022,Q608514,Culture.Sports,919254.0,2427.27076253266,7.0,6913.0,14.988089203834535,Culture,Sports,Charles Oakley
+448,3.0,922647.0,Lorenzen Wright,0.9987651705741882,Q2082646,Culture.Sports,922647.0,0.4242424242424242,7.0,5657.0,2.9962955117225647,Culture,Sports,Lorenzen Wright
+449,4.0,925710.0,Batalla de Alcoraz,0.9659096002578736,Q2724181,History_and_Society.Military_and_warfare,925710.0,577.5928155616311,5.0,1385.0,3.863638401031495,History_and_Society,Military_and_warfare,Battle of Alcoraz
+450,3.0,929651.0,Antoni Daimiel,0.3629792034626007,Q8201052,Culture.Media.Media*,929651.0,0.0,18.0,2171.0,1.088937610387802,Culture,Media*,Antoni Daimiel
+451,1.0,932257.0,Adam Morrison,0.99753737449646,Q350464,Culture.Sports,932257.0,0.0,11.0,2575.0,0.99753737449646,Culture,Sports,Adam Morrison
+452,2.0,941395.0,La verbena de la Paloma,0.9724247455596924,Q3214229,Culture.Performing_arts,941395.0,1011.0,4.0,3859.0,1.9448494911193848,Culture,Performing_arts,The verbena of the Dove
+453,6.0,951825.0,Sergio Llull,0.9996417164802552,Q359052,Culture.Sports,951825.0,2446.922222222216,11.0,3366.0,5.997850298881532,Culture,Sports,Sergio Llull
+454,2.0,972289.0,Germán Yanke,0.348655104637146,Q8963950,Culture.Media.Media*,972289.0,1011.0,2.0,894.0,0.697310209274292,Culture,Media*,Germán Yanke
+455,3.0,972509.0,Doug Collins,1.0000100135803225,Q919954,Culture.Sports,972509.0,904.8762108440982,7.0,5848.0,3.000030040740968,Culture,Sports,Doug Collins
+456,2.0,972942.0,Zucchero,0.6723417043685913,Q125948,Culture.Media.Media*,972942.0,2020.0,10.0,2886.0,1.3446834087371826,Culture,Media*,Zucchero
+457,14.0,985087.0,Temporada 1988-89 de la NBA,0.9995221495628356,Q1341019,Culture.Sports,985087.0,62287.12324391341,7.0,2522.0,13.993310093879698,Culture,Sports,1988-89 NBA season
+458,16.0,985124.0,Temporada 1989-90 de la NBA,1.0000100135803225,Q241834,Culture.Sports,985124.0,69384.25435242457,7.0,2656.0,16.00016021728516,Culture,Sports,Temporada 1989-90 de la NBA
+459,14.0,986083.0,Temporada 1990-91 de la NBA,0.9995657801628112,Q600389,Culture.Sports,986083.0,1958.1604818765154,7.0,3704.0,13.993920922279356,Culture,Sports,1990-91 NBA season
+460,10.0,987100.0,Temporada 1993-94 de la NBA,1.0000100135803225,Q1165925,Culture.Sports,987100.0,818.754738537395,7.0,4310.0,10.000100135803224,Culture,Sports,NBA Season 1993-94
+461,7.0,989029.0,Temporada 1996-97 de la NBA,1.0000100135803225,Q1321749,Culture.Sports,989029.0,380.92011290912455,7.0,4035.0,7.0000700950622585,Culture,Sports,NBA Season 1996-97
+462,7.0,989453.0,Temporada 1998-99 de la NBA,0.9996417164802552,Q1321776,Culture.Sports,989453.0,588.6976076060372,7.0,6407.0,6.997492015361787,Culture,Sports,1998-99 NBA season
+463,6.0,990436.0,Temporada 1999-00 de la NBA,0.9996640086174012,Q1132641,Culture.Sports,990436.0,557.0755243175462,7.0,3817.0,5.997984051704407,Culture,Sports,1999-00 NBA season
+464,10.0,990507.0,Temporada 2003-04 de la NBA,0.9916942119598388,Q1132659,Culture.Sports,990507.0,5986.889304570703,7.0,3624.0,9.916942119598387,Culture,Sports,2003-04 NBA season
+465,3.0,993440.0,El fantasma de la ópera (película de 2004),0.9995657801628112,Q276407,Culture.Media.Films,993440.0,0.0,10.0,4264.0,2.9986973404884334,Culture,Films,El fantasma de la ópera (película de 2004)
+466,1.0,995472.0,Amitabh Bachchan,0.10375863313674928,Q9570,Culture.Media.Media*,995472.0,0.0,1.0,2896.0,0.10375863313674928,Culture,Media*,Amitabh Bachchan
+467,1.0,1012300.0,Tony Richardson,0.14805719256401062,Q52411,Culture.Media.Media*,1012300.0,0.0,10.0,2546.0,0.14805719256401062,Culture,Media*,Tony Richardson
+468,1.0,1013196.0,Acueducto romano de Albarracín-Cella,0.1824355274438858,Q8187813,Culture.Visual_arts.Visual_arts*,1013196.0,0.0,2.0,2434.0,0.1824355274438858,Culture,Visual_arts*,Albarracín-Cella Roman aqueduct
+469,1.0,1020547.0,Marcelo Mazzarello,0.1067005917429924,Q4821778,Culture.Media.Music,1020547.0,0.0,12.0,1399.0,0.1067005917429924,Culture,Music,Marcelo Mazzarello
+470,2.0,1027181.0,Estadio de La Cartuja,0.8634016513824463,Q368737,Culture.Sports,1027181.0,13125.059916378808,2.0,1878.0,1.7268033027648926,Culture,Sports,La Cartuja Stadium
+471,4.0,1028481.0,Francisco Javier Pérez Villarroya,0.9926641583442688,Q2445124,Culture.Sports,1028481.0,1658.2807320073584,2.0,1144.0,3.970656633377075,Culture,Sports,Francisco Javier Pérez Villarroya
+472,3.0,1033332.0,Javaris Crittenton,0.9996055364608764,Q2451555,Culture.Sports,1033332.0,0.0,7.0,6093.0,2.998816609382629,Culture,Sports,Javaris Crittenton
+473,2.0,1050774.0,Vicente (nombre),0.9073222279548644,Q16741111,Culture.Linguistics,1050774.0,0.0,2.0,1646.0,1.8146444559097288,Culture,Linguistics,Vicente (name)
+474,1.0,1055261.0,Recopa de Europa 1988-89,0.9615437984466552,Q178526,Culture.Sports,1055261.0,0.0,18.0,966.0,0.9615437984466552,Culture,Sports,European Cup Winners' Cup 1988-89
+475,1.0,1056865.0,Martín Carrizo,0.9566442370414734,Q6002564,Culture.Biography.Biography*,1056865.0,0.0,12.0,4321.0,0.0,Culture,Biography*,Martín Carrizo
+476,2.0,1077744.0,Alcalde de Madrid,0.3140605390071869,Q17078548,History_and_Society.Politics_and_government,1077744.0,2020.0,11.0,2259.0,0.6281210780143738,History_and_Society,Politics_and_government,Mayor of Madrid
+477,6.0,1082280.0,Jesica Cirio,0.11597072333097458,Q129319,Culture.Media.Media*,1082280.0,15598.355599781917,12.0,2672.0,0.6958243399858475,Culture,Media*,Jesica Cirio
+478,3.0,1085593.0,Paco Jémez,0.9755869507789612,Q2311040,Culture.Sports,1085593.0,4579.355331262939,2.0,3624.0,2.9267608523368835,Culture,Sports,Paco Jémez
+479,1.0,1099632.0,Julián Mateos,0.9965265989303588,Q1713154,Culture.Biography.Biography*,1099632.0,0.0,4.0,8738.0,0.0,Culture,Biography*,Julián Mateos
+480,2.0,1105870.0,Gran Río Cuarto,0.4921981394290924,Q5884508,Culture.Visual_arts.Architecture,1105870.0,0.0,12.0,912.0,0.9843962788581848,Culture,Architecture,Great Fourth River
+481,3.0,1105882.0,Villa María-Villa Nueva,0.20182321965694427,Q5857060,Culture.Visual_arts.Visual_arts*,1105882.0,2.0,12.0,691.0,0.6054696589708328,Culture,Visual_arts*,Villa Maria-New Villa
+482,1.0,1115356.0,Máximo Valverde,0.9777238368988036,Q6035690,Culture.Biography.Biography*,1115356.0,0.0,4.0,1628.0,0.0,Culture,Biography*,Máximo Valverde
+483,4.0,1137487.0,Benito Floro,0.9820237755775452,Q185811,Culture.Sports,1137487.0,1727.6151073384824,2.0,2231.0,3.9280951023101807,Culture,Sports,Benito Floro
+484,3.0,1139763.0,Sammy Lee,0.9995794296264648,Q4116616,Culture.Sports,1139763.0,480.83333333333337,18.0,3387.0,2.9987382888793945,Culture,Sports,Sammy Lee
+485,2.0,1140281.0,G. W. Bailey,1.0000100135803225,Q381046,Culture.Biography.Biography*,1140281.0,2020.0,10.0,1699.0,0.0,Culture,Biography*,G. W. Bailey
+486,4.0,1147892.0,Eurojunior,0.960371196269989,Q5852131,Culture.Media.Media*,1147892.0,14733.334730848856,2.0,1619.0,3.841484785079956,Culture,Media*,Eurojunior
+487,2.0,1153740.0,Copa de Campeones de Europa 1989-90,0.9748311638832092,Q594303,Culture.Sports,1153740.0,0.0,18.0,2760.0,1.9496623277664185,Culture,Sports,Copa de Campeones de Europa 1989-90
+488,8.0,1157505.0,Playoffs NBA 1991,0.9992059469223022,Q2724216,Culture.Sports,1157505.0,585.4620487722586,7.0,2333.0,7.993647575378418,Culture,Sports,NBA Playoffs 1991
+489,8.0,1158883.0,Playoffs NBA 1990,1.0000100135803225,Q2555387,Culture.Sports,1158883.0,404.9426310823675,7.0,2265.0,8.00008010864258,Culture,Sports,1990 NBA playoffs
+490,8.0,1158991.0,Playoffs NBA 1989,1.0000100135803225,Q2565095,Culture.Sports,1158991.0,288.4383129289008,7.0,2724.0,8.00008010864258,Culture,Sports,Playoffs NBA 1989
+491,5.0,1160677.0,Playoffs NBA 1988,1.0000100135803225,Q2564521,Culture.Sports,1160677.0,2.3670795870795867,7.0,2204.0,5.000050067901612,Culture,Sports,Playoffs NBA 1988
+492,3.0,1164054.0,Leonor Benedetto,0.1520422399044037,Q9021539,Culture.Performing_arts,1164054.0,1084.2634489693312,12.0,1857.0,0.4561267197132111,Culture,Performing_arts,Leonor Benedetto
+493,5.0,1168377.0,Copa de Campeones de Europa 1984-85,0.9820237755775452,Q642844,Culture.Sports,1168377.0,32.66666666666668,18.0,3096.0,4.910118877887727,Culture,Sports,1984-85 European Champions Cup
+494,9.0,1170307.0,Copa de Campeones de Europa 1983-84,0.9990402460098268,Q497085,Culture.Sports,1170307.0,7877.499999999993,18.0,15730.0,8.991362214088443,Culture,Sports,European Champions Cup 1983-84
+495,6.0,1172198.0,Copa de Campeones de Europa 1982-83,0.9886782765388488,Q642777,Culture.Sports,1172198.0,2312.333333333333,18.0,2199.0,5.932069659233093,Culture,Sports,Copa de Campeones de Europa 1982-83
+496,9.0,1174656.0,Royal Albert Hall,0.4301573634147644,Q193639,Culture.Visual_arts.Architecture,1174656.0,15040.0,10.0,2664.0,3.87141627073288,Culture,Architecture,Royal albert hall
+497,1.0,1175789.0,Mario Pardo,0.9976868629455566,Q5998966,Culture.Biography.Biography*,1175789.0,0.0,4.0,9817.0,0.0,Culture,Biography*,Mario Pardo
+498,4.0,1177876.0,Copa de Campeones de Europa 1980-81,0.9980222582817078,Q641465,Culture.Sports,1177876.0,12.666666666666668,18.0,2259.0,3.992089033126831,Culture,Sports,European Champions Cup 1980-81
+499,6.0,1187649.0,Partido de Avellaneda,0.9980832934379578,Q1882267,Geography.Regions.Americas.South_America,1187649.0,885.9268175452127,15.0,2851.0,0.0,Geography,South_America,Avellaneda party
+500,1.0,1190879.0,El padrecito,0.9935217499732972,Q5352482,Culture.Media.Films,1190879.0,0.0,9.0,2400.0,0.9935217499732972,Culture,Films,The little father
+501,2.0,1190927.0,El siete machos,0.9871888160705566,Q5823344,Culture.Media.Films,1190927.0,11011.0,9.0,2057.0,1.9743776321411133,Culture,Films,El siete machos
+502,4.0,1201615.0,Virgen de los Remedios,0.8439050912857056,Q3543689,Culture.Philosophy_and_religion,1201615.0,6045.0,2.0,2790.0,3.3756203651428223,Culture,Philosophy_and_religion,Virgen de los Remedios
+503,3.0,1228384.0,Jacinta Pichimahuida,0.9715740084648132,Q9010417,Culture.Media.Media*,1228384.0,1.0,20.0,3350.0,2.91472202539444,Culture,Media*,Jacinta Pichimahuida
+504,3.0,1228440.0,Señorita maestra,0.9893575310707092,Q10894384,Culture.Media.Television,1228440.0,1011.0000000000003,20.0,5740.0,2.968072593212128,Culture,Television,Miss teacher
+505,5.0,1231167.0,Eulalia Ramón,0.9859463572502136,Q8846211,Culture.Biography.Biography*,1231167.0,3517.25,4.0,1374.0,0.0,Culture,Biography*,Eulalia Ramón
+506,2.0,1232473.0,Víctor Sandoval (presentador),0.7879412174224854,Q6165733,Culture.Media.Media*,1232473.0,1011.0,16.0,2428.0,1.5758824348449707,Culture,Media*,Víctor Sandoval (presenter)
+507,1.0,1236373.0,Miguel Pardeza,0.9859463572502136,Q461311,Culture.Sports,1236373.0,0.0,8.0,2052.0,0.9859463572502136,Culture,Sports,Miguel Pardeza
+508,1.0,1243040.0,Liberto Rabal,0.9992545843124392,Q3831736,Culture.Biography.Biography*,1243040.0,0.0,4.0,1743.0,0.0,Culture,Biography*,Liberto Rabal
+509,3.0,1249045.0,Partido de Morón,1.0000100135803225,Q2213772,Geography.Regions.Americas.South_America,1249045.0,37.88181818181824,20.0,1923.0,0.0,Geography,South_America,Morón party
+510,2.0,1266877.0,Toninho Cerezo,0.9985088109970092,Q552917,Culture.Sports,1266877.0,1011.0,18.0,2030.0,1.9970176219940183,Culture,Sports,Toninho Cherry
+511,3.0,1295311.0,Adil Rami,0.9935217499732972,Q1909,Culture.Sports,1295311.0,2021.0,14.0,2349.0,2.980565249919892,Culture,Sports,Adil Rami
+512,6.0,1295515.0,Ángel Garasa,0.1824355274438858,Q6173172,Culture.Media.Media*,1295515.0,6050.0,9.0,3100.0,1.0946131646633148,Culture,Media*,Angel Garasa
+513,10.0,1310052.0,Gino Renni,0.24509501457214355,Q5879998,Culture.Media.Media*,1310052.0,6789.1650059088415,12.0,3063.0,2.4509501457214355,Culture,Media*,Gino Renni
+514,4.0,1311768.0,Dani (futbolista),0.9919480085372924,Q1162416,Culture.Sports,1311768.0,4845.29464054887,8.0,1472.0,3.9677920341491695,Culture,Sports,Dani (soccer player)
+515,3.0,1312413.0,Juan Manuel Urtubey,0.9947898983955384,Q4122243,Culture.Biography.Biography*,1312413.0,2020.0,15.0,2229.0,0.0,Culture,Biography*,Juan Manuel Urtubey
+516,2.0,1314272.0,Soledad Villamil,0.21734751760959625,Q769719,Culture.Media.Media*,1314272.0,476.5,4.0,2466.0,0.4346950352191925,Culture,Media*,Soledad Villamil
+517,4.0,1314363.0,Nicola Bombacci,0.26285186409950256,Q1669696,History_and_Society.Politics_and_government,1314363.0,0.0,17.0,2557.0,1.0514074563980105,History_and_Society,Politics_and_government,Nicola Bombacci
+518,3.0,1316448.0,Vélez-Málaga,0.996837317943573,Q492741,Geography.Regions.Europe.Southern_Europe,1316448.0,1908.2619047619053,3.0,2208.0,0.0,Geography,Southern_Europe,Velez-Malaga
+519,3.0,1318959.0,Muerte de un viajante,0.9984612464904784,Q820862,Culture.Performing_arts,1318959.0,6036.5,4.0,2998.0,2.995383739471435,Culture,Performing_arts,Death of a traveler
+520,2.0,1330271.0,Samuel Bronston,0.9935217499732972,Q706968,Culture.Biography.Biography*,1330271.0,2020.0,4.0,1107.0,0.0,Culture,Biography*,Samuel Bronston
+521,4.0,1330510.0,Esteban Mellino,0.24509501457214355,Q5400803,Culture.Media.Media*,1330510.0,19809.231300371917,12.0,993.0,0.9803800582885742,Culture,Media*,Stephen Mellino
+522,1.0,1334338.0,Fischia il vento,0.9796776771545408,Q546850,Culture.Media.Music,1334338.0,0.0,17.0,721.0,0.9796776771545408,Culture,Music,Fischia il vento
+523,2.0,1340292.0,"Robert Devereux, II conde de Essex",0.3415925204753876,Q437917,History_and_Society.Military_and_warfare,1340292.0,0.0,18.0,1111.0,0.6831850409507751,History_and_Society,Military_and_warfare,"Robert Devereux, 2nd Earl of Essex"
+524,5.0,1346121.0,Vuelta a España 2008,0.7186043858528137,Q632169,Culture.Sports,1346121.0,2397.48530621426,3.0,7649.0,3.5930219292640686,Culture,Sports,Tour of Spain 2008
+525,6.0,1347136.0,Enclave de Treviño,0.3140605390071869,Q3321708,History_and_Society.Society,1347136.0,795.6535714285643,1.0,3677.0,1.8843632340431211,History_and_Society,Society,Treviño enclave
+526,3.0,1347644.0,Ian Rush,0.9987651705741882,Q219354,Culture.Sports,1347644.0,480.83333333333326,18.0,2583.0,2.9962955117225647,Culture,Sports,Ian Rush
+527,6.0,1348991.0,Linebacker,0.9783946871757508,Q528145,Culture.Sports,1348991.0,2339.4916666666463,19.0,2048.0,5.870368123054504,Culture,Sports,Linebacker
+528,6.0,1349015.0,Tight end,1.0000100135803225,Q1153176,Culture.Sports,1349015.0,2881.191666666666,19.0,2499.0,6.0000600814819345,Culture,Sports,Tight end
+529,2.0,1351025.0,Olden Polynice,1.0000100135803225,Q2023534,Culture.Sports,1351025.0,79.210913647756,7.0,2774.0,2.000020027160645,Culture,Sports,Olden Polynice
+530,11.0,1369191.0,El día después,0.839743971824646,Q5352417,Culture.Media.Media*,1369191.0,76578.82157737728,18.0,11800.0,9.237183690071106,Culture,Media*,The day after
+531,1.0,1369773.0,Roberto Carnaghi,0.9836069941520692,Q6109644,Culture.Biography.Biography*,1369773.0,0.0,13.0,2019.0,0.0,Culture,Biography*,Roberto Carnaghi
+532,2.0,1370766.0,Ramón de Carranza Gómez,0.9883227348327636,Q12200984,Culture.Biography.Biography*,1370766.0,1011.0,2.0,5503.0,0.0,Culture,Biography*,Ramón de Carranza Gómez
+533,4.0,1382094.0,Sitio de Jerusalén (1187),0.9637899398803712,Q815161,History_and_Society.History,1382094.0,0.0,5.0,5348.0,3.855159759521485,History_and_Society,History,Siege of Jerusalem (1187)
+534,1.0,1388092.0,Castellanización,0.3775506913661957,Q1620690,History_and_Society.Society,1388092.0,0.0,6.0,3354.0,0.3775506913661957,History_and_Society,Society,Castilianization
+535,1.0,1394464.0,Encuesta de Población Activa,0.1097157895565033,Q6467417,History_and_Society.Politics_and_government,1394464.0,0.0,1.0,2509.0,0.1097157895565033,History_and_Society,Politics_and_government,Labor Force Survey
+536,4.0,1403513.0,Jorge Montejo,0.1067005917429924,Q28100909,Culture.Media.Media*,1403513.0,232.3722222222165,12.0,1948.0,0.4268023669719696,Culture,Media*,Jorge Montejo
+537,1.0,1404833.0,Marcelinho Huertas,1.0000100135803225,Q716480,Culture.Sports,1404833.0,0.0,11.0,1991.0,1.0000100135803225,Culture,Sports,Marcelinho Huertas
+538,8.0,1413645.0,Draft de la NFL,0.9990094900131226,Q1750919,Culture.Sports,1413645.0,238225.84523809524,19.0,6031.0,7.99207592010498,Culture,Sports,NFL Draft
+539,2.0,1413914.0,Andoni Cedrún,0.8558611869812012,Q2606866,Culture.Sports,1413914.0,27.53333333333333,8.0,1462.0,1.7117223739624023,Culture,Sports,Andoni Cedrún
+540,2.0,1415042.0,Fernando Cáceres,0.9783946871757508,Q932371,Culture.Sports,1415042.0,1491.1111744249845,8.0,2459.0,1.9567893743515017,Culture,Sports,Fernando Cáceres
+541,1.0,1416081.0,Roberto Santiago,0.9967369437217712,Q6110007,Culture.Biography.Biography*,1416081.0,0.0,4.0,2273.0,0.0,Culture,Biography*,Roberto Santiago
+542,3.0,1426805.0,Los tres mosqueteros (película de 1942),0.9748311638832092,Q3235885,Culture.Media.Media*,1426805.0,8039.0,9.0,1273.0,2.924493491649628,Culture,Media*,Los tres mosqueteros (película de 1942)
+543,5.0,1429257.0,General Rodríguez,0.9724247455596924,Q2363248,Geography.Regions.Americas.South_America,1429257.0,306.21022855497006,20.0,2433.0,0.0,Geography,South_America,General Rodríguez
+544,1.0,1430667.0,Tití Fernández,0.8962613940238953,Q6147611,Culture.Media.Media*,1430667.0,0.0,12.0,2052.0,0.8962613940238953,Culture,Media*,Tití Fernández
+545,8.0,1437144.0,Beatriz Salomón,0.20182321965694427,Q4877271,Culture.Media.Media*,1437144.0,10028.496188604151,12.0,2069.0,1.6145857572555542,Culture,Media*,Beatriz Solomon
+546,3.0,1439221.0,Joaquín Ramos Marcos,0.9976868629455566,Q1100863,Culture.Sports,1439221.0,0.0,18.0,1528.0,2.99306058883667,Culture,Sports,Joaquín Ramos Marcos
+547,1.0,1444024.0,Miguel Ángel Rodríguez (actor argentino),0.8634016513824463,Q6015813,Culture.Biography.Biography*,1444024.0,0.0,12.0,1197.0,0.0,Culture,Biography*,Miguel Ángel Rodríguez (Argentine actor)
+548,3.0,1463583.0,Mrs. Brown,0.997120440006256,Q1516164,Culture.Media.Films,1463583.0,5208.166666666685,1.0,1659.0,2.9913613200187683,Culture,Films,Mrs. Brown
+549,3.0,1464252.0,Armando Bó,0.2568419873714447,Q3183784,Culture.Media.Media*,1464252.0,0.5,12.0,1742.0,0.7705259621143341,Culture,Media*,Armando Bó
+550,2.0,1482677.0,Kei Nishikori,0.9850529432296752,Q311222,Culture.Sports,1482677.0,0.0,0.0,1156.0,1.9701058864593504,Culture,Sports,Kei Nishikori
+551,1.0,1483839.0,Pilar Velázquez,0.1259327530860901,Q436600,History_and_Society.History,1483839.0,0.0,4.0,1742.0,0.1259327530860901,History_and_Society,History,Pilar Velázquez
+552,1.0,1484330.0,Carlos Valdés (futbolista),0.991162657737732,Q74533,Culture.Sports,1484330.0,0.0,2.0,1956.0,0.991162657737732,Culture,Sports,Carlos Valdés (soccer player)
+553,2.0,1492949.0,Hernaldo Zúñiga,0.6654205918312073,Q5742142,Culture.Media.Music,1492949.0,1011.0,10.0,2525.0,1.3308411836624146,Culture,Music,Hernaldo Zúñiga
+554,9.0,1531452.0,Resistencia italiana,0.9241518378257751,Q706633,History_and_Society.Military_and_warfare,1531452.0,4059.0,17.0,32483.0,8.317366540431976,History_and_Society,Military_and_warfare,Italian resistance
+555,2.0,1538496.0,Consejo de Gobierno de la Región de Murcia,0.6224693655967712,Q578798,History_and_Society.Politics_and_government,1538496.0,1011.0,3.0,2193.0,1.2449387311935425,History_and_Society,Politics_and_government,Governing Council of the Region of Murcia
+556,6.0,1541205.0,Vidas robadas (telenovela argentina),0.9149109721183776,Q1976162,Culture.Media.Television,1541205.0,21055.30468248485,12.0,2133.0,5.489465832710265,Culture,Television,Stolen Lives (Argentine soap opera)
+557,3.0,1541891.0,Basílica de Nuestra Señora de la Cabeza,0.3629792034626007,Q8243761,Culture.Philosophy_and_religion,1541891.0,1011.0,1.0,2078.0,1.088937610387802,Culture,Philosophy_and_religion,Basílica de Nuestra Señora de la Cabeza
+558,2.0,1545901.0,El club de la comedia (España),0.8558611869812012,Q5824379,Culture.Media.Television,1545901.0,2020.0,4.0,2312.0,1.7117223739624023,Culture,Television,The Comedy Club (Spain)
+559,1.0,1550803.0,Delia Fiallo,0.3998216390609741,Q3291907,Culture.Literature,1550803.0,0.0,12.0,3276.0,0.3998216390609741,Culture,Literature,Delia Fiallo
+560,1.0,1591250.0,Rosanna Falasca,0.4688006341457367,Q6112331,Culture.Media.Media*,1591250.0,0.0,20.0,2596.0,0.4688006341457367,Culture,Media*,Rosanna Falasca
+561,6.0,1597521.0,Šarūnas Marčiulionis,1.0000100135803225,Q348032,Culture.Sports,1597521.0,1489.691503405896,7.0,1436.0,6.0000600814819345,Culture,Sports,Šarūnas Marčiulionis
+562,1.0,1598736.0,Mónica Scapparone,0.9908843636512756,Q6036273,Culture.Biography.Biography*,1598736.0,0.0,12.0,861.0,0.0,Culture,Biography*,Mónica Scapparone
+563,2.0,1610973.0,Copa de la UEFA 2003-04,0.8080772161483765,Q239660,Culture.Sports,1610973.0,9027.0,14.0,2383.0,1.6161544322967532,Culture,Sports,2003-04 UEFA Cup
+564,3.0,1613877.0,Damián De Santo,0.9706977605819702,Q5797815,Culture.Biography.Biography*,1613877.0,224.23049728049546,13.0,2705.0,0.0,Culture,Biography*,Damien De Santo
+565,1.0,1620457.0,Pepe Monje,0.9863731861114502,Q3899353,Culture.Biography.Biography*,1620457.0,0.0,12.0,1388.0,0.0,Culture,Biography*,Pepe Monk
+566,2.0,1629742.0,Kelly Ripa,0.320831298828125,Q1148035,Culture.Media.Media*,1629742.0,1011.0,2.0,2203.0,0.64166259765625,Culture,Media*,Kelly Ripa
+567,1.0,1639349.0,Paz Martínez,0.1968362182378769,Q5558695,Culture.Media.Music,1639349.0,0.0,12.0,2724.0,0.1968362182378769,Culture,Music,Paz Martínez
+568,3.0,1646823.0,Teresa Rivero,0.38492217659950256,Q6142610,Culture.Sports,1646823.0,4032.0,8.0,2286.0,1.1547665297985077,Culture,Sports,Teresa Rivero
+569,1.0,1671169.0,Supercopa de España de Baloncesto 2005,0.9149109721183776,Q3824431,Culture.Sports,1671169.0,0.0,11.0,876.0,0.9149109721183776,Culture,Sports,Supercopa de España de Baloncesto 2005
+570,2.0,1673352.0,Sofía Gala Castiglione,0.9755869507789612,Q4310171,Culture.Biography.Biography*,1673352.0,2020.0,12.0,2358.0,0.0,Culture,Biography*,Sofia Gala Castiglione
+571,1.0,1676492.0,Casey Stoner,0.9099169969558716,Q313563,Culture.Sports,1676492.0,0.0,1.0,2348.0,0.9099169969558716,Culture,Sports,Casey Stoner
+572,1.0,1677182.0,Facundo Espinosa,0.26285186409950256,Q5429108,Culture.Media.Media*,1677182.0,0.0,12.0,2468.0,0.26285186409950256,Culture,Media*,Facundo Espinosa
+573,1.0,1683991.0,David Billabona,0.9990989565849304,Q2561466,Culture.Sports,1683991.0,0.0,14.0,1944.0,0.9990989565849304,Culture,Sports,David Billabona
+574,4.0,1689493.0,Copa del Rey de baloncesto 1997,0.6654205918312073,Q5787859,Culture.Sports,1689493.0,488.9,11.0,5195.0,2.661682367324829,Culture,Sports,Basketball King's Cup 1997
+575,1.0,1691571.0,Estadio de Mendizorroza,0.7490972280502319,Q1369390,History_and_Society.Society,1691571.0,0.0,1.0,1216.0,0.7490972280502319,History_and_Society,Society,Mendizorroza Stadium
+576,4.0,1693407.0,Liga ACB 2004-05,0.9979592561721802,Q605451,Culture.Sports,1693407.0,133.07142857142856,11.0,4258.0,3.9918370246887207,Culture,Sports,ACB League 2004-05
+577,1.0,1700934.0,Jean-Marie Pfaff,0.9980832934379578,Q155065,Culture.Sports,1700934.0,0.0,8.0,1911.0,0.9980832934379578,Culture,Sports,Jean-Marie Pfaff
+578,3.0,1718174.0,Fortunata y Jacinta (película),0.9263137578964232,Q5864214,Culture.Media.Media*,1718174.0,1011.0,4.0,7852.0,2.7789412736892696,Culture,Media*,Fortunata and Jacinta (film)
+579,3.0,1724188.0,Berta Riaza,0.320831298828125,Q5727101,Culture.Media.Music,1724188.0,3593.333333333333,4.0,2023.0,0.962493896484375,Culture,Music,Berta Riaza
+580,3.0,1745415.0,Sandro Rosell,0.1968362182378769,Q311954,History_and_Society.Business_and_economics,1745415.0,3429.488636363633,8.0,5574.0,0.5905086547136307,History_and_Society,Business_and_economics,Sandro Rosell
+581,5.0,1747507.0,Tomás Jofresa,0.9802908897399902,Q1439986,Culture.Sports,1747507.0,3.791666666666666,11.0,1199.0,4.901454448699951,Culture,Sports,Tomás Jofresa
+582,1.0,1752226.0,Omar Lefosse,0.9802908897399902,Q6050502,Culture.Biography.Biography*,1752226.0,0.0,20.0,3205.0,0.0,Culture,Biography*,Omar Lefosse
+583,2.0,1753846.0,Super Ibérica de Rugby,0.9863731861114502,Q2303321,Culture.Sports,1753846.0,0.0,18.0,655.0,1.9727463722229004,Culture,Sports,Super Iberica Rugby
+584,1.0,1754491.0,Torneo Conde de Godó 2008,0.9983093142509459,Q2498332,Culture.Sports,1754491.0,0.0,0.0,965.0,0.9983093142509459,Culture,Sports,Conde de Godó Tournament 2008
+585,3.0,1757879.0,Asedio del Santuario de Nuestra Señora de la Cabeza,0.9899964332580566,Q1343057,History_and_Society.Military_and_warfare,1757879.0,31.0,1.0,1329.0,2.96998929977417,History_and_Society,Military_and_warfare,Siege of the Shrine of Our Lady of the Head
+586,4.0,1758510.0,Carlos Timoteo Griguol,0.984585464000702,Q2009438,Culture.Sports,1758510.0,5042.0,20.0,3244.0,3.938341856002808,Culture,Sports,Carlos Timoteo Griguol
+587,2.0,1782043.0,Fränk Schleck,0.9993433356285096,Q309917,Culture.Sports,1782043.0,78.81154401154402,3.0,1180.0,1.9986866712570197,Culture,Sports,Fränk Schleck
+588,4.0,1804759.0,Finales de la NBA de 2008,0.9996179938316344,Q2036161,Culture.Sports,1804759.0,118519.9259356168,7.0,3075.0,3.9984719753265376,Culture,Sports,2008 NBA Finals
+589,1.0,1808867.0,Alphonse Tchami,0.9996530413627625,Q941812,Culture.Sports,1808867.0,0.0,20.0,5348.0,0.9996530413627625,Culture,Sports,Alphonse Tchami
+590,1.0,1810269.0,Bernhard Kohl,0.9969346523284912,Q110631,Culture.Sports,1810269.0,0.0,3.0,715.0,0.9969346523284912,Culture,Sports,Bernhard Kohl
+591,5.0,1829192.0,Alfredo Relaño,0.2689514458179474,Q8195400,Culture.Media.Media*,1829192.0,5389.78628364389,18.0,2313.0,1.344757229089737,Culture,Media*,Alfredo Relaño
+592,11.0,1840523.0,Mapei (equipo ciclista),0.9980832934379578,Q1892064,Culture.Sports,1840523.0,7780.673089218391,3.0,1110.0,10.978916227817537,Culture,Sports,Mapei (cycling team)
+593,1.0,1864216.0,Emile Griffith,0.9706977605819702,Q59051,Culture.Sports,1864216.0,0.0,10.0,1295.0,0.9706977605819702,Culture,Sports,Emile griffith
+594,10.0,1869334.0,Berugo Carámbula,0.4455395638942719,Q4895947,Culture.Media.Media*,1869334.0,33541.044994129115,12.0,3290.0,4.4553956389427185,Culture,Media*,Berugo Carámbula
+595,4.0,1872417.0,Scott Burrell,0.9987651705741882,Q2532704,Culture.Sports,1872417.0,6.809077862784956,7.0,3162.0,3.995060682296753,Culture,Sports,Scott Burrell
+596,1.0,1877632.0,David Graf,0.12253321707248688,Q445253,Culture.Media.Media*,1877632.0,0.0,10.0,3169.0,0.12253321707248688,Culture,Media*,David graf
+597,2.0,1882019.0,Francesca Neri,1.0000100135803225,Q241154,Culture.Biography.Biography*,1882019.0,0.0,4.0,5781.0,0.0,Culture,Biography*,Francesca Neri
+598,1.0,1892707.0,Cemento (discoteca),0.1968362182378769,Q5760396,Culture.Visual_arts.Architecture,1892707.0,0.0,22.0,4852.0,0.1968362182378769,Culture,Architecture,Cemento (discoteca)
+599,2.0,1892753.0,Bobcat Goldthwait,0.3007555902004242,Q369424,Culture.Media.Media*,1892753.0,35136.0,10.0,1403.0,0.6015111804008484,Culture,Media*,Bobcat Goldthwait
+600,1.0,1903085.0,María Candelaria,0.9905974268913268,Q2578176,Culture.Media.Films,1903085.0,0.0,9.0,1485.0,0.9905974268913268,Culture,Films,Maria Candelaria
+601,2.0,1904035.0,Bruce Grobbelaar,0.9996417164802552,Q444295,Culture.Sports,1904035.0,0.0,18.0,1575.0,1.9992834329605105,Culture,Sports,Bruce Grobbelaar
+602,2.0,1907067.0,Carlos Ruf,0.8031837940216064,Q8338315,Culture.Sports,1907067.0,0.0,11.0,832.0,1.6063675880432131,Culture,Sports,Carlos Ruf
+603,2.0,1915468.0,Leslie Easterbrook,0.287777841091156,Q265333,Culture.Media.Media*,1915468.0,0.0,10.0,2450.0,0.575555682182312,Culture,Media*,Leslie Easterbrook
+604,2.0,1984522.0,Josep Maria Mainat,0.3007555902004242,Q11685551,Culture.Media.Media*,1984522.0,10936.39544513457,2.0,5860.0,0.6015111804008484,Culture,Media*,Josep Maria Mainat
+605,2.0,1986902.0,Consejo de la Magistratura (Argentina),0.19194278120994568,Q5176439,History_and_Society.Business_and_economics,1986902.0,5035.0,15.0,2836.0,0.38388556241989136,History_and_Society,Business_and_economics,Judicial Council (Argentina)
+606,5.0,1993241.0,Elmer Bennett,1.0000100135803225,Q947656,Culture.Sports,1993241.0,2119.232433049412,11.0,1090.0,5.000050067901612,Culture,Sports,Elmer Bennett
+607,3.0,2005337.0,Mike Amigorena,0.287777841091156,Q3291914,Culture.Media.Music,2005337.0,3208.558730158731,12.0,2465.0,0.863333523273468,Culture,Music,Mike Amigorena
+608,3.0,2017289.0,Día de Aragón,0.2227101624011993,Q3574219,Culture.Philosophy_and_religion,2017289.0,2275.8427767115913,5.0,5709.0,0.6681304872035979,Culture,Philosophy_and_religion,Aragon Day
+609,4.0,2025978.0,Tristán (cómico),0.59267657995224,Q6152891,Culture.Media.Entertainment,2025978.0,1011.0,22.0,1921.0,2.37070631980896,Culture,Entertainment,Tristan (comedian)
+610,1.0,2031621.0,Timeline (libro),0.9972950220108032,Q732060,Culture.Media.Media*,2031621.0,0.0,1.0,1221.0,0.9972950220108032,Culture,Media*,Timeline (libro)
+611,2.0,2041528.0,Bombardeo de Cabra,0.9836069941520692,Q4940692,History_and_Society.Military_and_warfare,2041528.0,0.0,1.0,1906.0,1.9672139883041384,History_and_Society,Military_and_warfare,Goat Bombardment
+612,3.0,2042323.0,Liga Europa de la UEFA 2009-10,0.9304682612419128,Q206626,Culture.Sports,2042323.0,3869.3780303030335,2.0,3441.0,2.7914047837257385,Culture,Sports,2009-10 UEFA Europa League
+613,2.0,2047280.0,Víctor Arribas,0.6297846436500549,Q2918252,Culture.Media.Media*,2047280.0,1011.0,16.0,1577.0,1.25956928730011,Culture,Media*,Víctor Arribas
+614,1.0,2088181.0,Virgen de la Cabeza,0.9755869507789612,Q6163464,Culture.Philosophy_and_religion,2088181.0,0.0,1.0,6640.0,0.9755869507789612,Culture,Philosophy_and_religion,Virgin of the Head
+615,2.0,2103014.0,Jimena Menéndez-Pidal,0.19194278120994568,Q5651119,History_and_Society.History,2103014.0,0.0,2.0,1722.0,0.38388556241989136,History_and_Society,History,Jimena Menéndez-Pidal
+616,5.0,2118634.0,Pedro Martínez Sánchez,0.9883227348327636,Q638473,Culture.Sports,2118634.0,224.2724680465601,11.0,1332.0,4.9416136741638175,Culture,Sports,Pedro Martínez Sánchez
+617,1.0,2121982.0,Tim Staffell,0.6370407938957214,Q470408,Culture.Media.Media*,2121982.0,0.0,10.0,2047.0,0.6370407938957214,Culture,Media*,Tim Staffell
+618,2.0,2145505.0,The Closer,0.9808859825134276,Q948696,Culture.Media.Media*,2145505.0,1011.0,10.0,2636.0,1.9617719650268552,Culture,Media*,The Closer
+619,3.0,2158775.0,Casa rural,0.812877357006073,Q489357,Culture.Visual_arts.Architecture,2158775.0,4035.0,1.0,2521.0,2.4386320710182194,Culture,Architecture,Rural house
+620,1.0,2160560.0,Literatura medieval española en prosa,0.19194278120994568,Q2881075,History_and_Society.Politics_and_government,2160560.0,0.0,2.0,3364.0,0.19194278120994568,History_and_Society,Politics_and_government,Spanish medieval literature on prose
+621,1.0,2160914.0,Nikos Galis,0.9972950220108032,Q433813,Culture.Sports,2160914.0,0.0,7.0,2345.0,0.9972950220108032,Culture,Sports,Nikos Galis
+622,2.0,2160930.0,Panagiotis Fasoulas,0.9553291201591492,Q570210,Culture.Sports,2160930.0,1347.9057343368559,7.0,986.0,1.9106582403182983,Culture,Sports,Panagiotis Fasoulas
+623,2.0,2161279.0,Walter Magnifico,0.9967369437217712,Q1077607,Culture.Sports,2161279.0,0.0,11.0,753.0,1.9934738874435425,Culture,Sports,Walter Magnifico
+624,2.0,2187408.0,Cheryl (cantante),0.8840492963790894,Q212772,Culture.Media.Media*,2187408.0,3027.0,10.0,2623.0,1.7680985927581787,Culture,Media*,Cheryl (singer)
+625,3.0,2200546.0,Estadio de la Cerámica,0.8840492963790894,Q741157,Culture.Sports,2200546.0,8032.0,14.0,1310.0,2.652147889137268,Culture,Sports,Ceramic Stadium
+626,2.0,2205396.0,Nikola Lončar,0.98678719997406,Q586425,Culture.Sports,2205396.0,0.0,11.0,1641.0,1.97357439994812,Culture,Sports,Nikola Lončar
+627,1.0,2233108.0,Conger conger,0.9981998205184937,Q212552,STEM.Biology,2233108.0,0.0,2.0,2088.0,0.9981998205184937,STEM,Biology,Conger conger
+628,1.0,2237658.0,España en la Copa Mundial de Fútbol de 2002,0.8840492963790894,Q352499,Culture.Sports,2237658.0,0.0,18.0,3448.0,0.8840492963790894,Culture,Sports,Spain at the 2002 Soccer World Cup
+629,3.0,2266921.0,Liga ACB 2000-01,0.998803436756134,Q2606769,Culture.Sports,2266921.0,0.0,11.0,768.0,2.996410310268402,Culture,Sports,ACB League 2000-01
+630,2.0,2273173.0,Liga ACB 1999-00,0.9980832934379578,Q2606325,Culture.Sports,2273173.0,1561.035335497837,18.0,853.0,1.9961665868759155,Culture,Sports,CBA League 1999-00
+631,1.0,2297086.0,Daniel Samper Ospina,0.8031837940216064,Q5218681,Culture.Media.Media*,2297086.0,0.0,20.0,2313.0,0.8031837940216064,Culture,Media*,Daniel Samper Ospina
+632,1.0,2312434.0,Ahí te quiero ver,0.9579222798347472,Q5661131,Culture.Media.Television,2312434.0,0.0,16.0,831.0,0.9579222798347472,Culture,Television,I want to see you there
+633,2.0,2315402.0,Ministerio de Justicia y Derechos Humanos (Argentina),0.3629792034626007,Q5395917,History_and_Society.Politics_and_government,2315402.0,1011.0,15.0,2522.0,0.7259584069252014,History_and_Society,Politics_and_government,Ministry of Justice and Human Rights (Argentina)
+634,5.0,2332551.0,Billy Connolly,0.6654205918312073,Q298838,Culture.Media.Media*,2332551.0,4035.0,1.0,1962.0,3.3271029591560364,Culture,Media*,Billy Connolly
+635,1.0,2337949.0,Javier Imbroda,0.6654205918312073,Q3163154,Culture.Sports,2337949.0,0.0,11.0,2385.0,0.6654205918312073,Culture,Sports,Javier Imbroda
+636,1.0,2361495.0,Cristina Fallarás,0.2069040536880493,Q444103,Culture.Literature,2361495.0,0.0,2.0,3380.0,0.2069040536880493,Culture,Literature,Cristina Fallarás
+637,8.0,2368120.0,Police Academy,0.9958112239837646,Q1248429,Culture.Media.Media*,2368120.0,251732.5,10.0,2232.0,7.966489791870117,Culture,Media*,Police Academy
+638,4.0,2368243.0,Loca academia de policía,0.14805719256401062,Q527866,History_and_Society.Transportation,2368243.0,36075.5,10.0,1802.0,0.5922287702560425,History_and_Society,Transportation,Crazy Police Academy
+639,2.0,2368836.0,Michael Winslow,0.275139719247818,Q522533,Culture.Media.Media*,2368836.0,0.0,10.0,1759.0,0.550279438495636,Culture,Media*,Michael Winslow
+640,2.0,2395581.0,Prudencio (santo),0.26285186409950256,Q3822661,Culture.Philosophy_and_religion,2395581.0,1011.0,1.0,4172.0,0.5257037281990051,Culture,Philosophy_and_religion,Prudencio (santo)
+641,2.0,2397129.0,San Francisco (Córdoba),0.9967369437217712,Q949535,Geography.Regions.Americas.South_America,2397129.0,0.0,12.0,2446.0,0.0,Geography,South_America,San Francisco (Córdoba)
+642,2.0,2424225.0,Irasema Dilián,0.2568419873714447,Q3801852,History_and_Society.History,2424225.0,1011.0,9.0,1744.0,0.5136839747428894,History_and_Society,History,Irasema Dilián
+643,1.0,2431474.0,Pedro Mari Zabalza,0.9947898983955384,Q2719849,Culture.Sports,2431474.0,0.0,18.0,1250.0,0.9947898983955384,Culture,Sports,Pedro Mari Zabalza
+644,3.0,2439940.0,Nancys Rubias,0.4765896201133728,Q17150765,Culture.Media.Music,2439940.0,4035.0,16.0,2166.0,1.4297688603401184,Culture,Music,Blonde Nancys
+645,9.0,2443012.0,Los bañeros más locos del mundo,0.9615437984466552,Q5980651,Culture.Media.Media*,2443012.0,4028.960483603745,12.0,3466.0,8.653894186019896,Culture,Media*,The craziest bathtubs in the world
+646,1.0,2444489.0,Jorge Otero,0.9966334104537964,Q516407,Culture.Sports,2444489.0,0.0,8.0,1187.0,0.9966334104537964,Culture,Sports,Jorge Otero
+647,1.0,2457712.0,Cadillac Records,0.9967369437217712,Q149431,Culture.Media.Media*,2457712.0,0.0,10.0,1224.0,0.9967369437217712,Culture,Media*,Cadillac Records
+648,2.0,2459444.0,Cristian Zapata,0.9763205647468568,Q316762,Culture.Sports,2459444.0,1011.0,2.0,2074.0,1.9526411294937136,Culture,Sports,Cristian Zapata
+649,1.0,2469416.0,Menchu Quesada,0.15611489117145538,Q6010166,History_and_Society.History,2469416.0,0.0,22.0,1482.0,0.15611489117145538,History_and_Society,History,Menchu ​​Quesada
+650,1.0,2482815.0,Shilinsky,0.2942249774932861,Q9076816,Culture.Media.Entertainment,2482815.0,0.0,9.0,2065.0,0.2942249774932861,Culture,Entertainment,Shilinsky
+651,1.0,2488556.0,In Hell,0.9362950325012208,Q1355015,Culture.Media.Media*,2488556.0,0.0,19.0,1100.0,0.9362950325012208,Culture,Media*,In Hell
+652,3.0,2498522.0,Sierra Boggess,0.6859594583511353,Q3960258,Culture.Media.Music,2498522.0,0.0,10.0,5820.0,2.0578783750534058,Culture,Music,Sierra Boggess
+653,1.0,2521484.0,Ana Casares,0.9916942119598388,Q4750334,Culture.Biography.Biography*,2521484.0,0.0,12.0,817.0,0.0,Culture,Biography*,Ana Casares
+654,1.0,2525570.0,Romeo y Julieta (Prokófiev),0.9416641592979432,Q911487,Culture.Performing_arts,2525570.0,0.0,10.0,2677.0,0.9416641592979432,Culture,Performing_arts,Romeo and Juliet (Prokofiev)
+655,2.0,2530592.0,Miguel del Sel,0.9688661694526672,Q6015476,Culture.Biography.Biography*,2530592.0,1011.0,12.0,1717.0,0.0,Culture,Biography*,Miguel del Sel
+656,7.0,2543340.0,Adriana Brodsky,0.9937201142311096,Q291463,Culture.Biography.Biography*,2543340.0,10277.155608334493,12.0,1653.0,0.0,Culture,Biography*,Adriana Brodsky
+657,4.0,2548940.0,Partido de Escobar,0.9836069941520692,Q991287,Geography.Regions.Americas.South_America,2548940.0,1541.2457610675772,20.0,3287.0,0.0,Geography,South_America,Partido de Escobar
+658,2.0,2552906.0,Heráldica de Castilla,0.9073222279548644,Q5896520,History_and_Society.History,2552906.0,1011.0,6.0,1522.0,1.8146444559097288,History_and_Society,History,Castilla heraldry
+659,3.0,2555509.0,Elena Sedova,0.9935217499732972,Q5829236,Culture.Biography.Biography*,2555509.0,1011.0,12.0,3192.0,0.0,Culture,Biography*,Elena Sedova
+660,4.0,2558309.0,Érika Wallner,0.19194278120994568,Q5835820,History_and_Society.History,2558309.0,114.10593622064215,12.0,1143.0,0.7677711248397827,History_and_Society,History,Erika Wallner
+661,3.0,2575003.0,Nelly Prince,0.14805719256401062,Q6039602,Culture.Media.Music,2575003.0,16.666666666666668,12.0,813.0,0.4441715776920319,Culture,Music,Nelly Prince
+662,2.0,2593653.0,Naím Sibara,0.1732981950044632,Q3869963,Culture.Media.Media*,2593653.0,225.5216256157637,12.0,3852.0,0.3465963900089264,Culture,Media*,Naim Sibara
+663,2.0,2606562.0,Gerardo Chendo,0.9908843636512756,Q3103975,Culture.Biography.Biography*,2606562.0,190.74447627535858,15.0,1501.0,0.0,Culture,Biography*,Gerardo Chendo
+664,1.0,2630382.0,Darío Franco,0.9697954058647156,Q890860,Culture.Sports,2630382.0,0.0,8.0,1770.0,0.9697954058647156,Culture,Sports,Darío Franco
+665,4.0,2640845.0,Carlos Martínez (periodista),0.6370407938957214,Q5750873,Culture.Media.Media*,2640845.0,0.0,18.0,9483.0,2.5481631755828857,Culture,Media*,Carlos Martínez (journalist)
+666,2.0,2643418.0,Mark Consuelos,0.10375863313674928,Q3124543,Culture.Media.Media*,2643418.0,2020.0,2.0,11751.0,0.20751726627349856,Culture,Media*,Mark Consuelos
+667,1.0,2657189.0,El señor fotógrafo,0.9783946871757508,Q5826652,Culture.Media.Media*,2657189.0,0.0,9.0,734.0,0.9783946871757508,Culture,Media*,El señor fotógrafo
+668,4.0,2663321.0,Giro de Italia 2002,0.6926519870758057,Q372125,Culture.Sports,2663321.0,945.6682641942978,3.0,1219.0,2.7706079483032227,Culture,Sports,Tour of Italy 2002
+669,1.0,2706523.0,El vientre del arquitecto,0.9770326614379884,Q573762,Culture.Media.Media*,2706523.0,0.0,4.0,1656.0,0.9770326614379884,Culture,Media*,The belly of the architect
+670,12.0,2729727.0,Campana (Buenos Aires),0.989681839942932,Q1030194,Geography.Regions.Americas.South_America,2729727.0,13820.80435124276,20.0,2772.0,0.0,Geography,South_America,Campana (Buenos Aires)
+671,1.0,2732619.0,Jorge Molina Vidal,0.952584147453308,Q2415844,Culture.Sports,2732619.0,0.0,14.0,1366.0,0.952584147453308,Culture,Sports,Jorge Molina Vidal
+672,1.0,2775744.0,Albany Patroons,0.8354935646057129,Q385469,Culture.Sports,2775744.0,0.0,7.0,1706.0,0.8354935646057129,Culture,Sports,Albany Patroons
+673,6.0,2776089.0,Reggie Johnson,0.9996179938316344,Q1407902,Culture.Sports,2776089.0,0.6111111111111112,11.0,743.0,5.997707962989807,Culture,Sports,Reggie Johnson
+674,2.0,2804394.0,Canco Rodríguez,0.11597072333097458,Q5747266,Culture.Media.Media*,2804394.0,1011.0,4.0,2836.0,0.2319414466619492,Culture,Media*,Canco Rodríguez
+675,1.0,2805942.0,Punky Brewster,0.991162657737732,Q1545971,Culture.Media.Media*,2805942.0,0.0,10.0,2425.0,0.991162657737732,Culture,Media*,Punk brewster
+676,1.0,2811261.0,Margherita Sarfatti,0.538993239402771,Q261041,History_and_Society.History,2811261.0,0.0,17.0,1696.0,0.538993239402771,History_and_Society,History,Margherita Sarfatti
+677,7.0,2837418.0,"Bañeros II, la playa loca",0.9579222798347472,Q5723848,Culture.Media.Media*,2837418.0,87475.1205662939,12.0,3145.0,6.70545595884323,Culture,Media*,"Bañeros II, the crazy beach"
+678,1.0,2842816.0,Alexander Mejía,0.9496793746948242,Q5666201,Culture.Sports,2842816.0,0.0,2.0,1931.0,0.9496793746948242,Culture,Sports,Alexander Mejía
+679,1.0,2884040.0,Albert Serra,0.9976868629455566,Q2422285,Culture.Biography.Biography*,2884040.0,0.0,4.0,1279.0,0.0,Culture,Biography*,Albert Serra
+680,2.0,2942595.0,Clesa,0.320831298828125,Q5772535,History_and_Society.Business_and_economics,2942595.0,0.0,8.0,1484.0,0.64166259765625,History_and_Society,Business_and_economics,Clesa
+681,3.0,2973049.0,Miguel Ángel Pichetto,0.9566442370414734,Q1932735,Culture.Biography.Biography*,2973049.0,4032.0,15.0,2102.0,0.0,Culture,Biography*,Michelangelo Pichetto
+682,2.0,2979198.0,Cocoon,0.9954004287719728,Q1105463,Culture.Media.Films,2979198.0,2020.0,4.0,3604.0,1.990800857543945,Culture,Films,Cocoon
+683,5.0,2980416.0,Campeonato Europeo de Baloncesto Masculino de 1987,0.9748311638832092,Q36851,Culture.Sports,2980416.0,2030.953787878811,7.0,6395.0,4.874155819416046,Culture,Sports,1987 European Men's Basketball Championship
+684,2.0,3031309.0,Roberto Gavaldón,0.997758150100708,Q2630433,Culture.Biography.Biography*,3031309.0,1011.0,4.0,2570.0,0.0,Culture,Biography*,Roberto Gavaldón
+685,3.0,3036824.0,Luis Tasca,0.9814634323120116,Q5942302,Culture.Biography.Biography*,3036824.0,888.9667813045619,12.0,1144.0,0.0,Culture,Biography*,Luis Tasca
+686,2.0,3046649.0,Enzo Viena,0.9416641592979432,Q5834634,Culture.Biography.Biography*,3046649.0,4032.0,22.0,2879.0,0.0,Culture,Biography*,Enzo Vienna
+687,1.0,3061602.0,José María Ordovás,0.9715740084648132,Q6454858,Culture.Biography.Biography*,3061602.0,0.0,2.0,912.0,0.0,Culture,Biography*,José María Ordovás
+688,3.0,3089857.0,Carolina Rodríguez (gimnasta),0.9986429810523988,Q5044890,Culture.Sports,3089857.0,1011.0,18.0,2209.0,2.9959289431571965,Culture,Sports,Carolina Rodríguez (gymnast)
+689,2.0,3096788.0,Andre Turner,1.0000100135803225,Q659579,Culture.Sports,3096788.0,0.0,11.0,1722.0,2.000020027160645,Culture,Sports,Andre Turner
+690,3.0,3101231.0,Amor mío (serie de televisión mexicana),0.9935217499732972,Q1970694,Culture.Media.Television,3101231.0,0.5,13.0,2036.0,2.980565249919892,Culture,Television,Amor mío (Mexican television series)
+691,1.0,3113762.0,Beverly Hills Ninja,0.9984612464904784,Q851810,Culture.Media.Films,3113762.0,0.0,1.0,1961.0,0.9984612464904784,Culture,Films,Beverly Hills Ninja
+692,1.0,3132167.0,Gran Reserva,0.9149109721183776,Q2373093,Culture.Media.Media*,3132167.0,0.0,4.0,2944.0,0.9149109721183776,Culture,Media*,Grand Reserve
+693,1.0,3151904.0,Juan Manuel Garino,0.11597072333097458,Q5951011,History_and_Society.Politics_and_government,3151904.0,0.0,20.0,4240.0,0.11597072333097458,History_and_Society,Politics_and_government,Juan Manuel Garino
+694,11.0,3176816.0,Brigada Z,0.12253321707248688,Q8252130,History_and_Society.Military_and_warfare,3176816.0,221824.36308221114,12.0,963.0,1.3478653877973557,History_and_Society,Military_and_warfare,Z Brigade
+695,2.0,3187542.0,Aarón Hernán,0.11597072333097458,Q2838456,Culture.Media.Media*,3187542.0,1011.0,9.0,48681.0,0.2319414466619492,Culture,Media*,Aaron Hernán
+696,1.0,3222660.0,Sofía Zámolo,0.9914325475692748,Q1261298,Culture.Biography.Biography*,3222660.0,0.0,15.0,3577.0,0.0,Culture,Biography*,Sofia Zámolo
+697,2.0,3225114.0,Bombardeo de Durango,0.9946250915527344,Q2909603,History_and_Society.Military_and_warfare,3225114.0,0.0,1.0,1176.0,1.9892501831054688,History_and_Society,Military_and_warfare,Durango bombing
+698,1.0,3237784.0,Manuel Medel,0.14805719256401062,Q5993745,Culture.Media.Media*,3237784.0,0.0,9.0,1972.0,0.14805719256401062,Culture,Media*,Manuel Medel
+699,7.0,3265594.0,Amor mío (serie de televisión argentina),0.8991314172744751,Q1973592,Culture.Media.Media*,3265594.0,3684.641631192387,13.0,5863.0,6.293919920921326,Culture,Media*,Amor mío (Argentine television series)
+700,1.0,3274655.0,Copa del Rey de fútbol 2003-04,0.9914325475692748,Q1130861,Culture.Sports,3274655.0,0.0,14.0,1861.0,0.9914325475692748,Culture,Sports,Copa del Rey soccer 2003-04
+701,1.0,3284375.0,María Pagés,0.8774868249893188,Q3296463,Culture.Performing_arts,3284375.0,0.0,2.0,621.0,0.8774868249893188,Culture,Performing_arts,Maria Pagés
+702,3.0,3306063.0,Peter Lanzani,0.20182321965694427,Q2203927,Culture.Media.Media*,3306063.0,8897.191979151186,15.0,11621.0,0.6054696589708328,Culture,Media*,Peter Lanzani
+703,2.0,3364158.0,Fiscalía General del Estado (España),0.40734341740608215,Q3406493,History_and_Society.Politics_and_government,3364158.0,1011.0,8.0,3423.0,0.8146868348121643,History_and_Society,Politics_and_government,State Attorney General's Office (Spain)
+704,1.0,3388324.0,David Moyes,0.9984612464904784,Q297252,Culture.Sports,3388324.0,0.0,18.0,4093.0,0.9984612464904784,Culture,Sports,David Moyes
+705,3.0,3391982.0,Campeonato Mundial de Ciclismo en Ruta de 2004,0.991162657737732,Q1891291,Culture.Sports,3391982.0,1513.0139249639249,3.0,6071.0,2.973487973213196,Culture,Sports,2004 World Road Cycling Championships
+706,4.0,3404582.0,Guillermo Pfening,1.0000100135803225,Q5888808,Culture.Biography.Biography*,3404582.0,2249.946178821179,12.0,2253.0,0.0,Culture,Biography*,William Pfening
+707,4.0,3476954.0,París-Roubaix 1996,0.9790457487106324,Q2058793,Culture.Sports,3476954.0,3.777777777777777,3.0,4771.0,3.9161829948425297,Culture,Sports,Paris-Roubaix 1996
+708,4.0,3559246.0,Nueva Rumasa,0.5698626637458801,Q9051072,History_and_Society.Business_and_economics,3559246.0,1009.5,8.0,2190.0,2.2794506549835205,History_and_Society,Business_and_economics,New Rumasa
+709,5.0,3571827.0,Susana Traverso,0.9688661694526672,Q6136392,Culture.Biography.Biography*,3571827.0,11023.0,22.0,3096.0,0.0,Culture,Biography*,Susana Traverso
+710,1.0,3586765.0,Predappio,1.0000100135803225,Q99950,Geography.Regions.Europe.Southern_Europe,3586765.0,0.0,17.0,1815.0,0.0,Geography,Southern_Europe,Predappio
+711,1.0,3592992.0,Ha Seung-Jin,0.9871888160705566,Q483890,Culture.Sports,3592992.0,0.0,7.0,736.0,0.9871888160705566,Culture,Sports,Ha Seung-Jin
+712,1.0,3646419.0,Leigh Anne Tuohy,0.1520422399044037,Q6519525,Culture.Visual_arts.Visual_arts*,3646419.0,0.0,7.0,1699.0,0.1520422399044037,Culture,Visual_arts*,Leigh Anne Tuohy
+713,6.0,3647716.0,Mónica Gonzaga,0.9951046109199524,Q5659599,Culture.Biography.Biography*,3647716.0,14628.484414351911,12.0,3093.0,0.0,Culture,Biography*,Monica Gonzaga
+714,3.0,3648353.0,Berazategui (Buenos Aires),0.9984121918678284,Q548807,Geography.Regions.Americas.South_America,3648353.0,0.0,15.0,2996.0,0.0,Geography,South_America,Berazategui (Buenos Aires)
+715,9.0,3648798.0,Finales de la NBA de 1990,0.9973783493041992,Q4586134,Culture.Sports,3648798.0,5380.375776249795,7.0,3969.0,8.976405143737793,Culture,Sports,1990 NBA Finals
+716,10.0,3651034.0,Finales de la NBA de 1989,0.9973783493041992,Q4585299,Culture.Sports,3651034.0,61006.64091876957,7.0,3745.0,9.973783493041992,Culture,Sports,1989 NBA Finals
+717,2.0,3652861.0,Sean Tuohy,0.8479777574539185,Q7441514,Culture.Sports,3652861.0,1011.0,7.0,1356.0,1.695955514907837,Culture,Sports,Sean Tuohy
+718,1.0,3653986.0,Torneo Conde de Godó 2010,0.997758150100708,Q2664969,Culture.Sports,3653986.0,0.0,0.0,1228.0,0.997758150100708,Culture,Sports,Conde de Godó 2010 Tournament
+719,1.0,3662342.0,El analfabeto,0.9966334104537964,Q5352374,Culture.Media.Films,3662342.0,0.0,9.0,1752.0,0.9966334104537964,Culture,Films,The illiterate
+720,4.0,3664305.0,Finales de la NBA de 1987,0.9626831412315368,Q3072482,Culture.Sports,3664305.0,112030.76228398619,7.0,2623.0,3.850732564926147,Culture,Sports,1987 NBA Finals
+721,7.0,3686013.0,Juan José Camero,0.9783946871757508,Q6300095,Culture.Biography.Biography*,3686013.0,13219.412184342129,12.0,1406.0,0.0,Culture,Biography*,Juan José Camero
+722,1.0,3753647.0,José Antonio Martín Pallín,0.1294127255678177,Q3186169,History_and_Society.Politics_and_government,3753647.0,0.0,3.0,1201.0,0.1294127255678177,History_and_Society,Politics_and_government,José Antonio Martín Pallín
+723,2.0,3787638.0,Finales de la NBA de 1984,0.9919480085372924,Q3072477,Culture.Sports,3787638.0,365.8016308253154,19.0,1737.0,1.9838960170745847,Culture,Sports,1984 NBA Finals
+724,2.0,3832349.0,Lady A,0.9850529432296752,Q389870,Culture.Media.Music,3832349.0,0.0,10.0,0.0,1.9701058864593504,Culture,Music,Lady A
+725,2.0,3846878.0,Presidente del Gobierno de Aragón,0.19194278120994568,Q3133842,History_and_Society.Politics_and_government,3846878.0,2020.0,2.0,1757.0,0.38388556241989136,History_and_Society,Politics_and_government,President of the Government of Aragon
+726,1.0,3847099.0,Eddie Izzard,0.6224693655967712,Q254022,Culture.Media.Entertainment,3847099.0,0.0,1.0,1514.0,0.6224693655967712,Culture,Entertainment,Eddie Izzard
+727,10.0,3895766.0,Enclaves de España,0.19194278120994568,Q5396346,History_and_Society.Politics_and_government,3895766.0,22031.209981921842,1.0,2478.0,1.9194278120994568,History_and_Society,Politics_and_government,Enclaves of Spain
+728,1.0,4012899.0,España en la Copa Mundial de Fútbol de 1978,0.9963027834892272,Q175853,Culture.Sports,4012899.0,0.0,8.0,3267.0,0.9963027834892272,Culture,Sports,Spain at the 1978 Soccer World Cup
+729,2.0,4040731.0,Luis Barrionuevo,0.9926641583442688,Q5982872,Culture.Biography.Biography*,4040731.0,0.0,15.0,1281.0,0.0,Culture,Biography*,Luis Barrionuevo
+730,2.0,4081291.0,Ernie Davis,0.9955416321754456,Q1356923,Culture.Sports,4081291.0,123.67619047619185,19.0,1781.0,1.9910832643508911,Culture,Sports,Ernie davis
+731,3.0,4081832.0,Gilda Lousek,0.9566442370414734,Q5879705,Culture.Biography.Biography*,4081832.0,5035.0,22.0,1857.0,0.0,Culture,Biography*,Gilda Lousek
+732,6.0,4095478.0,Ricardo Bauleo,0.10088862478733064,Q6108014,Culture.Media.Media*,4095478.0,5617.216504655808,12.0,1449.0,0.6053317487239839,Culture,Media*,Ricardo Bauleo
+733,6.0,4112311.0,Víctor Bó,0.8634016513824463,Q6165410,Culture.Biography.Biography*,4112311.0,3128.287554112557,12.0,1285.0,0.0,Culture,Biography*,Victor Bó
+734,1.0,4123642.0,Lola Berthet,0.11280541121959685,Q5639493,Culture.Media.Media*,4123642.0,0.0,12.0,1879.0,0.11280541121959685,Culture,Media*,Lola Berthet
+735,1.0,4124708.0,Campeonato Mundial de Ciclismo en Ruta de 2003,0.9942797422409058,Q589256,Culture.Sports,4124708.0,0.0,1.0,1085.0,0.9942797422409058,Culture,Sports,2003 World Road Cycling Championships
+736,3.0,4124969.0,Ida Dalser,0.9124462008476256,Q570794,History_and_Society.History,4124969.0,1011.0,17.0,3260.0,2.7373386025428768,History_and_Society,History,Ida Dalser
+737,2.0,4163602.0,Raúl Ruiz Benito,0.5698626637458801,Q6101430,Culture.Sports,4163602.0,0.0,18.0,1864.0,1.1397253274917605,Culture,Sports,Raúl Ruiz Benito
+738,3.0,4173430.0,Gema López,0.6926519870758057,Q5876661,Culture.Media.Media*,4173430.0,2020.0,16.0,2274.0,2.077955961227417,Culture,Media*,Gema López
+739,1.0,4196045.0,La verbena de la Paloma (película de 1963),0.9591643214225768,Q5968383,Culture.Media.Media*,4196045.0,0.0,4.0,710.0,0.9591643214225768,Culture,Media*,La Verbena de la Paloma (1963 film)
+740,3.0,4211846.0,Horacio Ranieri,0.9416641592979432,Q5841634,Culture.Biography.Biography*,4211846.0,0.0,12.0,1971.0,0.0,Culture,Biography*,Horacio Ranieri
+741,1.0,4214025.0,Fernando Cebrián,0.11597072333097458,Q8961279,Culture.Linguistics,4214025.0,0.0,4.0,1478.0,0.11597072333097458,Culture,Linguistics,Fernando Cebrián
+742,1.0,4221590.0,Borja Bastón,0.9591643214225768,Q2701593,Culture.Sports,4221590.0,0.0,2.0,1641.0,0.9591643214225768,Culture,Sports,Borja Staff
+743,5.0,4229120.0,Campeonato Mundial de Ciclismo en Ruta de 1999,0.998142421245575,Q1503551,Culture.Sports,4229120.0,6.9444444444444455,3.0,7033.0,4.990712106227875,Culture,Sports,1999 World Road Cycling Championships
+744,4.0,4229122.0,Campeonato Mundial de Ciclismo en Ruta de 1998,0.9992306232452391,Q598133,Culture.Sports,4229122.0,3.8055555555555562,3.0,6773.0,3.9969224929809566,Culture,Sports,1998 World Road Cycling Championships
+745,2.0,4281656.0,Bubba Smith,0.9724247455596924,Q318938,Culture.Sports,4281656.0,236992.0,10.0,3368.0,1.9448494911193848,Culture,Sports,Bubba Smith
+746,5.0,4286004.0,Costumbres argentinas,0.9916942119598388,Q5790139,Culture.Media.Media*,4286004.0,6244.5593143939,12.0,2079.0,4.9584710597991934,Culture,Media*,Argentine customs
+747,5.0,4293748.0,Ramin Karimloo,0.9553291201591492,Q519811,Culture.Media.Music,4293748.0,1512.0,10.0,5028.0,4.776645600795746,Culture,Music,Ramin Karimloo
+748,1.0,4296365.0,Horacio Pietragalla Corti,0.9875783920288086,Q5901967,Culture.Biography.Biography*,4296365.0,0.0,15.0,5819.0,0.0,Culture,Biography*,Horacio Pietragalla Corti
+749,2.0,4297766.0,María Carámbula,0.9796776771545408,Q442826,Culture.Biography.Biography*,4297766.0,19323.72974238664,12.0,1722.0,0.0,Culture,Biography*,Mary Carámbula
+750,14.0,4336436.0,Canal+ (canal de televisión español),0.8221991658210754,Q2935827,Culture.Media.Media*,4336436.0,124793.28694408706,18.0,2560.0,11.510788321495054,Culture,Media*,Canal + (Spanish television channel)
+751,1.0,4346252.0,España en la Copa Mundial de Fútbol de 1994,0.9991540908813475,Q1477674,Culture.Sports,4346252.0,0.0,14.0,2454.0,0.9991540908813475,Culture,Sports,Spain in the 1994 Soccer World Cup
+752,5.0,4370017.0,Copa del Rey de fútbol 2000-01,0.9886782765388488,Q913695,Culture.Sports,4370017.0,15262.487044805992,8.0,11525.0,4.943391382694244,Culture,Sports,Copa del Rey soccer 2000-01
+753,3.0,4370057.0,Copa del Rey de fútbol 1996-97,0.9949496984481812,Q1130835,Culture.Sports,4370057.0,24852.99950819733,14.0,10348.0,2.9848490953445435,Culture,Sports,Copa del Rey soccer 1996-97
+754,2.0,4370071.0,Copa del Rey de fútbol 1995-96,0.9951046109199524,Q1130828,Culture.Sports,4370071.0,2020.0,14.0,1767.0,1.9902092218399048,Culture,Sports,King's Cup soccer 1995-96
+755,2.0,4370088.0,Copa del Rey de fútbol 1994-95,0.9935217499732972,Q1130829,Culture.Sports,4370088.0,1011.0,14.0,12644.0,1.9870434999465945,Culture,Sports,Copa del Rey soccer 1994-95
+756,8.0,4370098.0,Copa del Rey de fútbol 1993-94,0.996185541152954,Q1130823,Culture.Sports,4370098.0,7858.144519871093,8.0,11114.0,7.969484329223633,Culture,Sports,Copa del Rey football 1993-94
+757,3.0,4370109.0,Copa del Rey de fútbol 1992-93,0.9960646033287048,Q1130818,Culture.Sports,4370109.0,0.0,2.0,13968.0,2.9881938099861145,Culture,Sports,Copa del Rey soccer 1992-93
+758,3.0,4375377.0,Kevin Magee (baloncestista),0.9820237755775452,Q1125913,Culture.Sports,4375377.0,1635.277282653998,11.0,1553.0,2.9460713267326355,Culture,Sports,Kevin Magee (basketball player)
+759,2.0,4380414.0,Miguel Ángel Gil Marín,0.12253321707248688,Q6015638,History_and_Society.Business_and_economics,4380414.0,381.1303030303029,8.0,1849.0,0.2450664341449737,History_and_Society,Business_and_economics,Miguel Ángel Gil Marín
+760,1.0,4397144.0,Nate Davis,0.9796776771545408,Q9048868,Culture.Sports,4397144.0,0.0,18.0,2276.0,0.9796776771545408,Culture,Sports,Nate davis
+761,2.0,4404537.0,Olivia Williams,0.2814156115055084,Q231163,Culture.Performing_arts,4404537.0,1011.0,1.0,1763.0,0.5628312230110168,Culture,Performing_arts,Olivia Williams
+762,3.0,4424232.0,Mark Davis (baloncestista de 1963),0.9990402460098268,Q3849471,Culture.Sports,4424232.0,4066.821721485148,11.0,758.0,2.9971207380294804,Culture,Sports,Mark Davis (1963 basketball player)
+763,2.0,4430124.0,Romancing the Stone,0.9976133108139038,Q502629,Culture.Media.Films,4430124.0,1011.0,4.0,2420.0,1.995226621627808,Culture,Films,Romancing the Stone
+764,2.0,4456648.0,Darren Daye,1.0000100135803225,Q1173006,Culture.Sports,4456648.0,0.0,11.0,674.0,2.000020027160645,Culture,Sports,Darren Daye
+765,1.0,4466281.0,Electra (Galdós),0.9946250915527344,Q924513,Culture.Performing_arts,4466281.0,0.0,2.0,1152.0,0.9946250915527344,Culture,Performing_arts,Electra (Galdós)
+766,2.0,4472515.0,Branislav Prelević,0.8962613940238953,Q114695,Culture.Sports,4472515.0,0.0,11.0,503.0,1.7925227880477903,Culture,Sports,Branislav Prelević
+767,2.0,4486239.0,"1 peso, 1 dólar",0.9591643214225768,Q5651100,Culture.Media.Media*,4486239.0,176.82979242979252,12.0,2756.0,1.9183286428451536,Culture,Media*,"1 peso, 1 dollar"
+768,3.0,4511495.0,Lemone Lampley,0.9926641583442688,Q3830137,Culture.Sports,4511495.0,0.0,11.0,570.0,2.9779924750328064,Culture,Sports,Lemone Lampley
+769,1.0,4520979.0,Rebeca Iturbide,0.2069040536880493,Q6102287,History_and_Society.History,4520979.0,0.0,9.0,2282.0,0.2069040536880493,History_and_Society,History,Rebeca Iturbide
+770,1.0,4538845.0,Keith Hunter Jesperson,0.993317186832428,Q2692190,Culture.Biography.Biography*,4538845.0,0.0,10.0,1279.0,0.0,Culture,Biography*,Keith Hunter Jesperson
+771,2.0,4556054.0,Isabel Burr,0.989681839942932,Q5920698,Culture.Biography.Biography*,4556054.0,1011.0,9.0,25469.0,0.0,Culture,Biography*,Isabel Burr
+772,1.0,4625147.0,Verónica Langer,0.14805719256401062,Q6160725,Culture.Media.Media*,4625147.0,0.0,9.0,7757.0,0.14805719256401062,Culture,Media*,Veronica Langer
+773,3.0,4626941.0,La Cámpora,0.8031837940216064,Q6462157,History_and_Society.Politics_and_government,4626941.0,1011.0,15.0,2596.0,2.40955138206482,History_and_Society,Politics_and_government,The Camp
+774,2.0,4643204.0,Santiago Arias,0.99567848443985,Q2502118,Culture.Sports,4643204.0,5035.0,2.0,2245.0,1.9913569688797,Culture,Sports,Santiago Arias
+775,1.0,4649106.0,José María Mena Álvarez,0.9579222798347472,Q9014536,Culture.Biography.Biography*,4649106.0,0.0,8.0,2424.0,0.0,Culture,Biography*,José María Mena Álvarez
+776,3.0,4658203.0,Gastón Ricaud,0.960371196269989,Q5876247,Culture.Biography.Biography*,4658203.0,8429.314140589158,20.0,2392.0,0.0,Culture,Biography*,Gastón Ricaud
+777,1.0,4670343.0,La joya del Nilo,0.9946250915527344,Q759420,Culture.Media.Films,4670343.0,0.0,4.0,2324.0,0.9946250915527344,Culture,Films,The jewel of the Nile
+778,1.0,4693767.0,María Belén Aramburu,0.585111141204834,Q5643881,Culture.Media.Media*,4693767.0,0.0,12.0,1239.0,0.585111141204834,Culture,Media*,María Belén Aramburu
+779,2.0,4707756.0,Jeison Murillo,0.9790457487106324,Q254521,Culture.Sports,4707756.0,1011.0,2.0,2183.0,1.9580914974212649,Culture,Sports,Jeison Murillo
+780,8.0,4733878.0,Informe Robinson,0.8558611869812012,Q6031307,Culture.Media.Television,4733878.0,2567.0333333333333,18.0,5866.0,6.8468894958496085,Culture,Television,Robinson Report
+781,1.0,4773846.0,Comarcas de España,0.4486793746948242,Q1345234,Geography.Regions.Europe.Southern_Europe,4773846.0,0.0,1.0,2316.0,0.0,Geography,Southern_Europe,Counties of Spain
+782,1.0,4798918.0,El ministro y yo,0.9796776771545408,Q5352468,Culture.Media.Media*,4798918.0,0.0,9.0,2654.0,0.9796776771545408,Culture,Media*,The minister and me
+783,3.0,4802542.0,Telecataplúm,0.9802908897399902,Q6140437,Culture.Media.Media*,4802542.0,1011.0,12.0,2040.0,2.9408726692199707,Culture,Media*,Telecataplum
+784,3.0,4825075.0,Miguel Inclán,0.1259327530860901,Q3312979,Culture.Media.Media*,4825075.0,10029.0,9.0,2372.0,0.3777982592582703,Culture,Media*,Miguel Inclán
+785,1.0,4873105.0,Susie Pop,0.4378334879875183,Q6136424,Culture.Media.Music,4873105.0,0.0,16.0,2202.0,0.4378334879875183,Culture,Music,Susie Pop
+786,2.0,4880343.0,Tour de Francia 2012,0.8519628047943115,Q219414,Culture.Sports,4880343.0,238.0475314165396,3.0,2214.0,1.703925609588623,Culture,Sports,Tour de France 2012
+787,6.0,4885364.0,Ruta élite masculina en el Campeonato Mundial de Ruta,0.5234303474426271,Q13603535,Culture.Sports,4885364.0,3618.447033358872,3.0,2830.0,3.1405820846557626,Culture,Sports,Men's elite route at the World Road Championship
+788,1.0,4888838.0,Ignacio Lucas Albarracín,0.9591643214225768,Q5913367,Culture.Biography.Biography*,4888838.0,0.0,15.0,4787.0,0.0,Culture,Biography*,Ignacio Lucas Albarracín
+789,6.0,4889646.0,Cristina Lemercier,0.9942797422409058,Q5791482,Culture.Biography.Biography*,4889646.0,9909.613874262772,20.0,2626.0,0.0,Culture,Biography*,Cristina Lemercier
+790,1.0,4900725.0,Opus caementicium,0.348655104637146,Q610076,Culture.Visual_arts.Architecture,4900725.0,0.0,2.0,2973.0,0.348655104637146,Culture,Architecture,Opus caementicium
+791,7.0,4910642.0,Abdul Karim,0.20182321965694427,Q317320,History_and_Society.History,4910642.0,4408.3333333332785,1.0,52740.0,1.4127625375986101,History_and_Society,History,Abdul Karim
+792,3.0,4911330.0,Sergio Rodríguez Gómez,1.0000100135803225,Q125060,Culture.Sports,4911330.0,169.92222222222009,11.0,3446.0,3.000030040740968,Culture,Sports,Sergio Rodríguez Gómez
+793,4.0,4923909.0,John Brown (sirviente),0.3073680400848389,Q637377,History_and_Society.History,4923909.0,23.83333333333333,1.0,8010.0,1.2294721603393557,History_and_Society,History,John Brown (servant)
+794,1.0,4955126.0,Nacho Llovet,0.8670457601547241,Q968002,Culture.Sports,4955126.0,0.0,11.0,965.0,0.8670457601547241,Culture,Sports,Nacho Llovet
+795,2.0,4958111.0,Gerardo Rozín,0.7606606483459473,Q5878388,Culture.Media.Media*,4958111.0,0.0,12.0,1835.0,1.5213212966918943,Culture,Media*,Gerardo Rozín
+796,4.0,4979758.0,Patricia Sarán,0.9991804361343384,Q6066586,Culture.Biography.Biography*,4979758.0,71.71529411764719,12.0,2190.0,0.0,Culture,Biography*,Patricia Sarán
+797,2.0,5012774.0,¡Dispara!,0.7826725244522095,Q3965943,Culture.Media.Films,5012774.0,0.0,4.0,5889.0,1.565345048904419,Culture,Films,Shoot!
+798,3.0,5035381.0,Copa del Rey de baloncesto 2012,0.9173126816749572,Q3816017,Culture.Sports,5035381.0,607.5401635344351,11.0,646.0,2.7519380450248714,Culture,Sports,Basketball King's Cup 2012
+799,1.0,5036761.0,Giulino,0.9879562258720398,Q2485134,Geography.Regions.Europe.Europe*,5036761.0,0.0,17.0,1431.0,0.0,Geography,Europe*,Giulino
+800,1.0,5049065.0,Tini Stoessel,0.5000100135803223,Q2699591,Culture.Media.Music,5049065.0,0.0,2.0,134756.0,0.5000100135803223,Culture,Music,Tini Stoessel
+801,1.0,5051303.0,Gustavo González González,0.4921981394290924,Q5889641,Culture.Media.Media*,5051303.0,0.0,16.0,10372.0,0.4921981394290924,Culture,Media*,Gustavo González González
+802,2.0,5073061.0,Susana Díaz,0.2393593490123749,Q6136317,History_and_Society.Politics_and_government,5073061.0,1011.0,1.0,3316.0,0.4787186980247498,History_and_Society,Politics_and_government,Susana Diaz
+803,2.0,5114953.0,Rebecca Ferguson (cantante),0.8774868249893188,Q268959,Culture.Media.Media*,5114953.0,2020.0,10.0,2119.0,1.7549736499786377,Culture,Media*,Rebecca Ferguson (singer)
+804,1.0,5117710.0,Copa Mundial Femenina de Fútbol de 2019,0.9748311638832092,Q4630361,Culture.Sports,5117710.0,0.0,1.0,2491.0,0.9748311638832092,Culture,Sports,2019 Women's Soccer World Cup
+805,3.0,5157192.0,Lawrence Taylor,0.9972950220108032,Q963129,Culture.Sports,5157192.0,1011.0,19.0,4915.0,2.9918850660324097,Culture,Sports,Lawrence Taylor
+806,4.0,5174091.0,Plaza de Loreto,0.8740872144699097,Q525297,Geography.Regions.Europe.Southern_Europe,5174091.0,0.0,17.0,2541.0,0.0,Geography,Southern_Europe,Loreto Square
+807,4.0,5179955.0,Achille Starace,0.3007555902004242,Q340254,History_and_Society.Military_and_warfare,5179955.0,0.0,17.0,1356.0,1.2030223608016968,History_and_Society,Military_and_warfare,Achille Starace
+808,1.0,5244438.0,El deseo de vivir,0.9539760947227478,Q5824637,Culture.Media.Films,5244438.0,0.0,12.0,610.0,0.9539760947227478,Culture,Films,The desire to live
+809,3.0,5252317.0,Todos tenemos un plan,0.9820237755775452,Q3013895,Culture.Media.Films,5252317.0,57149.0,4.0,867.0,2.9460713267326355,Culture,Films,We all have a plan
+810,4.0,5277812.0,Unión de Naciones Suramericanas,0.7718535065650941,Q4230,History_and_Society.Politics_and_government,5277812.0,5043.0,20.0,6315.0,3.0874140262603764,History_and_Society,Politics_and_government,Union of South American Nations
+811,12.0,5285871.0,Los comuneros (Luis López Álvarez),0.1968362182378769,Q5980725,Culture.Literature,5285871.0,18919.38333333333,6.0,1780.0,2.3620346188545227,Culture,Literature,The community members (Luis López Álvarez)
+812,8.0,5318622.0,Copa del Rey de fútbol 1983-84,0.9965265989303588,Q979218,Culture.Sports,5318622.0,15860.447470956477,8.0,13845.0,7.97221279144287,Culture,Sports,Copa del Rey football 1983-84
+813,13.0,5319260.0,Edda Bustamante,0.9748311638832092,Q5817544,Culture.Biography.Biography*,5319260.0,17811.665663490043,12.0,1325.0,0.0,Culture,Biography*,Edda Bustamante
+814,2.0,5321113.0,George Gaynes,0.348655104637146,Q279225,Culture.Media.Media*,5321113.0,1011.0,10.0,2019.0,0.697310209274292,Culture,Media*,George Gaynes
+815,7.0,5325720.0,Thelma Stefani,0.9637899398803712,Q5651346,Culture.Biography.Biography*,5325720.0,12678.217999864552,12.0,1571.0,0.0,Culture,Biography*,Thelma Stefani
+816,4.0,5329077.0,Selección de fútbol sub-23 de España,0.9124462008476256,Q2637337,Culture.Sports,5329077.0,13010.0,14.0,1733.0,3.6497848033905034,Culture,Sports,Selection of soccer sub-23 of Spain
+817,5.0,5362560.0,Correccional de mujeres,0.94500470161438,Q5789089,Culture.Media.Media*,5362560.0,385.9470121847747,12.0,2209.0,4.7250235080719,Culture,Media*,Women's correctional facility
+818,5.0,5374702.0,Tony Vilas,0.960371196269989,Q5639548,Culture.Biography.Biography*,5374702.0,167.37912781662774,12.0,648.0,0.0,Culture,Biography*,Tony Vilas
+819,1.0,5383872.0,Helga de Alvear,0.8267217874526978,Q5704398,Culture.Visual_arts.Visual_arts*,5383872.0,0.0,2.0,813.0,0.8267217874526978,Culture,Visual_arts*,Helga de Alvear
+820,21.0,5443277.0,Bombardeos en la guerra civil española,0.966924011707306,Q5731809,History_and_Society.Military_and_warfare,5443277.0,78961.98193743918,1.0,3382.0,20.305404245853428,History_and_Society,Military_and_warfare,Bombings in the Spanish civil war
+821,1.0,5454155.0,Éber Ludueña,0.18714269995689392,Q5816803,Culture.Sports,5454155.0,0.0,20.0,1911.0,0.18714269995689392,Culture,Sports,Éber Ludueña
+822,1.0,5471136.0,Raúl de Tomás,0.9481645226478576,Q641387,Culture.Sports,5471136.0,0.0,2.0,2477.0,0.9481645226478576,Culture,Sports,Raúl de Tomás
+823,1.0,5481318.0,El baisano Jalil,0.994098961353302,Q5352378,Culture.Media.Films,5481318.0,0.0,4.0,789.0,0.994098961353302,Culture,Films,El baisano Jalil
+824,2.0,5510892.0,Zayn Malik,0.7826725244522095,Q3626950,Culture.Media.Media*,5510892.0,1011.0,10.0,43967.0,1.565345048904419,Culture,Media*,Zayn Malik
+825,2.0,5516241.0,Graciela Stéfani,0.11921291798353195,Q1650676,Culture.Media.Media*,5516241.0,554.961539767422,15.0,1596.0,0.2384258359670639,Culture,Media*,Graciela Stéfani
+826,4.0,5518988.0,Edda Mussolini,0.3007555902004242,Q259934,History_and_Society.History,5518988.0,7530.0,17.0,4622.0,1.2030223608016968,History_and_Society,History,Edda Mussolini
+827,1.0,5525233.0,Copa de España femenina de fútbol sala,0.9553291201591492,Q5639047,Culture.Sports,5525233.0,0.0,2.0,644.0,0.9553291201591492,Culture,Sports,Futsal Spain Women's Cup
+828,2.0,5528830.0,Eduardo Magallanes,0.91965252161026,Q5819414,Culture.Media.Music,5528830.0,4032.0,9.0,712.0,1.83930504322052,Culture,Music,Eduardo Magallanes
+829,15.0,5531442.0,Adrián Martel,0.1097157895565033,Q5549429,Culture.Media.Music,5531442.0,64614.630559499885,12.0,2398.0,1.6457368433475494,Culture,Music,Adrian Martel
+830,1.0,5553266.0,Vittorio Mussolini,0.10088862478733064,Q640292,Culture.Media.Media*,5553266.0,0.0,17.0,4093.0,0.10088862478733064,Culture,Media*,Vittorio Mussolini
+831,1.0,5598353.0,The Possession (película de 2012),0.9859463572502136,Q1972417,Culture.Media.Media*,5598353.0,0.0,10.0,1537.0,0.9859463572502136,Culture,Media*,The Possession (2012 film)
+832,2.0,5622027.0,Tex Winter,0.9969346523284912,Q375428,Culture.Sports,5622027.0,994.1426108491831,7.0,2007.0,1.9938693046569824,Culture,Sports,Tex winter
+833,1.0,5628613.0,Golpe de Estado de Pavía,0.7248802781105042,Q5882508,History_and_Society.Military_and_warfare,5628613.0,0.0,2.0,2256.0,0.7248802781105042,History_and_Society,Military_and_warfare,Coup d'etat of Pavia
+834,1.0,5628885.0,Al Día,0.9124462008476256,Q10852434,Culture.Media.Media*,5628885.0,0.0,16.0,21030.0,0.9124462008476256,Culture,Media*,Up to date
+835,6.0,5635155.0,Iliana Calabró,0.9755869507789612,Q5913974,Culture.Biography.Biography*,5635155.0,2517.719955102371,12.0,1503.0,0.0,Culture,Biography*,Iliana Calabró
+836,1.0,5659134.0,Emilio Hellín Moro,0.24509501457214355,Q5831141,History_and_Society.Politics_and_government,5659134.0,0.0,2.0,567.0,0.24509501457214355,History_and_Society,Politics_and_government,Emilio Hellín Moro
+837,1.0,5660057.0,Julián Arredondo,0.9697954058647156,Q6380520,Culture.Sports,5660057.0,0.0,3.0,2312.0,0.9697954058647156,Culture,Sports,Julián Arredondo
+838,3.0,5663433.0,Katunga (banda),0.59267657995224,Q5958669,Culture.Media.Media*,5663433.0,3266.9431337119804,12.0,991.0,1.77802973985672,Culture,Media*,Katunga (band)
+839,3.0,5705446.0,Diego Domínguez (actor),0.4610267877578736,Q8470922,Culture.Media.Media*,5705446.0,1011.0,2.0,2116.0,1.3830803632736208,Culture,Media*,Diego Domínguez (actor)
+840,1.0,5814135.0,Inundación en Santa Fe de 2003,0.4765896201133728,Q4601804,History_and_Society.Politics_and_government,5814135.0,0.0,12.0,2345.0,0.4765896201133728,History_and_Society,Politics_and_government,Flood in Santa Fe 2003
+841,2.0,5877194.0,Rossif Sutherland,1.0000100135803225,Q3442834,Culture.Biography.Biography*,5877194.0,0.0,1.0,1419.0,0.0,Culture,Biography*,Rossif Sutherland
+842,1.0,5910579.0,José Manuel Villegas,0.9954004287719728,Q5942375,Culture.Biography.Biography*,5910579.0,0.0,5.0,1252.0,0.0,Culture,Biography*,José Manuel Villegas
+843,1.0,5913453.0,La Ciénaga (película),0.9284188151359558,Q3214034,Culture.Media.Media*,5913453.0,0.0,15.0,3362.0,0.9284188151359558,Culture,Media*,The Swamp (film)
+844,1.0,5914909.0,Áreas metropolitanas de Colombia,0.1824355274438858,Q6174113,History_and_Society.History,5914909.0,0.0,20.0,3239.0,0.1824355274438858,History_and_Society,History,Metropolitan areas of Colombia
+845,6.0,5946693.0,Abre los ojos y mira,0.9362950325012208,Q13317496,Culture.Media.Television,5946693.0,20932.0,16.0,1938.0,5.617770195007325,Culture,Television,Open your eyes and look
+846,2.0,5948899.0,Julian Alaphilippe,0.984585464000702,Q3189071,Culture.Sports,5948899.0,1011.0,3.0,1861.0,1.969170928001404,Culture,Sports,Julian Alaphilippe
+847,1.0,5957930.0,El Talismán (telenovela),0.9732507467269896,Q988620,Culture.Media.Media*,5957930.0,0.0,9.0,2626.0,0.9732507467269896,Culture,Media*,The Talisman (soap opera)
+848,7.0,5981307.0,Los matamonstruos en la mansión del terror,0.9324633479118348,Q16301967,Culture.Media.Media*,5981307.0,59.2914449112979,12.0,959.0,6.527243435382844,Culture,Media*,The monster killers in the mansion of terror
+849,2.0,6043985.0,Ana Rosenfeld,0.16452647745609286,Q15115383,History_and_Society.Business_and_economics,6043985.0,5805.761633567491,13.0,1308.0,0.3290529549121857,History_and_Society,Business_and_economics,Ana Rosenfeld
+850,1.0,6046180.0,Juan Alberto Mateyko,0.20182321965694427,Q16584210,Culture.Media.Television,6046180.0,0.0,12.0,1152.0,0.20182321965694427,Culture,Television,Juan Alberto Mateyko
+851,3.0,6078702.0,China Suárez,0.38492217659950256,Q911745,Culture.Media.Media*,6078702.0,4499.960511509493,13.0,7116.0,1.1547665297985077,Culture,Media*,China Suarez
+852,5.0,6117387.0,Cárcel de Sierra Chica,0.3276783227920532,Q16554697,Culture.Visual_arts.Visual_arts*,6117387.0,1980.4305952572192,20.0,2635.0,1.638391613960266,Culture,Visual_arts*,Sierra Chica Prison
+853,3.0,6117390.0,Motín de Sierra Chica,0.2393593490123749,Q16609248,History_and_Society.Politics_and_government,6117390.0,910.0751137751056,20.0,4664.0,0.7180780470371247,History_and_Society,Politics_and_government,Sierra Chica Mutiny
+854,5.0,6153436.0,Giro de Italia 2014,0.812877357006073,Q14916000,Culture.Sports,6153436.0,2941.257695465124,3.0,9869.0,4.064386785030365,Culture,Sports,Tour of Italy 2014
+855,1.0,6155631.0,Nasim Pedrad,0.998876452445984,Q3496909,Culture.Biography.Biography*,6155631.0,0.0,2.0,2263.0,0.0,Culture,Biography*,Nasim Pedrad
+856,2.0,6159951.0,España en la Copa Mundial de Fútbol de 1986,0.6723417043685913,Q1477570,Culture.Sports,6159951.0,2020.0,8.0,5184.0,1.3446834087371826,Culture,Sports,Spain in the 1986 Soccer World Cup
+857,2.0,6160662.0,Kacey Musgraves,0.9481645226478576,Q2783855,Culture.Media.Music,6160662.0,0.0,10.0,1990.0,1.896329045295715,Culture,Music,Kacey Musgraves
+858,1.0,6162030.0,Francia en la Copa Mundial de Fútbol de 2014,0.7371681928634644,Q15290460,Culture.Sports,6162030.0,0.0,14.0,1709.0,0.7371681928634644,Culture,Sports,France in the 2014 Soccer World Cup
+859,1.0,6192350.0,Los Bañales,0.8519628047943115,Q52144654,History_and_Society.History,6192350.0,0.0,2.0,1914.0,0.8519628047943115,History_and_Society,History,Los Bañales
+860,1.0,6192591.0,Croacia en la Copa Mundial de Fútbol de 1998,0.8740872144699097,Q1477715,Culture.Sports,6192591.0,0.0,14.0,1757.0,0.8740872144699097,Culture,Sports,Croatia at the 1998 Soccer World Cup
+861,2.0,6214304.0,Jasper Cillessen,0.9219318628311156,Q128719,Culture.Sports,6214304.0,0.0,2.0,2466.0,1.8438637256622312,Culture,Sports,Jasper Cillessen
+862,2.0,6255054.0,Jess Glynne,0.8634016513824463,Q15744507,Culture.Media.Media*,6255054.0,4032.0,10.0,1911.0,1.7268033027648926,Culture,Media*,Jess Glynne
+863,1.0,6268389.0,Endika Guarrotxena,0.9777238368988036,Q3725118,Culture.Sports,6268389.0,0.0,8.0,892.0,0.9777238368988036,Culture,Sports,Endika Guarrotxena
+864,4.0,6278831.0,Camarero nocturno en Mar del Plata,0.9637899398803712,Q16766102,Culture.Media.Media*,6278831.0,1011.0,22.0,1910.0,3.855159759521485,Culture,Media*,Night waiter in Mar del Plata
+865,3.0,6285294.0,Katja Alemann,0.9965265989303588,Q16149548,Culture.Biography.Biography*,6285294.0,3029.0,22.0,2279.0,0.0,Culture,Biography*,Katja Alemann
+866,1.0,6295699.0,Mónica Farro,0.1778208613395691,Q6950241,Culture.Media.Media*,6295699.0,0.0,22.0,3296.0,0.1778208613395691,Culture,Media*,Monica Farro
+867,1.0,6321810.0,Walter Tavares,0.9993003606796264,Q16622999,Culture.Sports,6321810.0,0.0,11.0,1866.0,0.9993003606796264,Culture,Sports,Walter Tavares
+868,1.0,6327435.0,Benjamin Sadler,0.9990989565849304,Q71759,Culture.Biography.Biography*,6327435.0,0.0,22.0,1057.0,0.0,Culture,Biography*,Benjamin Sadler
+869,4.0,6333687.0,Copa del Rey de fútbol 2014-15,0.9976133108139038,Q17067266,Culture.Sports,6333687.0,3029.0,14.0,31055.0,3.9904532432556152,Culture,Sports,Copa del Rey football 2014-15
+870,2.0,6337266.0,La señora del Intendente,0.9850529432296752,Q17274834,Culture.Media.Films,6337266.0,0.0,12.0,1456.0,1.9701058864593504,Culture,Films,The lady of the Mayor
+871,2.0,6352515.0,Ali Fazal,0.9952548146247864,Q4724794,Culture.Biography.Biography*,6352515.0,0.0,1.0,4428.0,0.0,Culture,Biography*,Ali Fazal
+872,1.0,6361956.0,Gigi Hadid,0.8439050912857056,Q16843706,Culture.Visual_arts.Visual_arts*,6361956.0,0.0,10.0,46847.0,0.8439050912857056,Culture,Visual_arts*,Gigi hadid
+873,4.0,6368489.0,Copa del Rey de baloncesto 2005,0.960371196269989,Q5168236,Culture.Sports,6368489.0,1011.0,11.0,4961.0,3.841484785079956,Culture,Sports,Basketball King's Cup 2005
+874,4.0,6386345.0,Mirta Massa,0.6926519870758057,Q1983114,Culture.Visual_arts.Fashion,6386345.0,2021.0,12.0,949.0,2.7706079483032227,Culture,Fashion,Mirta massa
+875,1.0,6386730.0,Destino de un capricho,0.9416641592979432,Q5265218,Culture.Media.Media*,6386730.0,0.0,12.0,1393.0,0.9416641592979432,Culture,Media*,Fate of a whim
+876,2.0,6393387.0,Los muchachos de antes no usaban arsénico,0.993317186832428,Q8052949,Culture.Media.Films,6393387.0,0.0,15.0,3255.0,1.986634373664856,Culture,Films,The boys from before didn't use arsenic
+877,2.0,6416804.0,La vida continúa (película de 1969),0.9626831412315368,Q6465759,Culture.Media.Films,6416804.0,1011.0,12.0,1989.0,1.9253662824630733,Culture,Films,Life Goes On (1969 film)
+878,1.0,6439084.0,Horacio Beccar Varela,0.9899964332580566,Q18221369,Culture.Biography.Biography*,6439084.0,0.0,15.0,3844.0,0.0,Culture,Biography*,Horacio Beccar Varela
+879,3.0,6454203.0,Fátima Flórez,0.2568419873714447,Q18223308,Culture.Media.Television,6454203.0,180.79012933426725,12.0,1577.0,0.7705259621143341,Culture,Television,Fatima Flórez
+880,1.0,6461697.0,Francis (artista),0.5544804334640503,Q5481042,History_and_Society.Society,6461697.0,0.0,9.0,1857.0,0.5544804334640503,History_and_Society,Society,Francis (artist)
+881,1.0,6496050.0,Milky Chance,0.7931159734725952,Q14623684,Culture.Media.Music,6496050.0,0.0,10.0,1850.0,0.7931159734725952,Culture,Music,Milky Chance
+882,2.0,6508735.0,Siempre te amaré (película),0.946606695652008,Q18590676,Culture.Media.Media*,6508735.0,0.0,12.0,6841.0,1.893213391304016,Culture,Media*,I will always love you (film)
+883,4.0,6535366.0,El Clan (película),0.9777238368988036,Q18709329,Culture.Media.Media*,6535366.0,5657.0905434429405,15.0,2847.0,3.9108953475952144,Culture,Media*,The Clan (film)
+884,1.0,6548168.0,Volverás a Región,0.997120440006256,Q20016193,Culture.Literature,6548168.0,0.0,4.0,805.0,0.997120440006256,Culture,Literature,You will return to Region
+885,1.0,6550673.0,El séptimo hijo (película de 2014),0.9947898983955384,Q74579,Culture.Media.Films,6550673.0,0.0,1.0,1935.0,0.9947898983955384,Culture,Films,The Seventh Son (2014 film)
+886,1.0,6584154.0,Supercopa de Europa 2016,0.9149109721183776,Q18128921,Culture.Sports,6584154.0,0.0,14.0,3587.0,0.9149109721183776,Culture,Sports,European Super Cup 2016
+887,5.0,6611471.0,Alessandro Pavolini,0.275139719247818,Q742284,History_and_Society.Military_and_warfare,6611471.0,5489.0,17.0,1578.0,1.37569859623909,History_and_Society,Military_and_warfare,Alessandro Pavolini
+888,4.0,6615727.0,Jubileo de oro de la reina Victoria,0.2942249774932861,Q5579597,STEM.STEM*,6615727.0,409.6666666666636,1.0,2061.0,0.0,STEM,STEM*,Queen Victoria's Golden Jubilee
+889,3.0,6615820.0,Munshi,0.5234303474426271,Q6936867,STEM.Medicine_&_Health,6615820.0,0.0,1.0,1000.0,1.5702910423278813,STEM,Medicine_&_Health,Munshi
+890,3.0,6616756.0,Henry Ponsonby,0.5234303474426271,Q680666,History_and_Society.Military_and_warfare,6616756.0,406.16666666666384,1.0,670.0,1.5702910423278813,History_and_Society,Military_and_warfare,Henry Ponsonby
+891,2.0,6646420.0,Jacinta Pichimahuida se enamora,0.9553291201591492,Q6110755,Culture.Media.Films,6646420.0,0.0,20.0,2303.0,1.9106582403182983,Culture,Films,Jacinta Pichimahuida falls in love
+892,2.0,6823454.0,Pelito,0.839743971824646,Q19647498,Culture.Media.Media*,6823454.0,1011.0,12.0,1287.0,1.679487943649292,Culture,Media*,Pelito
+893,1.0,6831747.0,Final de la Copa del Rey de fútbol 2013-2014,0.8774868249893188,Q15906843,Culture.Sports,6831747.0,0.0,14.0,5304.0,0.8774868249893188,Culture,Sports,Final of the Copa del Rey football 2013-2014
+894,1.0,6860994.0,Lieja-Bastoña-Lieja 2015,0.9989112615585328,Q19361205,Culture.Sports,6860994.0,0.0,3.0,3350.0,0.9989112615585328,Culture,Sports,Liege-Bastogne-Liege 2015
+895,5.0,6900599.0,Ejecución de los comuneros de Castilla,0.9926641583442688,Q17633028,Culture.Visual_arts.Visual_arts*,6900599.0,0.0,6.0,1464.0,4.963320791721344,Culture,Visual_arts*,Execution of the community members of Castilla
+896,1.0,6903242.0,Abzurdah (película),0.9796776771545408,Q20007265,Culture.Media.Films,6903242.0,0.0,13.0,1852.0,0.9796776771545408,Culture,Films,Abzurdah (film)
+897,3.0,6905072.0,Copa del Rey de fútbol 2015-16,0.9965265989303588,Q20735384,Culture.Sports,6905072.0,3027.0,14.0,5861.0,2.989579796791076,Culture,Sports,Copa del Rey soccer 2015-16
+898,1.0,6922417.0,Laura Sánchez (actriz uruguaya),0.4378334879875183,Q20683271,Culture.Performing_arts,6922417.0,0.0,12.0,844.0,0.4378334879875183,Culture,Performing_arts,Laura Sánchez (Uruguayan actress)
+899,5.0,6925835.0,"Morfi, todos a la mesa",0.6001983880996704,Q20539767,Culture.Media.Media*,6925835.0,3076.971428571429,12.0,1409.0,3.000991940498352,Culture,Media*,"Morfi, everyone at the table"
+900,1.0,6927458.0,Rita Maestre,0.9566442370414734,Q20155957,Culture.Biography.Biography*,6927458.0,0.0,11.0,29934.0,0.0,Culture,Biography*,Rita Maestre
+901,2.0,6951518.0,Jimmy Kimmel,0.5698626637458801,Q4914,Culture.Media.Media*,6951518.0,34195.0,10.0,2550.0,1.1397253274917605,Culture,Media*,Jimmy Kimmel
+902,1.0,6957650.0,Sistema Sanitario Público de Andalucía,0.2120788097381592,Q20882316,History_and_Society.Politics_and_government,6957650.0,0.0,3.0,2020.0,0.2120788097381592,History_and_Society,Politics_and_government,Andalusian Public Health System
+903,1.0,6967201.0,Juste la fin du monde,0.9755869507789612,Q19885882,Culture.Media.Films,6967201.0,0.0,1.0,1729.0,0.9755869507789612,Culture,Films,Just the end of the world
+904,1.0,6981145.0,Walter Audisio,0.19194278120994568,Q1060464,History_and_Society.Politics_and_government,6981145.0,0.0,17.0,1908.0,0.19194278120994568,History_and_Society,Politics_and_government,Walter Audisio
+905,2.0,6983639.0,Final de la Copa del Rey de fútbol 2014-2015,0.9381340146064758,Q19414248,Culture.Sports,6983639.0,1011.0,14.0,6821.0,1.876268029212952,Culture,Sports,Football King's Cup Final 2014-2015
+906,4.0,7009370.0,Alejandro Puccio,0.8267217874526978,Q20950103,Culture.Sports,7009370.0,5196.454169394303,15.0,3090.0,3.306887149810791,Culture,Sports,Alejandro Puccio
+907,1.0,7009822.0,Tomás Andrade,0.9715740084648132,Q20897612,Culture.Sports,7009822.0,0.0,15.0,1394.0,0.9715740084648132,Culture,Sports,Tomás Andrade
+908,2.0,7176111.0,Carles Aleñá,0.8080772161483765,Q21546191,Culture.Sports,7176111.0,0.0,2.0,1531.0,1.6161544322967532,Culture,Sports,Carles Aleñá
+909,1.0,7176387.0,Rob Gronkowski,0.9433575868606568,Q1334384,Culture.Sports,7176387.0,0.0,19.0,13560.0,0.9433575868606568,Culture,Sports,Rob Gronkowski
+910,1.0,7224430.0,Las locuras del extraterrestre,0.9324633479118348,Q22000198,Culture.Media.Media*,7224430.0,0.0,12.0,842.0,0.9324633479118348,Culture,Media*,The follies of the alien
+911,2.0,7236799.0,Armando Bó (nieto),0.9958112239837646,Q19359024,Culture.Biography.Biography*,7236799.0,0.0,12.0,849.0,0.0,Culture,Biography*,Armando Bó (grandson)
+912,2.0,7238206.0,Copa del Rey de baloncesto 2016,0.951152205467224,Q18741088,Culture.Sports,7238206.0,413.40027009454286,11.0,2225.0,1.902304410934448,Culture,Sports,Basketball King's Cup 2016
+913,4.0,7259140.0,Vuelta a España 2016,0.9381340146064758,Q20882755,Culture.Sports,7259140.0,1042.2094383394374,3.0,6784.0,3.7525360584259033,Culture,Sports,Tour of Spain 2016
+914,1.0,7271694.0,Andy Dalton,0.9879562258720398,Q129605,Culture.Sports,7271694.0,0.0,19.0,1489.0,0.9879562258720398,Culture,Sports,Andy Dalton
+915,4.0,7274068.0,Gustavo Conti,0.9883227348327636,Q22341228,Culture.Biography.Biography*,7274068.0,3248.4392847833456,12.0,2385.0,0.0,Culture,Biography*,Gustavo Conti
+916,1.0,7278301.0,Grupo Insud,0.5156299471855164,Q25112028,History_and_Society.Business_and_economics,7278301.0,0.0,15.0,886.0,0.5156299471855164,History_and_Society,Business_and_economics,Insud Group
+917,2.0,7278337.0,Núria Marín (presentadora),0.6926519870758057,Q22451804,Culture.Media.Media*,7278337.0,1011.0,16.0,2735.0,1.385303974151611,Culture,Media*,Núria Marín (presenter)
+918,4.0,7291111.0,"Enfermero de día, camarero de noche",0.966924011707306,Q23758650,Culture.Media.Films,7291111.0,12.0,22.0,1274.0,3.867696046829224,Culture,Films,"Nurse by day, waiter by night"
+919,1.0,7307669.0,Alejandro Villanueva (fútbol americano),0.9983615279197692,Q16826993,Culture.Sports,7307669.0,0.0,1.0,1640.0,0.9983615279197692,Culture,Sports,Alejandro Villanueva (American football)
+920,1.0,7381775.0,Entretenimiento durante el porfiriato,0.4945416321754456,Q24961100,Geography.Regions.Americas.North_America,7381775.0,0.0,9.0,14431.0,0.0,Geography,North_America,Entertainment during the Porfiriato
+921,1.0,7398929.0,Cuerpo de élite (película),0.9841036200523376,Q24007812,Culture.Media.Media*,7398929.0,0.0,4.0,1558.0,0.9841036200523376,Culture,Media*,Elite Corps (film)
+922,1.0,7412017.0,La leyenda de Tittyshev,0.1824355274438858,Q24961301,Culture.Media.Media*,7412017.0,0.0,18.0,1540.0,0.1824355274438858,Culture,Media*,The Legend of Tittyshev
+923,5.0,7421661.0,Copa del Rey de fútbol 2016-17,0.9937201142311096,Q24073873,Culture.Sports,7421661.0,4737.014365706761,2.0,6904.0,4.968600571155548,Culture,Sports,Copa del Rey soccer 2016-17
+924,1.0,7466487.0,Christine and the Queens,0.5775054097175598,Q15838567,Culture.Media.Music,7466487.0,0.0,10.0,2991.0,0.5775054097175598,Culture,Music,Christine and the Queens
+925,1.0,7482145.0,Llovizna (película),0.9919480085372924,Q28517161,Culture.Media.Films,7482145.0,0.0,9.0,786.0,0.9919480085372924,Culture,Films,Drizzle (film)
+926,3.0,7501398.0,Hasta que te conocí (serie de televisión),0.9969346523284912,Q25212758,Culture.Media.Media*,7501398.0,3029.0,9.0,8768.0,2.9908039569854736,Culture,Media*,Until I met you (TV series)
+927,6.0,7548359.0,Copa del Rey de baloncesto 1998,0.9539760947227478,Q19870381,Culture.Sports,7548359.0,5566.761032445794,11.0,2439.0,5.723856568336487,Culture,Sports,Basketball King's Cup 1998
+928,1.0,7622561.0,Anne-Marie,0.8933194279670715,Q25396976,Culture.Media.Media*,7622561.0,0.0,10.0,2738.0,0.8933194279670715,Culture,Media*,Anne-Marie
+929,1.0,7637326.0,Supercopa de Europa 2018,0.9615437984466552,Q26897878,Culture.Sports,7637326.0,0.0,8.0,5492.0,0.9615437984466552,Culture,Sports,European Super Cup 2018
+930,2.0,7711227.0,Mayra Mendoza,0.9967369437217712,Q21856192,Culture.Biography.Biography*,7711227.0,0.0,15.0,4372.0,0.0,Culture,Biography*,Mayra Mendoza
+931,2.0,7719191.0,Serranía Celtibérica,0.4961204400062561,Q28662813,Geography.Regions.Europe.Southern_Europe,7719191.0,1724.4668609022672,2.0,1682.0,0.0,Geography,Southern_Europe,Celtiberian Mountains
+932,5.0,7721387.0,Copa del Rey de baloncesto 2006,0.9284188151359558,Q5168237,Culture.Sports,7721387.0,1537.5,11.0,3227.0,4.642094075679778,Culture,Sports,Basketball King's Cup 2006
+933,1.0,7735770.0,Final de la Copa del Rey de fútbol 2016-2017,0.9219318628311156,Q28309627,Culture.Sports,7735770.0,0.0,2.0,1416.0,0.9219318628311156,Culture,Sports,Football King's Cup Final 2016-2017
+934,2.0,7762317.0,Brasil vs. Italia (Copa Mundial de Fútbol de 1982),0.9659096002578736,Q3997253,Culture.Sports,7762317.0,19076.177430275267,18.0,5484.0,1.9318192005157475,Culture,Sports,Brazil vs. Italy (1982 Soccer World Cup)
+935,2.0,7816691.0,Caramelito Carrizo,0.9942797422409058,Q28911570,Culture.Biography.Biography*,7816691.0,1011.0000000000003,12.0,2662.0,0.0,Culture,Biography*,Carrizo Caramel
+936,3.0,7881374.0,Timeline (película),0.9963027834892272,Q1703608,Culture.Media.Media*,7881374.0,1011.0,1.0,8711.0,2.988908350467681,Culture,Media*,Timeline (film)
+937,6.0,7890206.0,Draft de la NFL de 2017,0.9996300339698792,Q25050788,Culture.Sports,7890206.0,117465.8666666674,19.0,2999.0,5.997780203819275,Culture,Sports,2017 NFL Draft
+938,2.0,7905357.0,Finales de la NBA de 2017,0.9984121918678284,Q29096468,Culture.Sports,7905357.0,1011.0,19.0,2348.0,1.9968243837356567,Culture,Sports,2017 NBA Finals
+939,1.0,7920170.0,Édouard Philippe,0.3276783227920532,Q3579995,History_and_Society.Politics_and_government,7920170.0,0.0,21.0,3178.0,0.3276783227920532,History_and_Society,Politics_and_government,Édouard Philippe
+940,9.0,7929900.0,Copa del Rey de fútbol 2017-18,0.9946250915527344,Q30061119,Culture.Sports,7929900.0,40863.09867152922,2.0,1799.0,8.95162582397461,Culture,Sports,Copa del Rey soccer 2017-18
+941,1.0,7940769.0,International Champions Cup 2017,0.9748311638832092,Q29025068,Culture.Sports,7940769.0,0.0,2.0,1883.0,0.9748311638832092,Culture,Sports,International Champions Cup 2017
+942,1.0,7965746.0,Copa del Rey de baloncesto 2002,0.9304682612419128,Q16833767,Culture.Sports,7965746.0,0.0,11.0,858.0,0.9304682612419128,Culture,Sports,Basketball King's Cup 2002
+943,10.0,7973115.0,Victoria & Abdul,0.9970290064811708,Q27701609,Culture.Media.Films,7973115.0,12606.833333333208,1.0,27081.0,9.970290064811707,Culture,Films,Victoria & Abdul
+944,1.0,7992453.0,Santiago Giménez,0.9796776771545408,Q33296979,Culture.Sports,7992453.0,0.0,2.0,1960.0,0.9796776771545408,Culture,Sports,Santiago Gimenez
+945,4.0,8010596.0,Recopa de Europa de baloncesto 1990-91,0.9284188151359558,Q5425632,Culture.Sports,8010596.0,2083.4444388311545,11.0,6451.0,3.7136752605438232,Culture,Sports,1990-91 European Cup Winners' Cup
+946,1.0,8010804.0,Socialité (programa de televisión),0.9241518378257751,Q36663147,Culture.Media.Media*,8010804.0,0.0,16.0,8581.0,0.9241518378257751,Culture,Media*,Socialité (television program)
+947,12.0,8026476.0,Copa Korać 1989-90,0.9985549449920654,Q3691737,Culture.Sports,8026476.0,1272.1319629334648,11.0,3588.0,11.982659339904785,Culture,Sports,Korać Cup 1989-90
+948,1.0,8068577.0,Golshifteh Farahani,0.9979592561721802,Q464712,Culture.Biography.Biography*,8068577.0,0.0,1.0,17506.0,0.0,Culture,Biography*,Golshifteh Farahani
+949,2.0,8079421.0,Las grietas de Jara,0.9777238368988036,Q39188958,Culture.Media.Films,8079421.0,29.0,4.0,846.0,1.9554476737976072,Culture,Films,Jara's cracks
+950,2.0,8139677.0,Carmen Lamela,0.16027602553367615,Q41528219,History_and_Society.Politics_and_government,8139677.0,2020.0,8.0,1227.0,0.3205520510673523,History_and_Society,Politics_and_government,Carmen Lamela
+951,1.0,8170433.0,Playz,0.5312193632125854,Q48789322,Culture.Media.Media*,8170433.0,0.0,2.0,1106.0,0.5312193632125854,Culture,Media*,Playz
+952,2.0,8190972.0,Uruguay en la Copa Mundial de Fútbol de 2018,0.9073222279548644,Q43196508,Culture.Sports,8190972.0,4032.0,2.0,1727.0,1.8146444559097288,Culture,Sports,Uruguay in the 2018 Soccer World Cup
+953,1.0,8208230.0,Sofía Morandi,0.1968362182378769,Q43955664,Culture.Sports,8208230.0,0.0,15.0,3379.0,0.1968362182378769,Culture,Sports,Sofia Morandi
+954,4.0,8229863.0,Giro de Italia 2018,0.9304682612419128,Q40291282,Culture.Sports,8229863.0,2309.367497607764,3.0,4059.0,3.7218730449676514,Culture,Sports,Tour of Italy 2018
+955,5.0,8281335.0,Santa Junta,0.2942249774932861,Q47008224,STEM.STEM*,8281335.0,0.6,6.0,995.0,0.0,STEM,STEM*,Holy board
+956,6.0,8294068.0,Copa del Rey de fútbol 2018-19,0.9825675487518308,Q47092788,Culture.Sports,8294068.0,24059.82658304536,2.0,6414.0,5.8954052925109846,Culture,Sports,Copa del Rey soccer 2018-19
+957,3.0,8305652.0,Vuelta a España 2018,0.9496793746948242,Q47295669,Culture.Sports,8305652.0,4109.904897714516,3.0,3629.0,2.8490381240844727,Culture,Sports,Tour of Spain 2018
+958,1.0,8341091.0,Clasificación de UEFA para la Copa Mundial de Fútbol de 2022,0.9808859825134276,Q54810034,Culture.Sports,8341091.0,0.0,18.0,2697.0,0.9808859825134276,Culture,Sports,UEFA qualification for the 2022 Soccer World Cup
+959,1.0,8359820.0,Sofi Tukker,0.754925012588501,Q22044898,Culture.Media.Media*,8359820.0,0.0,10.0,7490.0,0.754925012588501,Culture,Media*,Sofi Tukker
+960,1.0,8380416.0,Sin amor,0.9808859825134276,Q27049581,Culture.Media.Films,8380416.0,0.0,1.0,1057.0,0.9808859825134276,Culture,Films,Loveless
+961,1.0,8428451.0,Nadie nos mira,0.9939124584197998,Q50822626,Culture.Media.Media*,8428451.0,0.0,12.0,609.0,0.9939124584197998,Culture,Media*,No one looks at us
+962,2.0,8446920.0,Lucía Magdalena Ana Bravi,0.994098961353302,Q51883471,Culture.Biography.Biography*,8446920.0,270.8674825174827,12.0,2009.0,0.0,Culture,Biography*,Lucia Magdalena Ana Bravi
+963,4.0,8453355.0,Copa del Rey de baloncesto 1992,0.9706977605819702,Q25056765,Culture.Sports,8453355.0,5833.759346639566,11.0,3277.0,3.8827910423278813,Culture,Sports,Basketball King's Cup 1992
+964,1.0,8455097.0,Protestas en Nicaragua de 2018-presente,0.1778208613395691,Q20720722,History_and_Society.Politics_and_government,8455097.0,0.0,10.0,3269.0,0.1778208613395691,History_and_Society,Politics_and_government,Protests in Nicaragua from 2018-present
+965,8.0,8462937.0,Draft de la NFL de 2018,0.9995794296264648,Q28402858,Culture.Sports,8462937.0,119349.0928571436,19.0,2627.0,7.996635437011719,Culture,Sports,2018 NFL Draft
+966,1.0,8497864.0,Finales de la NBA de 2018,1.0000100135803225,Q54203445,Culture.Sports,8497864.0,0.0,19.0,2648.0,1.0000100135803225,Culture,Sports,2018 NBA Finals
+967,2.0,8597517.0,Coni Vera,0.10088862478733064,Q28465815,Culture.Media.Media*,8597517.0,2020.0,12.0,921.0,0.20177724957466128,Culture,Media*,Coni Vera
+968,1.0,8626363.0,Gladiator (película de 1992),0.9993638396263124,Q1479218,Culture.Media.Films,8626363.0,0.0,4.0,2313.0,0.9993638396263124,Culture,Films,Gladiator (1992 movie)
+969,2.0,8672113.0,Aitana (cantante),0.5775054097175598,Q50822527,Culture.Media.Media*,8672113.0,1011.0,2.0,526905.0,1.1550108194351196,Culture,Media*,Aitana (singer)
+970,1.0,8731344.0,Picture This (band),0.6150978803634644,Q27058578,Culture.Media.Media*,8731344.0,0.0,10.0,993.0,0.6150978803634644,Culture,Media*,Picture This (band)
+971,2.0,8779908.0,Joaquín Álvarez (conductor de televisión),0.2689514458179474,Q60829173,Culture.Media.Media*,8779908.0,0.0,13.0,1769.0,0.5379028916358948,Culture,Media*,Joaquín Álvarez (television host)
+972,1.0,8781412.0,Trevor Lawrence,0.9899964332580566,Q42225228,Culture.Sports,8781412.0,0.0,19.0,2134.0,0.9899964332580566,Culture,Sports,Trevor Lawrence
+973,1.0,8782931.0,Liga Premier de Bielorrusia 2019,0.9855064153671264,Q59506567,Culture.Sports,8782931.0,0.0,21.0,2446.0,0.9855064153671264,Culture,Sports,Belarusian Premier League 2019
+974,4.0,8791461.0,Ricardo Pashkus,0.9579222798347472,Q60829855,Culture.Biography.Biography*,8791461.0,3427.9365397674237,15.0,1044.0,0.0,Culture,Biography*,Ricardo Pashkus
+975,2.0,8791936.0,Más Madrid,0.8175845146179199,Q59986766,History_and_Society.Politics_and_government,8791936.0,1011.0,11.0,6883.0,1.6351690292358398,History_and_Society,Politics_and_government,More Madrid
+976,3.0,8800441.0,Actúa,0.8706072568893433,Q59867708,History_and_Society.Politics_and_government,8800441.0,2021.0,3.0,3479.0,2.61182177066803,History_and_Society,Politics_and_government,Act
+977,1.0,8823237.0,Del porfirismo a la Revolución,0.9981998205184937,Q61753401,Culture.Visual_arts.Visual_arts*,8823237.0,0.0,9.0,2664.0,0.9981998205184937,Culture,Visual_arts*,From Porfirismo to the Revolution
+978,4.0,8824745.0,Ligue 1 2019-20,0.996837317943573,Q61862323,Culture.Sports,8824745.0,6045.0,21.0,6210.0,3.987349271774292,Culture,Sports,Ligue 1 2019-20
+979,1.0,8826061.0,Salma Paralluelo,0.9814634323120116,Q61762234,Culture.Sports,8826061.0,0.0,2.0,1852.0,0.9814634323120116,Culture,Sports,Salma Paralluelo
+980,3.0,8836047.0,Final de la Copa del Rey de fútbol 2018-2019,0.952584147453308,Q55978490,Culture.Sports,8836047.0,14895.059916378796,2.0,3984.0,2.857752442359924,Culture,Sports,Football King's Cup Final 2018-2019
+981,2.0,8840375.0,Martí Galindo,0.2069040536880493,Q17148262,Culture.Media.Media*,8840375.0,1011.0,16.0,1057.0,0.4138081073760986,Culture,Media*,Martí Galindo
+982,2.0,8843683.0,Eredivisie 2019-20,0.9952548146247864,Q63987256,Culture.Sports,8843683.0,0.0,21.0,4853.0,1.9905096292495728,Culture,Sports,Eredivisie 2019-20
+983,3.0,8844482.0,Supercopa de España de Fútbol 2019-20,0.993317186832428,Q60572554,Culture.Sports,8844482.0,6036.0,2.0,2731.0,2.979951560497284,Culture,Sports,Spain Soccer Super Cup 2019-20
+984,4.0,8876197.0,Campeonato de Primera Nacional 2019-20,0.8558611869812012,Q65164932,Culture.Sports,8876197.0,2141.042720998809,20.0,2916.0,3.4234447479248047,Culture,Sports,First National Championship 2019-20
+985,2.0,8881025.0,El cuento de las comadrejas,0.9777238368988036,Q63101767,Culture.Media.Films,8881025.0,0.0,15.0,17606.0,1.9554476737976072,Culture,Films,The tale of weasels
+986,1.0,8899453.0,Paloma Tortajada,0.3775506913661957,Q63343740,Culture.Media.Media*,8899453.0,0.0,16.0,1623.0,0.3775506913661957,Culture,Media*,Tortajada Pigeon
+987,1.0,8925580.0,Jorge Buxadé,0.8080772161483765,Q55493801,History_and_Society.Politics_and_government,8925580.0,0.0,1.0,2863.0,0.8080772161483765,History_and_Society,Politics_and_government,Jorge Buxadé
+988,1.0,8930043.0,Robert Moreno,0.9263137578964232,Q63969036,Culture.Sports,8930043.0,0.0,21.0,1911.0,0.9263137578964232,Culture,Sports,Robert Moreno
+989,1.0,8931539.0,El bosque de los perros,0.9284188151359558,Q63958347,Culture.Media.Media*,8931539.0,0.0,12.0,1743.0,0.9284188151359558,Culture,Media*,The forest of the dogs
+990,1.0,8942907.0,Joan Canadell,0.989681839942932,Q61767310,Culture.Biography.Biography*,8942907.0,0.0,5.0,2702.0,0.0,Culture,Biography*,Joan Canadell
+991,1.0,8971710.0,Temporada 2019-20 de la NBA,1.0000100135803225,Q63637259,Culture.Sports,8971710.0,0.0,7.0,2844.0,1.0000100135803225,Culture,Sports,NBA 2019-20 season
+992,1.0,9030009.0,Copa de la Superliga 2020,0.91965252161026,Q66504149,Culture.Sports,9030009.0,0.0,20.0,4644.0,0.91965252161026,Culture,Sports,2020 Super League Cup
+993,4.0,9078050.0,Draft de la NFL de 2019,1.0000100135803225,Q39058215,Culture.Sports,9078050.0,297.1916666666653,19.0,4001.0,4.00004005432129,Culture,Sports,2019 NFL Draft
+994,1.0,9107491.0,Tua Tagovailoa,0.997120440006256,Q47138769,Culture.Sports,9107491.0,0.0,19.0,4660.0,0.997120440006256,Culture,Sports,Tua Tagovailoa
+995,8.0,9127756.0,Provincias de Cataluña,0.19194278120994568,Q4379648,History_and_Society.Politics_and_government,9127756.0,14264.178918508354,1.0,2789.0,1.5355422496795654,History_and_Society,Politics_and_government,Provinces of catalonia
+996,4.0,9148316.0,Celedonio y yo somos así,0.9893575310707092,Q72744969,Culture.Media.Films,9148316.0,5.5,4.0,1163.0,3.957430124282837,Culture,Films,Celedonio and I are like this
+997,3.0,9199025.0,Elizabeth Gómez Alcorta,0.9886782765388488,Q77432169,Culture.Biography.Biography*,9199025.0,8044.0,15.0,1553.0,0.0,Culture,Biography*,Elizabeth Gómez Alcorta
+998,1.0,9199027.0,Marcela Losardo,0.9553291201591492,Q77432458,Culture.Biography.Biography*,9199027.0,0.0,15.0,2108.0,0.0,Culture,Biography*,Marcela Losardo
+999,2.0,9206740.0,Final de la Copa del Rey de fútbol 2019-20,0.9924327731132508,Q78147855,Culture.Sports,9206740.0,13999.059916378808,2.0,1943.0,1.9848655462265017,Culture,Sports,Final of the Copa del Rey soccer 2019-20
+1000,3.0,9209131.0,Lamar Jackson,0.9916942119598388,Q24809702,Culture.Sports,9209131.0,749.69404761904,19.0,2340.0,2.975082635879516,Culture,Sports,Lamar Jackson
+1001,4.0,9213076.0,Liga de Campeones de la UEFA 2020-21,0.9790457487106324,Q63088790,Culture.Sports,9213076.0,3029.0,21.0,3481.0,3.9161829948425297,Culture,Sports,2020-21 UEFA Champions League
+1002,1.0,9218880.0,Angèle,0.4532718360424042,Q45192617,Culture.Media.Media*,9218880.0,0.0,10.0,2082.0,0.4532718360424042,Culture,Media*,Angèle
+1003,6.0,9231898.0,Joe Burrow,0.9926641583442688,Q56860229,Culture.Sports,9231898.0,1627.3785714285614,19.0,6443.0,5.955984950065613,Culture,Sports,Joe Burrow
+1004,3.0,9300509.0,Chase Young,0.9919480085372924,Q65029655,Culture.Sports,9300509.0,2.2928571428571427,19.0,1632.0,2.975844025611877,Culture,Sports,Chase young
+1005,13.0,9375720.0,Together at Home,0.994455099105835,Q90954988,Culture.Media.Media*,9375720.0,33663.0,10.0,4099.0,12.927916288375854,Culture,Media*,Together at Home
+1006,1.0,9376162.0,El último baile,0.812877357006073,Q85807688,Culture.Media.Television,9376162.0,0.0,7.0,3187.0,0.812877357006073,Culture,Television,The last Dance
+1007,3.0,9382035.0,Luz Pozo Garza,0.4225146472454071,Q11934305,Culture.Literature,9382035.0,3029.0,2.0,4832.0,1.267543941736221,Culture,Literature,Garza Well Light
+1008,1.0,9384038.0,Los internacionales,0.8519628047943115,Q97125933,Culture.Media.Television,9384038.0,0.0,12.0,4821.0,0.8519628047943115,Culture,Television,Internationals
+1009,8.0,9386500.0,Draft de la NFL de 2020,1.0000100135803225,Q55602672,Culture.Sports,9386500.0,2966.010714285698,19.0,5005.0,8.00008010864258,Culture,Sports,2020 NFL Draft
+1010,1.0,9387500.0,El silencio del pantano,0.998142421245575,Q91715234,Culture.Media.Films,9387500.0,0.0,16.0,13468.0,0.998142421245575,Culture,Films,The silence of the swamp
+1011,2.0,9388823.0,Ovejas negras,0.9777238368988036,Q67326765,Culture.Media.Media*,9388823.0,2.0,4.0,807.0,1.9554476737976072,Culture,Media*,Black sheep
+1012,6.0,9392169.0,Jerry Krause,0.9416641592979432,Q1607503,Culture.Sports,9392169.0,2280.6477369943104,7.0,12266.0,5.64998495578766,Culture,Sports,Jerry krause
