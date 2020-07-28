@@ -44,7 +44,7 @@ To compute the whole pipeline from a graph with the **name and folder path in th
 $ python main.py EN 20200316 20200331
 ```
 
-The pipeline can also be computed partially. To do that, specify the optional parameter from 1 to 6 to run only a part of the pipeline corresponding to the features described in the table below:
+The pipeline can also be computed partially. To do that, specify the optional parameter from 1 to 7 to run only a part of the pipeline corresponding to the features described in the table below:
 
 ```bash
 $ python main.py EN 20200316 20200331 1
