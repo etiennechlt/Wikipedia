@@ -18,7 +18,7 @@ Python topic detection module for [SparkWiki](https://github.com/epfl-lts2/spark
   ```bash
   $ pip install python-louvain
   ```
-* [Googletrans](https://github.com/ssut/py-googletrans) (Optional)
+* [googletrans](https://github.com/ssut/py-googletrans) (Optional)
   ```bash
   $ pip install googletrans
   ```
