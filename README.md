@@ -18,6 +18,10 @@ Python topic detection module for [SparkWiki](https://github.com/epfl-lts2/spark
   ```bash
   $ pip install python-louvain
   ```
+* [Googletrans](https://github.com/ssut/py-googletrans) (Optional)
+  ```bash
+  $ pip install googletrans
+  ```
 
 ##### Wikipedia graph
 Get the graph from [SparkWiki projet](https://github.com/epfl-lts2/sparkwiki) using [PeakFinder](https://github.com/epfl-lts2/sparkwiki/blob/master/src/main/scala/ch/epfl/lts2/wikipedia/PeakFinder.scala) module.
@@ -55,6 +59,7 @@ $ python main.py EN 20200316 20200331 1
 |           `4`          | Match pageviews                                            |
 |           `5`          | Save graph attributes                                      |
 |           `6`          | Give topics repartition per cluster                        |
+|           `7`          | Translate labels into English                              |
 
 Alternatively, one can run the `Topics_exctraction.ipynb` notebook. The notebook also includes the code generating visualisations.
 
@@ -69,7 +74,7 @@ In order to explore the detected topics, the graph can be visualized in [Gephi](
 
 
 ## Tests
-Wikipedia graphs of trending pages are available in `Python/Result` for 16/08/2018 to 31/12/2018 and 17/12/2019 to 15/04/2020 periods for EN, FR, RU languages.
+Wikipedia graphs of trending pages are available in `Python/Result` for 16/08/2018 to 31/12/2018 and 17/12/2019 to 15/04/2020 periods for DE, EN, ES, FR, IT, RU, ZH languages.
 
 The notebook `Topic_comparison.ipynb` gives a topic comparaison between EN, FR, RU languages. The figures are saved in `Python/Comparison_figures`.
 
@@ -94,3 +99,5 @@ Wikipedia trending topics detection: [SparkWiki](https://github.com/epfl-lts2/sp
 Clustering of trending pages: [Community detection](https://github.com/taynaud/python-louvain)
 
 Topic classification model: [Language-Agnostic Topic Classification](https://github.com/geohci/wikidata-topic-model)
+
+Labels translation: [Googletrans](https://github.com/ssut/py-googletrans)
